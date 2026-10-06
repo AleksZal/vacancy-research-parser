@@ -1,0 +1,11 @@
+{
+  "offline_backup_only": true,
+  "network_requests": 0,
+  "live_checkpoint_writes": 0,
+  "preserved_full_cards": 16775,
+  "preserved_card_contents": true,
+  "preserved_detail_tasks": 16835,
+  "additional_pending_searches": 2214,
+  "first_new_route": "focus:drones:реактивные БПЛА",
+  "all_new_searches": 2321
+}

@@ -1,0 +1,27 @@
+{
+  "full_cards_checked": 20075,
+  "export_fields_checked": 39,
+  "duplicate_source_ids": 0,
+  "employer_profiles": 4718,
+  "cards_without_employer_id": 40,
+  "schema_tables": [
+    "employer_profiles",
+    "vacancies",
+    "vacancy_routes",
+    "html_snapshots",
+    "companies",
+    "employer_company_matches",
+    "vacancy_company_matches"
+  ],
+  "checks": [
+    "all 39 fields preserved",
+    "export view column order matches configuration",
+    "unique canonical HH vacancy IDs",
+    "required fields present",
+    "timezone-aware timestamps",
+    "salary numeric bounds and nullable boolean compatible"
+  ],
+  "postgresql_execution": "not run: no PostgreSQL server/client available; field/data compatibility checks only",
+  "collector_modified": false,
+  "data_imported": false
+}

@@ -1,0 +1,5492 @@
+[
+  {
+    "gur_id": "16",
+    "gur_name": "ГОСУДАРСТВЕННАЯ КОРПОРАЦИЯ ПО СОДЕЙСТВИЮ РАЗРАБОТКЕ, ПРОИЗВОДСТВУ И ЭКСПОРТУ ВЫСОКОТЕХНОЛОГИЧНОЙ ПРОМЫШЛЕННОЙ ПРОДУКЦИИ \"РОСТЕХ\"",
+    "gur_short_name": "ГОСУДАРСТВЕННАЯ КОРПОРАЦИЯ \"РОСТЕХ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/16",
+    "hh_id": "219911",
+    "hh_names": [
+      "Государственная корпорация Ростех"
+    ],
+    "regions": [
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "136775613",
+      "137122680"
+    ],
+    "normalized_match": "государственнаякорпорацияростех",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/219911",
+    "hh_website": "http://www.rostec.ru",
+    "hh_snapshot_observed_at": "2026-10-04T21:13:20.561870+00:00",
+    "hh_snapshot_vacancy_id": "136775613",
+    "gur_inn": "7704274402",
+    "gur_ogrn": "1077799030847",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3371",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"УРАЛЬСКИЙ ПРИБОРОСТРОИТЕЛЬНЫЙ ЗАВОД\"",
+    "gur_short_name": "АО \"УПЗ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3371",
+    "hh_id": "48591",
+    "hh_names": [
+      "Уральский приборостроительный завод"
+    ],
+    "regions": [
+      "Екатеринбург",
+      "Сысерть"
+    ],
+    "sample_vacancy_ids": [
+      "136815545",
+      "137410335",
+      "137840896"
+    ],
+    "normalized_match": "уральскийприборостроительныйзавод",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/48591",
+    "hh_website": "http://www.upz.ru",
+    "hh_snapshot_observed_at": "2026-10-05T08:03:08.986079+00:00",
+    "hh_snapshot_vacancy_id": "136815545",
+    "gur_inn": "6660000400",
+    "gur_ogrn": "1026604954023",
+    "matching_evidence_urls": [
+      "https://upz.ru/about/"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "3497",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РАМЕНСКИЙ ПРИБОРОСТРОИТЕЛЬНЫЙ ЗАВОД\"",
+    "gur_short_name": "АО \"РПЗ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3497",
+    "hh_id": "1713784",
+    "hh_names": [
+      "Раменский приборостроительный завод"
+    ],
+    "regions": [
+      "Раменское (Московская область)"
+    ],
+    "sample_vacancy_ids": [
+      "137935187",
+      "138014991",
+      "137920455"
+    ],
+    "normalized_match": "раменскийприборостроительныйзавод",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1713784",
+    "hh_website": "http://rpz.kret.com",
+    "hh_snapshot_observed_at": "2026-10-05T08:57:29.219244+00:00",
+    "hh_snapshot_vacancy_id": "137935187",
+    "gur_inn": "5040001426",
+    "gur_ogrn": "1025005116839",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3522",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ АВИАЦИОННОГО ОБОРУДОВАНИЯ\"",
+    "gur_short_name": "АО \"НИИАО\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3522",
+    "hh_id": "9845334",
+    "hh_names": [
+      "Научно-Исследовательский Институт Авиационного Оборудования"
+    ],
+    "regions": [
+      "Жуковский  (Московская область)"
+    ],
+    "sample_vacancy_ids": [
+      "137249870"
+    ],
+    "normalized_match": "научноисследовательскийинститутавиационногооборудования",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/9845334",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T09:26:50.190085+00:00",
+    "hh_snapshot_vacancy_id": "137249870",
+    "gur_inn": "5040106669",
+    "gur_ogrn": "1115040005277",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "782",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ПРИБОРОСТРОЕНИЯ ИМЕНИ В.В. ТИХОМИРОВА\"",
+    "gur_short_name": "АО \"НИИП ИМЕНИ В.В. ТИХОМИРОВА\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/782",
+    "hh_id": "8942210",
+    "hh_names": [
+      "НИИП имени В.В.Тихомирова"
+    ],
+    "regions": [
+      "Жуковский  (Московская область)"
+    ],
+    "sample_vacancy_ids": [
+      "137444371"
+    ],
+    "normalized_match": "ниипимениввтихомирова",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/8942210",
+    "hh_website": "http://www.niip.ru",
+    "hh_snapshot_observed_at": "2026-10-05T09:15:57.050037+00:00",
+    "hh_snapshot_vacancy_id": "137444371",
+    "gur_inn": "5013045054",
+    "gur_ogrn": "1025001627859",
+    "matching_evidence_urls": [
+      "https://www.niip.ru/"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "3492",
+    "gur_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"АВАНГАРД\"",
+    "gur_short_name": "ОАО \"АВАНГАРД\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3492",
+    "hh_id": "10281799",
+    "hh_names": [
+      "Авангард"
+    ],
+    "regions": [
+      "Абакан"
+    ],
+    "sample_vacancy_ids": [
+      "137411027"
+    ],
+    "normalized_match": "авангард",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/10281799",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T14:02:53.646720+00:00",
+    "hh_snapshot_vacancy_id": "137411027",
+    "gur_inn": "7804001110",
+    "gur_ogrn": "1027802483070",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3492",
+    "gur_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"АВАНГАРД\"",
+    "gur_short_name": "ОАО \"АВАНГАРД\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3492",
+    "hh_id": "2760967",
+    "hh_names": [
+      "АВАНГАРД, ФКП"
+    ],
+    "regions": [
+      "Стерлитамак"
+    ],
+    "sample_vacancy_ids": [
+      "137308746"
+    ],
+    "normalized_match": "авангард",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/2760967",
+    "hh_website": "http://avangard-fkp.ru/",
+    "hh_snapshot_observed_at": "2026-10-05T12:42:38.620855+00:00",
+    "hh_snapshot_vacancy_id": "137308746",
+    "gur_inn": "7804001110",
+    "gur_ogrn": "1027802483070",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3498",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РАДИОПРИБОРСНАБ\"",
+    "gur_short_name": "АО \"РАДИОПРИБОРСНАБ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3498",
+    "hh_id": "859846",
+    "hh_names": [
+      "Радиоприборснаб"
+    ],
+    "regions": [
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "137600150"
+    ],
+    "normalized_match": "радиоприборснаб",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/859846",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-04T21:26:59.593881+00:00",
+    "hh_snapshot_vacancy_id": "137600150",
+    "gur_inn": "7731631438",
+    "gur_ogrn": "1097746424181",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3494",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"УФИМСКОЕ ПРИБОРОСТРОИТЕЛЬНОЕ ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ\"",
+    "gur_short_name": "АО \"УППО\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3494",
+    "hh_id": "1216580",
+    "hh_names": [
+      "Уфимское приборостроительное производственное объединение"
+    ],
+    "regions": [
+      "Уфа"
+    ],
+    "sample_vacancy_ids": [
+      "137836809"
+    ],
+    "normalized_match": "уфимскоеприборостроительноепроизводственноеобъединение",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/1216580",
+    "hh_website": "https://uppo.ru",
+    "hh_snapshot_observed_at": "2026-10-05T08:28:08.396209+00:00",
+    "hh_snapshot_vacancy_id": "137836809",
+    "gur_inn": "276140862",
+    "gur_ogrn": "1120280026130",
+    "matching_evidence_urls": [
+      "https://uppo.ru/",
+      "https://uppo.ru/product/izdeliya-v-oblasti-elektrozaryadnoy-infrastruktury/mnogokanalnaya-zaryadnaya-stantsiya-dlya-akb-bpla/#desc"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "3513",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"КАЛУЖСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ РАДИОТЕХНИЧЕСКИЙ ИНСТИТУТ\"",
+    "gur_short_name": "АО \"КНИРТИ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3513",
+    "hh_id": "10215628",
+    "hh_names": [
+      "КНИРТИ"
+    ],
+    "regions": [
+      "Жуков",
+      "Обнинск"
+    ],
+    "sample_vacancy_ids": [
+      "137842321",
+      "137842322",
+      "137841049"
+    ],
+    "normalized_match": "книрти",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/10215628",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T08:27:17.790620+00:00",
+    "hh_snapshot_vacancy_id": "137842321",
+    "gur_inn": "4007017378",
+    "gur_ogrn": "1124011001058",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3369",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"УЛЬЯНОВСКОЕ КОНСТРУКТОРСКОЕ БЮРО ПРИБОРОСТРОЕНИЯ\"",
+    "gur_short_name": "АО \"УКБП\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3369",
+    "hh_id": "1922090",
+    "hh_names": [
+      "Ульяновское конструкторское бюро приборостроения"
+    ],
+    "regions": [
+      "Ульяновск"
+    ],
+    "sample_vacancy_ids": [
+      "137960123",
+      "138102272",
+      "137084750"
+    ],
+    "normalized_match": "ульяновскоеконструкторскоебюроприборостроения",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1922090",
+    "hh_website": "http://www.ukbp.ru",
+    "hh_snapshot_observed_at": "2026-10-05T09:27:13.668603+00:00",
+    "hh_snapshot_vacancy_id": "137960123",
+    "gur_inn": "7303005071",
+    "gur_ogrn": "1027301160798",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3506",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"АЭРОПРИБОР-ВОСХОД\"",
+    "gur_short_name": "АО \"АП ВОСХОД\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3506",
+    "hh_id": "973282",
+    "hh_names": [
+      "Аэроприбор-Восход"
+    ],
+    "regions": [
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "137576593",
+      "137863192"
+    ],
+    "normalized_match": "аэроприборвосход",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/973282",
+    "hh_website": "http://www.aeropribor.ru",
+    "hh_snapshot_observed_at": "2026-10-05T08:03:41.885000+00:00",
+    "hh_snapshot_vacancy_id": "137576593",
+    "gur_inn": "7719021450",
+    "gur_ogrn": "1037700038254",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3490",
+    "gur_name": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"МОСКОВСКИЙ ИНСТИТУТ ЭЛЕКТРОМЕХАНИКИ И АВТОМАТИКИ\"",
+    "gur_short_name": "ПАО \"МИЭА\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3490",
+    "hh_id": "1747330",
+    "hh_names": [
+      "Московский институт электромеханики и автоматики"
+    ],
+    "regions": [
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "137491673",
+      "118766704",
+      "118768997"
+    ],
+    "normalized_match": "московскийинститутэлектромеханикииавтоматики",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1747330",
+    "hh_website": "http://aomiea.ru",
+    "hh_snapshot_observed_at": "2026-10-05T08:02:44.789216+00:00",
+    "hh_snapshot_vacancy_id": "137491673",
+    "gur_inn": "7714025469",
+    "gur_ogrn": "1027739201951",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3377",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РАДИОПРИБОР\"",
+    "gur_short_name": "АО \"РАДИОПРИБОР\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3377",
+    "hh_id": "12932216",
+    "hh_names": [
+      "Радиоприбор"
+    ],
+    "regions": [
+      "Тамбов"
+    ],
+    "sample_vacancy_ids": [
+      "137254813"
+    ],
+    "normalized_match": "радиоприбор",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/12932216",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T11:26:49.535934+00:00",
+    "hh_snapshot_vacancy_id": "137254813",
+    "gur_inn": "1659034109",
+    "gur_ogrn": "1021603465850",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3489",
+    "gur_name": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СТАВРОПОЛЬСКИЙ РАДИОЗАВОД \"СИГНАЛ\"",
+    "gur_short_name": "ПАО \"СИГНАЛ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3489",
+    "hh_id": "2797558",
+    "hh_names": [
+      "Сигнал"
+    ],
+    "regions": [
+      "Ставрополь"
+    ],
+    "sample_vacancy_ids": [
+      "137430511",
+      "137495620",
+      "137430120"
+    ],
+    "normalized_match": "сигнал",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/2797558",
+    "hh_website": "http://www.signalrp.ru",
+    "hh_snapshot_observed_at": "2026-10-05T10:15:50.297047+00:00",
+    "hh_snapshot_vacancy_id": "137430511",
+    "gur_inn": "2635000092",
+    "gur_ogrn": "1022601930537",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3489",
+    "gur_name": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО СТАВРОПОЛЬСКИЙ РАДИОЗАВОД \"СИГНАЛ\"",
+    "gur_short_name": "ПАО \"СИГНАЛ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3489",
+    "hh_id": "2249405",
+    "hh_names": [
+      "Сигнал"
+    ],
+    "regions": [
+      "Челябинск"
+    ],
+    "sample_vacancy_ids": [
+      "134779375",
+      "137568524",
+      "134239982"
+    ],
+    "normalized_match": "сигнал",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/2249405",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T08:01:37.357831+00:00",
+    "hh_snapshot_vacancy_id": "134779375",
+    "gur_inn": "2635000092",
+    "gur_ogrn": "1022601930537",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3488",
+    "gur_name": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТЕХПРИБОР\"",
+    "gur_short_name": "ПАО \"ТЕХПРИБОР\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3488",
+    "hh_id": "1388752",
+    "hh_names": [
+      "Техприбор"
+    ],
+    "regions": [
+      "Санкт-Петербург"
+    ],
+    "sample_vacancy_ids": [
+      "133728174",
+      "136688459",
+      "137635745"
+    ],
+    "normalized_match": "техприбор",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1388752",
+    "hh_website": "https://techpribor.kret.com",
+    "hh_snapshot_observed_at": "2026-10-04T21:14:14.682203+00:00",
+    "hh_snapshot_vacancy_id": "133728174",
+    "gur_inn": "7810237177",
+    "gur_ogrn": "1027804916633",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3508",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ВСЕРОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ \"ГРАДИЕНТ\"",
+    "gur_short_name": "АО \"ВНИИ \"ГРАДИЕНТ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3508",
+    "hh_id": "3345106",
+    "hh_names": [
+      "Всероссийский научно-исследовательский институт Градиент"
+    ],
+    "regions": [
+      "Анапа",
+      "Старотитаровская"
+    ],
+    "sample_vacancy_ids": [
+      "135439669",
+      "135439885"
+    ],
+    "normalized_match": "всероссийскийнаучноисследовательскийинститутградиент",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/3345106",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T13:41:14.462966+00:00",
+    "hh_snapshot_vacancy_id": "135439669",
+    "gur_inn": "6163111477",
+    "gur_ogrn": "1116195013934",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "9455",
+    "gur_name": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТАМБОВСКИЙ ЗАВОД \"ЭЛЕКТРОПРИБОР\"",
+    "gur_short_name": "ПАО \"ЭЛЕКТРОПРИБОР\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/9455",
+    "hh_id": "2714841",
+    "hh_names": [
+      "Тамбовский завод Электроприбор"
+    ],
+    "regions": [
+      "Москва",
+      "Тамбов"
+    ],
+    "sample_vacancy_ids": [
+      "138013082",
+      "138013068",
+      "133807724"
+    ],
+    "normalized_match": "тамбовскийзаводэлектроприбор",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/2714841",
+    "hh_website": "https://rabota.elektmb.ru/",
+    "hh_snapshot_observed_at": "2026-10-05T08:57:33.709654+00:00",
+    "hh_snapshot_vacancy_id": "138013082",
+    "gur_inn": "6829000109",
+    "gur_ogrn": "1026801225296",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "16330",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"УЛАН-УДЭНСКОЕ ПРИБОРОСТРОИТЕЛЬНОЕ ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ\"",
+    "gur_short_name": "АО \"У-У ППО\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/16330",
+    "hh_id": "2237651",
+    "hh_names": [
+      "Улан-Удэнское приборостроительное производственное объединение"
+    ],
+    "regions": [
+      "Улан-Удэ"
+    ],
+    "sample_vacancy_ids": [
+      "135000737",
+      "135000709",
+      "136883829"
+    ],
+    "normalized_match": "уланудэнскоеприборостроительноепроизводственноеобъединение",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/2237651",
+    "hh_website": "http://www.uuppo.ru",
+    "hh_snapshot_observed_at": "2026-10-05T08:47:05.478114+00:00",
+    "hh_snapshot_vacancy_id": "135000737",
+    "gur_inn": "0323053578",
+    "gur_ogrn": "1020300971096",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "707",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РАМЕНСКОЕ ПРИБОРОСТРОИТЕЛЬНОЕ КОНСТРУКТОРСКОЕ БЮРО\"",
+    "gur_short_name": "АО \"РПКБ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/707",
+    "hh_id": "830807",
+    "hh_names": [
+      "Раменское Приборостроительное Конструкторское Бюро"
+    ],
+    "regions": [
+      "Раменское (Московская область)"
+    ],
+    "sample_vacancy_ids": [
+      "137920902",
+      "137915969"
+    ],
+    "normalized_match": "раменскоеприборостроительноеконструкторскоебюро",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/830807",
+    "hh_website": "http://rpkb.ru",
+    "hh_snapshot_observed_at": "2026-10-05T07:29:14.392724+00:00",
+    "hh_snapshot_vacancy_id": "137920902",
+    "gur_inn": "5040007594",
+    "gur_ogrn": "1025005118830",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3517",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"КОРПОРАЦИЯ \"ФАЗОТРОН - НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ РАДИОСТРОЕНИЯ\"",
+    "gur_short_name": "АО \"КОРПОРАЦИЯ \"ФАЗОТРОН-НИИР\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3517",
+    "hh_id": "220102",
+    "hh_names": [
+      "Корпорация Фазотрон-НИИР"
+    ],
+    "regions": [
+      "Москва",
+      "Рязань"
+    ],
+    "sample_vacancy_ids": [
+      "137705575",
+      "137438567",
+      "137754374"
+    ],
+    "normalized_match": "корпорацияфазотронниир",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/220102",
+    "hh_website": "http://phazotron.com",
+    "hh_snapshot_observed_at": "2026-10-05T08:02:22.739313+00:00",
+    "hh_snapshot_vacancy_id": "137705575",
+    "gur_inn": "7710037914",
+    "gur_ogrn": "1027700069902",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "11747",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ИНЕРЦИАЛЬНЫЕ ТЕХНОЛОГИИ \"ТЕХНОКОМПЛЕКСА\"",
+    "gur_short_name": "АО \"ИТТ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/11747",
+    "hh_id": "662701",
+    "hh_names": [
+      "Инерциальные технологии Технокомплекса"
+    ],
+    "regions": [
+      "Раменское (Московская область)"
+    ],
+    "sample_vacancy_ids": [
+      "137788224"
+    ],
+    "normalized_match": "инерциальныетехнологиитехнокомплекса",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/662701",
+    "hh_website": "http://www.inertech.ru",
+    "hh_snapshot_observed_at": "2026-10-05T11:21:45.553206+00:00",
+    "hh_snapshot_vacancy_id": "137788224",
+    "gur_inn": "5040065525",
+    "gur_ogrn": "1055007507895",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3521",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ \"ЭКРАН\"",
+    "gur_short_name": "АО \"НИИ \"ЭКРАН\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3521",
+    "hh_id": "1706067",
+    "hh_names": [
+      "Научно-исследовательский институт Экран"
+    ],
+    "regions": [
+      "Жигулевск"
+    ],
+    "sample_vacancy_ids": [
+      "134737580"
+    ],
+    "normalized_match": "научноисследовательскийинститутэкран",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1706067",
+    "hh_website": "http://niiekran.ru/",
+    "hh_snapshot_observed_at": "2026-10-05T08:01:07.766349+00:00",
+    "hh_snapshot_vacancy_id": "134737580",
+    "gur_inn": "6319169796",
+    "gur_ogrn": "1136319002731",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "167",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ОБЪЕДИНЕННАЯ ПРИБОРОСТРОИТЕЛЬНАЯ КОРПОРАЦИЯ\"",
+    "gur_short_name": "АО \"ОПК\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/167",
+    "hh_id": "1259396",
+    "hh_names": [
+      "ОПК"
+    ],
+    "regions": [
+      "Санкт-Петербург"
+    ],
+    "sample_vacancy_ids": [
+      "137414544"
+    ],
+    "normalized_match": "опк",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1259396",
+    "hh_website": "http://www.opk.spb.ru",
+    "hh_snapshot_observed_at": "2026-10-05T12:44:55.040791+00:00",
+    "hh_snapshot_vacancy_id": "137414544",
+    "gur_inn": "7704859803",
+    "gur_ogrn": "1147746324340",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "167",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ОБЪЕДИНЕННАЯ ПРИБОРОСТРОИТЕЛЬНАЯ КОРПОРАЦИЯ\"",
+    "gur_short_name": "АО \"ОПК\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/167",
+    "hh_id": "12935079",
+    "hh_names": [
+      "ОПК"
+    ],
+    "regions": [
+      "Абакан",
+      "Барнаул",
+      "Владивосток",
+      "Волгоград",
+      "Воронеж",
+      "Горно-Алтайск",
+      "Екатеринбург",
+      "Ижевск",
+      "Иркутск",
+      "Казань",
+      "Кемерово",
+      "Краснодар",
+      "Красноярск",
+      "Ленинск-Кузнецкий",
+      "Москва",
+      "Мурманск",
+      "Нижний Новгород",
+      "Новокузнецк",
+      "Новосибирск",
+      "Омск",
+      "Оренбург",
+      "Первоуральск",
+      "Пермь",
+      "Петрозаводск",
+      "Ростов-на-Дону",
+      "Самара",
+      "Санкт-Петербург",
+      "Саратов",
+      "Смоленск",
+      "Стерлитамак",
+      "Сургут",
+      "Тверь",
+      "Тольятти",
+      "Томск",
+      "Тюмень",
+      "Улан-Удэ",
+      "Уфа",
+      "Хабаровск",
+      "Ханты-Мансийск",
+      "Челябинск",
+      "Чита",
+      "Якутск",
+      "Ярославль"
+    ],
+    "sample_vacancy_ids": [
+      "137807692",
+      "137807658",
+      "137806755"
+    ],
+    "normalized_match": "опк",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/12935079",
+    "hh_website": "http://opkkadry.ru",
+    "hh_snapshot_observed_at": "2026-10-05T09:13:03.063028+00:00",
+    "hh_snapshot_vacancy_id": "137807692",
+    "gur_inn": "7704859803",
+    "gur_ogrn": "1147746324340",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "5705",
+    "gur_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"УПРАВЛЯЮЩАЯ КОМПАНИЯ \"ВЕРЕЙСКАЯ 29\"",
+    "gur_short_name": "ООО \"УК \"ВЕРЕЙСКАЯ 29\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/5705",
+    "hh_id": "9659980",
+    "hh_names": [
+      "УК Верейская 29"
+    ],
+    "regions": [
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "137314680"
+    ],
+    "normalized_match": "укверейская29",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/9659980",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T08:57:19.942340+00:00",
+    "hh_snapshot_vacancy_id": "137314680",
+    "gur_inn": "7731564527",
+    "gur_ogrn": "5077746418778",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "16292",
+    "gur_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"МНОГОПРОФИЛЬНОЕ ПРОИЗВОДСТВЕННОЕ ПРЕДПРИЯТИЕ\"",
+    "gur_short_name": "ООО \"МПП\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/16292",
+    "hh_id": "10912557",
+    "hh_names": [
+      "Многопрофильное Производственное предприятие"
+    ],
+    "regions": [
+      "Долгопрудный (Московская область)",
+      "Зеленоград",
+      "Лобня (Московская область)",
+      "Москва",
+      "Мытищи (Московская область)",
+      "Химки (Московская область)"
+    ],
+    "sample_vacancy_ids": [
+      "137788226",
+      "137788228",
+      "137788227"
+    ],
+    "normalized_match": "многопрофильноепроизводственноепредприятие",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/10912557",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T08:03:02.264699+00:00",
+    "hh_snapshot_vacancy_id": "137788226",
+    "gur_inn": "7805311114",
+    "gur_ogrn": "1157847120551",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "5920",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ АНГСТРЕМ\"",
+    "gur_short_name": "АО \"НПО АНГСТРЕМ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/5920",
+    "hh_id": "1395186",
+    "hh_names": [
+      "НПО АНГСТРЕМ"
+    ],
+    "regions": [
+      "Зеленоград",
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "137193366",
+      "137630009",
+      "137680209"
+    ],
+    "normalized_match": "нпоангстрем",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1395186",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T07:54:25.188893+00:00",
+    "hh_snapshot_vacancy_id": "137193366",
+    "gur_inn": "7735575858",
+    "gur_ogrn": "1117746142502",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "354",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ПРОИЗВОДСТВЕННОЕ ПРЕДПРИЯТИЕ \"ИСТОК\" ИМЕНИ А. И. ШОКИНА\"",
+    "gur_short_name": "АО \"НПП \"ИСТОК\" ИМ. ШОКИНА\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/354",
+    "hh_id": "1750736",
+    "hh_names": [
+      "НПП Исток им. Шокина"
+    ],
+    "regions": [
+      "Москва",
+      "Мытищи (Московская область)",
+      "Фрязино (Московская область)"
+    ],
+    "sample_vacancy_ids": [
+      "137995106",
+      "137995075",
+      "137681477"
+    ],
+    "normalized_match": "нппистокимшокина",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/1750736",
+    "hh_website": "https://istokmw.ru/?ysclid=m9cwpx82qi47504439",
+    "hh_snapshot_observed_at": "2026-10-05T08:47:48.010181+00:00",
+    "hh_snapshot_vacancy_id": "137995106",
+    "gur_inn": "5050108496",
+    "gur_ogrn": "1135050007400",
+    "matching_evidence_urls": [
+      "https://istokmw.ru/about-us/general-information/"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "16296",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЦЕНТРАЛЬНЫЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭКОНОМИКИ, СИСТЕМ УПРАВЛЕНИЯ И ИНФОРМАЦИИ \"ЭЛЕКТРОНИКА\"",
+    "gur_short_name": "АО \"ЦНИИ \"ЭЛЕКТРОНИКА\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/16296",
+    "hh_id": "1679097",
+    "hh_names": [
+      "ЦНИИ Электроника"
+    ],
+    "regions": [
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "137441779"
+    ],
+    "normalized_match": "цнииэлектроника",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1679097",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T12:51:34.109786+00:00",
+    "hh_snapshot_vacancy_id": "137441779",
+    "gur_inn": "7729033871",
+    "gur_ogrn": "1027739065617",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "2503",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ \"ФЕРРИТ-ДОМЕН\"",
+    "gur_short_name": "АО \"НИИ \"ФЕРРИТ-ДОМЕН\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/2503",
+    "hh_id": "1047733",
+    "hh_names": [
+      "НИИ Феррит-Домен"
+    ],
+    "regions": [
+      "Санкт-Петербург"
+    ],
+    "sample_vacancy_ids": [
+      "137512282",
+      "134537571",
+      "137581657"
+    ],
+    "normalized_match": "нииферритдомен",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1047733",
+    "hh_website": "http://www.domen.ru",
+    "hh_snapshot_observed_at": "2026-10-05T07:55:23.242509+00:00",
+    "hh_snapshot_vacancy_id": "137512282",
+    "gur_inn": "7810245940",
+    "gur_ogrn": "1037821019631",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3631",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НОВОСИБИРСКИЙ ЗАВОД РАДИОДЕТАЛЕЙ \"ОКСИД\"",
+    "gur_short_name": "АО \"НЗР \"ОКСИД\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3631",
+    "hh_id": "11263788",
+    "hh_names": [
+      "Новосибирский завод радиодеталей Оксид"
+    ],
+    "regions": [
+      "Новосибирск"
+    ],
+    "sample_vacancy_ids": [
+      "137512268",
+      "137469511"
+    ],
+    "normalized_match": "новосибирскийзаводрадиодеталейоксид",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/11263788",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T08:56:37.965051+00:00",
+    "hh_snapshot_vacancy_id": "137512268",
+    "gur_inn": "5405441299",
+    "gur_ogrn": "1115476107570",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "2460",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ДОЛГОПРУДНЕНСКОЕ КОНСТРУКТОРСКОЕ БЮРО АВТОМАТИКИ\"",
+    "gur_short_name": "АО \"ДКБА\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/2460",
+    "hh_id": "544263",
+    "hh_names": [
+      "ДКБА"
+    ],
+    "regions": [
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "137335553",
+      "137780494",
+      "137336795"
+    ],
+    "normalized_match": "дкба",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/544263",
+    "hh_website": "http://dkba.ru",
+    "hh_snapshot_observed_at": "2026-10-05T10:32:19.066320+00:00",
+    "hh_snapshot_vacancy_id": "137335553",
+    "gur_inn": "5008058393",
+    "gur_ogrn": "1125047004873",
+    "matching_evidence_urls": [
+      "https://www.dkba.ru/news/ao-dkba-peredajot-meteotenty-dlya-ispolzovaniya-v-zone-svo"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "3614",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ПОЛУПРОВОДНИКОВЫХ ПРИБОРОВ\"",
+    "gur_short_name": "АО \"НИИПП\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3614",
+    "hh_id": "1066567",
+    "hh_names": [
+      "Научно-исследовательский институт полупроводниковых приборов"
+    ],
+    "regions": [
+      "Томск"
+    ],
+    "sample_vacancy_ids": [
+      "136763770",
+      "137898149",
+      "137989003"
+    ],
+    "normalized_match": "научноисследовательскийинститутполупроводниковыхприборов",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/1066567",
+    "hh_website": "http://niipp.ru",
+    "hh_snapshot_observed_at": "2026-10-04T21:25:50.396383+00:00",
+    "hh_snapshot_vacancy_id": "136763770",
+    "gur_inn": "7017084932",
+    "gur_ogrn": "1037000170690",
+    "matching_evidence_urls": [
+      "https://www.niipp.ru/"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "2497",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ПРОИЗВОДСТВЕННОЕ ПРЕДПРИЯТИЕ \"САЛЮТ\"",
+    "gur_short_name": "АО \"НПП \"САЛЮТ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/2497",
+    "hh_id": "1963957",
+    "hh_names": [
+      "НПП Салют"
+    ],
+    "regions": [
+      "Нижний Новгород"
+    ],
+    "sample_vacancy_ids": [
+      "137312593"
+    ],
+    "normalized_match": "нппсалют",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1963957",
+    "hh_website": "http://salut.nn.ru",
+    "hh_snapshot_observed_at": "2026-10-05T10:40:35.937664+00:00",
+    "hh_snapshot_vacancy_id": "137312593",
+    "gur_inn": "5261079332",
+    "gur_ogrn": "1125261000040",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "2497",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ПРОИЗВОДСТВЕННОЕ ПРЕДПРИЯТИЕ \"САЛЮТ\"",
+    "gur_short_name": "АО \"НПП \"САЛЮТ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/2497",
+    "hh_id": "938319",
+    "hh_names": [
+      "НПП Салют"
+    ],
+    "regions": [
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "135276615",
+      "134223812",
+      "133903337"
+    ],
+    "normalized_match": "нппсалют",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/938319",
+    "hh_website": "https://smp-salyut.ru/",
+    "hh_snapshot_observed_at": "2026-10-04T21:23:16.436324+00:00",
+    "hh_snapshot_vacancy_id": "135276615",
+    "gur_inn": "5261079332",
+    "gur_ogrn": "1125261000040",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "6802",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"АНГСТРЕМ\"",
+    "gur_short_name": "АО \"АНГСТРЕМ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/6802",
+    "hh_id": "43093",
+    "hh_names": [
+      "АО Ангстрем"
+    ],
+    "regions": [
+      "Зеленоград"
+    ],
+    "sample_vacancy_ids": [
+      "134659499",
+      "136561518",
+      "134457512"
+    ],
+    "normalized_match": "ангстрем",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/43093",
+    "hh_website": "https://www.angstrem.ru",
+    "hh_snapshot_observed_at": "2026-10-05T10:05:42.964485+00:00",
+    "hh_snapshot_vacancy_id": "134659499",
+    "gur_inn": "7735010706",
+    "gur_ogrn": "1027700140930",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "4645",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НОВОСИБИРСКИЙ ЗАВОД ПОЛУПРОВОДНИКОВЫХ ПРИБОРОВ ВОСТОК\"",
+    "gur_short_name": "АО \"НЗПП ВОСТОК\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/4645",
+    "hh_id": "2653784",
+    "hh_names": [
+      "Новосибирский завод полупроводниковых приборов Восток"
+    ],
+    "regions": [
+      "Новосибирск"
+    ],
+    "sample_vacancy_ids": [
+      "132733994"
+    ],
+    "normalized_match": "новосибирскийзаводполупроводниковыхприбороввосток",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/2653784",
+    "hh_website": "http://www.nzpp.ru",
+    "hh_snapshot_observed_at": "2026-10-05T13:01:48.517414+00:00",
+    "hh_snapshot_vacancy_id": "132733994",
+    "gur_inn": "5402546039",
+    "gur_ogrn": "1115476167180",
+    "matching_evidence_urls": [
+      "https://nzpp.ru/",
+      "https://nzpp.ru/company/index.php"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "6804",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ЭЛЕКТРОННОЙ ТЕХНИКИ\"",
+    "gur_short_name": "АО \"НИИЭТ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/6804",
+    "hh_id": "4406887",
+    "hh_names": [
+      "НИИЭТ"
+    ],
+    "regions": [
+      "Воронеж"
+    ],
+    "sample_vacancy_ids": [
+      "137848105"
+    ],
+    "normalized_match": "нииэт",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/4406887",
+    "hh_website": "https://gkelement.ru/",
+    "hh_snapshot_observed_at": "2026-10-05T12:39:17.858300+00:00",
+    "hh_snapshot_vacancy_id": "137848105",
+    "gur_inn": "3661057900",
+    "gur_ogrn": "1123668048789",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "review_reason": "shared_platform_or_parent_site_not_sufficient"
+  },
+  {
+    "gur_id": "547",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"КОНЦЕРН \"СОЗВЕЗДИЕ\"",
+    "gur_short_name": "АО \"КОНЦЕРН \"СОЗВЕЗДИЕ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/547",
+    "hh_id": "935196",
+    "hh_names": [
+      "Концерн Созвездие"
+    ],
+    "regions": [
+      "Воронеж",
+      "Москва",
+      "Ростов-на-Дону",
+      "Семилуки"
+    ],
+    "sample_vacancy_ids": [
+      "138012282",
+      "138012283",
+      "137195947"
+    ],
+    "normalized_match": "концернсозвездие",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/935196",
+    "hh_website": "http://www.sozvezdie.su",
+    "hh_snapshot_observed_at": "2026-10-05T09:09:27.043134+00:00",
+    "hh_snapshot_vacancy_id": "138012282",
+    "gur_inn": "3666127502",
+    "gur_ogrn": "1053600445337",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "8783",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РЯЗАНСКИЙ РАДИОЗАВОД - РУСАУДИО\"",
+    "gur_short_name": "АО \"РРЗ-РУСАУДИО\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/8783",
+    "hh_id": "1398090",
+    "hh_names": [
+      "РРЗ-РУСАудио"
+    ],
+    "regions": [
+      "Рязань"
+    ],
+    "sample_vacancy_ids": [
+      "135535127"
+    ],
+    "normalized_match": "ррзрусаудио",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1398090",
+    "hh_website": "http://rusound.ru/",
+    "hh_snapshot_observed_at": "2026-10-05T11:02:54.683864+00:00",
+    "hh_snapshot_vacancy_id": "135535127",
+    "gur_inn": "6231049903",
+    "gur_ogrn": "1036208004800",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3569",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТАМБОВСКИЙ ЗАВОД \"РЕВОЛЮЦИОННЫЙ ТРУД\"",
+    "gur_short_name": "АО \"ТЗ \"РЕВТРУД\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3569",
+    "hh_id": "5085947",
+    "hh_names": [
+      "ТЗ Ревтруд"
+    ],
+    "regions": [
+      "Тамбов"
+    ],
+    "sample_vacancy_ids": [
+      "137328704",
+      "133242218",
+      "134426848"
+    ],
+    "normalized_match": "тзревтруд",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/5085947",
+    "hh_website": "http://revtrud.com/page/1",
+    "hh_snapshot_observed_at": "2026-10-05T07:52:01.981800+00:00",
+    "hh_snapshot_vacancy_id": "137328704",
+    "gur_inn": "6829024766",
+    "gur_ogrn": "1066829050859",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "2513",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТАМБОВСКИЙ ЗАВОД \"ОКТЯБРЬ\"",
+    "gur_short_name": "АО \"ТЗ \"ОКТЯБРЬ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/2513",
+    "hh_id": "3184209",
+    "hh_names": [
+      "ТЗ Октябрь"
+    ],
+    "regions": [
+      "Тамбов"
+    ],
+    "sample_vacancy_ids": [
+      "136978133",
+      "137188416"
+    ],
+    "normalized_match": "тзоктябрь",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/3184209",
+    "hh_website": "http://oktabr-tz.ru/",
+    "hh_snapshot_observed_at": "2026-10-05T09:26:03.674063+00:00",
+    "hh_snapshot_vacancy_id": "136978133",
+    "gur_inn": "6829014768",
+    "gur_ogrn": "1056882340173",
+    "matching_evidence_urls": [
+      "https://oktabr-tz.ru/about.html",
+      "https://oktabr-tz.ru/news/sbor-gumanitarnoj-pomoshhi-dlya-bojcov-svo.html",
+      "https://oktabr-tz.ru/news/zavody-oktyabr-i-revtrud-prinyali-uchastie-v-blagotvoritelnoj-akcii1.html"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "2488",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РАДИОЗАВОД\"",
+    "gur_short_name": "АО \"РАДИОЗАВОД\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/2488",
+    "hh_id": "3919105",
+    "hh_names": [
+      "Радиозавод"
+    ],
+    "regions": [
+      "Пенза"
+    ],
+    "sample_vacancy_ids": [
+      "137780923",
+      "137624627"
+    ],
+    "normalized_match": "радиозавод",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/3919105",
+    "hh_website": "http://www.penza-radiozavod.ru/",
+    "hh_snapshot_observed_at": "2026-10-05T08:03:23.897625+00:00",
+    "hh_snapshot_vacancy_id": "137780923",
+    "gur_inn": "5835049799",
+    "gur_ogrn": "1045802500336",
+    "matching_evidence_urls": [
+      "https://www.penza-radiozavod.ru/o-kompanii/"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "2491",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РЯЗАНСКИЙ РАДИОЗАВОД\"",
+    "gur_short_name": "АО \"РЯЗАНСКИЙ РАДИОЗАВОД\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/2491",
+    "hh_id": "2200785",
+    "hh_names": [
+      "Рязанский Радиозавод"
+    ],
+    "regions": [
+      "Рязань"
+    ],
+    "sample_vacancy_ids": [
+      "136899886"
+    ],
+    "normalized_match": "рязанскийрадиозавод",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/2200785",
+    "hh_website": "http://www.radiozavod.ru",
+    "hh_snapshot_observed_at": "2026-10-05T08:00:34.711531+00:00",
+    "hh_snapshot_vacancy_id": "136899886",
+    "gur_inn": "6231006875",
+    "gur_ogrn": "1026201260447",
+    "matching_evidence_urls": [
+      "https://radiozavod.ru/catalog/",
+      "https://radiozavod.ru/news/ryazanskij-radiozavod-poluchil-priz-foruma-armiya-2023/"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "2462",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЭЛЕКТРОСИГНАЛ\"",
+    "gur_short_name": "АО \"ЭЛЕКТРОСИГНАЛ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/2462",
+    "hh_id": "737811",
+    "hh_names": [
+      "Электросигнал"
+    ],
+    "regions": [
+      "Воронеж"
+    ],
+    "sample_vacancy_ids": [
+      "137962318",
+      "137729193",
+      "137620208"
+    ],
+    "normalized_match": "электросигнал",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/737811",
+    "hh_website": "http://www.elektrosignal.ru",
+    "hh_snapshot_observed_at": "2026-10-05T10:46:46.850782+00:00",
+    "hh_snapshot_vacancy_id": "137962318",
+    "gur_inn": "3650001159",
+    "gur_ogrn": "1023601610504",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "2458",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"АЛМАЗ\"",
+    "gur_short_name": "АО \"АЛМАЗ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/2458",
+    "hh_id": "547453",
+    "hh_names": [
+      "Алмаз"
+    ],
+    "regions": [
+      "Ростов-на-Дону"
+    ],
+    "sample_vacancy_ids": [
+      "137162513"
+    ],
+    "normalized_match": "алмаз",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/547453",
+    "hh_website": "https://almazrostov.ru/",
+    "hh_snapshot_observed_at": "2026-10-05T11:56:52.973611+00:00",
+    "hh_snapshot_vacancy_id": "137162513",
+    "gur_inn": "6166055693",
+    "gur_ogrn": "1066166001813",
+    "matching_evidence_urls": [
+      "https://almazrostov.ru/company/"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "1843",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"КОНЦЕРН \"АВТОМАТИКА\"",
+    "gur_short_name": "АО \"КОНЦЕРН \"АВТОМАТИКА\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/1843",
+    "hh_id": "160759",
+    "hh_names": [
+      "Концерн Автоматика"
+    ],
+    "regions": [
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "133912909",
+      "130806351",
+      "134763592"
+    ],
+    "normalized_match": "концернавтоматика",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/160759",
+    "hh_website": "https://www.ao-avtomatika.ru/",
+    "hh_snapshot_observed_at": "2026-10-04T21:27:03.887618+00:00",
+    "hh_snapshot_vacancy_id": "133912909",
+    "gur_inn": "7715906332",
+    "gur_ogrn": "1127746139564",
+    "matching_evidence_urls": [
+      "https://www.ao-avtomatika.ru/about/",
+      "https://www.ao-avtomatika.ru/catalog/products/kupol-pro/"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "3483",
+    "gur_name": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ИНСТИТУТ ЭЛЕКТРОННЫХ УПРАВЛЯЮЩИХ МАШИН ИМ. И.С. БРУКА\"",
+    "gur_short_name": "ПАО \"ИНЭУМ ИМ. И.С. БРУКА\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3483",
+    "hh_id": "160125",
+    "hh_names": [
+      "ИНЭУМ им. И.С. Брука"
+    ],
+    "regions": [
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "137862480"
+    ],
+    "normalized_match": "инэумимисбрука",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/160125",
+    "hh_website": "http://www.ineum.ru",
+    "hh_snapshot_observed_at": "2026-10-05T08:47:20.404864+00:00",
+    "hh_snapshot_vacancy_id": "137862480",
+    "gur_inn": "7736005096",
+    "gur_ogrn": "1027700297426",
+    "matching_evidence_urls": [
+      "https://ineum.ru/"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "3462",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ТЕХНИЧЕСКИЙ ЦЕНТР \"АТЛАС\"",
+    "gur_short_name": "АО \"НТЦ \"АТЛАС\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3462",
+    "hh_id": "1469550",
+    "hh_names": [
+      "АО НТЦ Атлас"
+    ],
+    "regions": [
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "137424101"
+    ],
+    "normalized_match": "нтцатлас",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1469550",
+    "hh_website": "http://web.stcnet.ru/",
+    "hh_snapshot_observed_at": "2026-10-05T10:28:11.157010+00:00",
+    "hh_snapshot_vacancy_id": "137424101",
+    "gur_inn": "9715389053",
+    "gur_ogrn": "1207700325590",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3465",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"КАЛУЖСКИЙ ЭЛЕКТРОМЕХАНИЧЕСКИЙ ЗАВОД\"",
+    "gur_short_name": "АО \"КЭМЗ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3465",
+    "hh_id": "227540",
+    "hh_names": [
+      "Калужский электромеханический завод"
+    ],
+    "regions": [
+      "Калуга"
+    ],
+    "sample_vacancy_ids": [
+      "137563692",
+      "137381957",
+      "137312600"
+    ],
+    "normalized_match": "калужскийэлектромеханическийзавод",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/227540",
+    "hh_website": "http://www.kemz-kaluga.ru",
+    "hh_snapshot_observed_at": "2026-10-05T11:04:07.202962+00:00",
+    "hh_snapshot_vacancy_id": "137563692",
+    "gur_inn": "4027106964",
+    "gur_ogrn": "1114027007511",
+    "matching_evidence_urls": [
+      "http://kemz-kaluga.ru/about"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "3458",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"БАШКИРСКОЕ ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ \"ПРОГРЕСС\"",
+    "gur_short_name": "АО \"БПО \"ПРОГРЕСС\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3458",
+    "hh_id": "1863440",
+    "hh_names": [
+      "БПО Прогресс"
+    ],
+    "regions": [
+      "Уфа"
+    ],
+    "sample_vacancy_ids": [
+      "138039364",
+      "137990110",
+      "137990392"
+    ],
+    "normalized_match": "бпопрогресс",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/1863440",
+    "hh_website": "https://magnetron.su",
+    "hh_snapshot_observed_at": "2026-10-05T08:48:31.651655+00:00",
+    "hh_snapshot_vacancy_id": "138039364",
+    "gur_inn": "0275076276",
+    "gur_ogrn": "1120280004888",
+    "matching_evidence_urls": [
+      "https://magnetron.su/"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "3484",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ \"МАСШТАБ\"",
+    "gur_short_name": "АО \"НИИ \"МАСШТАБ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3484",
+    "hh_id": "841097",
+    "hh_names": [
+      "НИИ МАСШТАБ"
+    ],
+    "regions": [
+      "Санкт-Петербург"
+    ],
+    "sample_vacancy_ids": [
+      "137608788",
+      "136246433",
+      "137468170"
+    ],
+    "normalized_match": "ниимасштаб",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/841097",
+    "hh_website": "http://mashtab.org/",
+    "hh_snapshot_observed_at": "2026-10-05T08:05:47.121666+00:00",
+    "hh_snapshot_vacancy_id": "137608788",
+    "gur_inn": "7802777108",
+    "gur_ogrn": "1127847056303",
+    "matching_evidence_urls": [
+      "https://mashtab.org/o-kompanii/"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "3624",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ПРОИЗВОДСТВЕННОЕ ПРЕДПРИЯТИЕ \"ИНТЕГРАЛ-В\"",
+    "gur_short_name": "АО \"НПП \"ИНТЕГРАЛ-В\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3624",
+    "hh_id": "1504293",
+    "hh_names": [
+      "НПП Интеграл-В"
+    ],
+    "regions": [
+      "Санкт-Петербург"
+    ],
+    "sample_vacancy_ids": [
+      "137588572",
+      "137428815",
+      "137189642"
+    ],
+    "normalized_match": "нппинтегралв",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1504293",
+    "hh_website": "http://www.oz-integral.ru/",
+    "hh_snapshot_observed_at": "2026-10-04T21:17:21.242969+00:00",
+    "hh_snapshot_vacancy_id": "137588572",
+    "gur_inn": "7813397637",
+    "gur_ogrn": "1079847100200",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3625",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РЫБИНСКИЙ ЗАВОД ПРИБОРОСТРОЕНИЯ\"",
+    "gur_short_name": "АО \"РЗП\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3625",
+    "hh_id": "1344600",
+    "hh_names": [
+      "Рыбинский завод приборостроения"
+    ],
+    "regions": [
+      "Заречный (Пензенская область)",
+      "Калуга",
+      "Пенза",
+      "Рыбинск",
+      "Ярославль"
+    ],
+    "sample_vacancy_ids": [
+      "137598874",
+      "137383127",
+      "137383128"
+    ],
+    "normalized_match": "рыбинскийзаводприборостроения",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1344600",
+    "hh_website": "http://www.rzp.su/",
+    "hh_snapshot_observed_at": "2026-10-05T11:42:34.587238+00:00",
+    "hh_snapshot_vacancy_id": "137598874",
+    "gur_inn": "7610062970",
+    "gur_ogrn": "1047601614081",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "2461",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ЦЕНТР ЭЛЕКТРОННОЙ ВЫЧИСЛИТЕЛЬНОЙ ТЕХНИКИ\"",
+    "gur_short_name": "АО \"НИЦЭВТ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/2461",
+    "hh_id": "2783",
+    "hh_names": [
+      "НИЦЭВТ"
+    ],
+    "regions": [
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "137870962",
+      "137791727",
+      "137391729"
+    ],
+    "normalized_match": "ницэвт",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/2783",
+    "hh_website": "http://www.nicevt.ru",
+    "hh_snapshot_observed_at": "2026-10-05T08:56:31.620822+00:00",
+    "hh_snapshot_vacancy_id": "137870962",
+    "gur_inn": "7726019325",
+    "gur_ogrn": "1027700015298",
+    "matching_evidence_urls": [
+      "http://nicevt.ru/2025/08/05/elementor-578/"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "2476",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"КАЛУЖСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ТЕЛЕМЕХАНИЧЕСКИХ УСТРОЙСТВ\"",
+    "gur_short_name": "АО \"КНИИТМУ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/2476",
+    "hh_id": "2759641",
+    "hh_names": [
+      "КНИИТМУ"
+    ],
+    "regions": [
+      "Калуга"
+    ],
+    "sample_vacancy_ids": [
+      "137912652",
+      "135895996",
+      "137598759"
+    ],
+    "normalized_match": "книитму",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/2759641",
+    "hh_website": "http://www.kniitmu.ru/",
+    "hh_snapshot_observed_at": "2026-10-05T09:27:37.104813+00:00",
+    "hh_snapshot_vacancy_id": "137912652",
+    "gur_inn": "4027100480",
+    "gur_ogrn": "1104027002694",
+    "matching_evidence_urls": [
+      "https://www.kniitmu.ru/"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "428",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ \"ВЕКТОР\"",
+    "gur_short_name": "АО \"НИИ \"ВЕКТОР\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/428",
+    "hh_id": "990888",
+    "hh_names": [
+      "НИИ Вектор"
+    ],
+    "regions": [
+      "Москва",
+      "Санкт-Петербург"
+    ],
+    "sample_vacancy_ids": [
+      "138084243",
+      "138084240",
+      "136917751"
+    ],
+    "normalized_match": "ниивектор",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/990888",
+    "hh_website": "http://www.nii-vektor.ru/",
+    "hh_snapshot_observed_at": "2026-10-05T07:29:50.570460+00:00",
+    "hh_snapshot_vacancy_id": "138084243",
+    "gur_inn": "7813491943",
+    "gur_ogrn": "1117847020400",
+    "matching_evidence_urls": [
+      "https://nii-vektor.ru/"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "3609",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЦЕНТРАЛЬНЫЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ТЕХНОЛОГИЧЕСКИЙ ИНСТИТУТ \"ТЕХНОМАШ\"",
+    "gur_short_name": "АО \"ЦНИТИ \"ТЕХНОМАШ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3609",
+    "hh_id": "12933277",
+    "hh_names": [
+      "ЦНИТИ Техномаш"
+    ],
+    "regions": [
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "137406537"
+    ],
+    "normalized_match": "цнититехномаш",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/12933277",
+    "hh_website": "http://cniti-technomash.ru",
+    "hh_snapshot_observed_at": "2026-10-05T11:27:13.656922+00:00",
+    "hh_snapshot_vacancy_id": "137406537",
+    "gur_inn": "7731014611",
+    "gur_ogrn": "1027739015853",
+    "matching_evidence_urls": [
+      "https://cniti-technomash.ru/company/"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "1699",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ \"ЭЛЕКТРОНСТАНДАРТ\"",
+    "gur_short_name": "АО \"РНИИ \"ЭЛЕКТРОНСТАНДАРТ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/1699",
+    "hh_id": "141915",
+    "hh_names": [
+      "РНИИ Электронстандарт"
+    ],
+    "regions": [
+      "Санкт-Петербург"
+    ],
+    "sample_vacancy_ids": [
+      "137549832",
+      "137147335"
+    ],
+    "normalized_match": "рнииэлектронстандарт",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/141915",
+    "hh_website": "http://www.elstandart.spb.ru",
+    "hh_snapshot_observed_at": "2026-10-04T21:24:05.292434+00:00",
+    "hh_snapshot_vacancy_id": "137549832",
+    "gur_inn": "7810196298",
+    "gur_ogrn": "1027804880135",
+    "matching_evidence_urls": [
+      "https://www.elstandart.spb.ru/ru/24-ob-institute/novosti.html",
+      "https://www.elstandart.spb.ru/ru/ob-institute.html"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "332",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЦЕНТРАЛЬНЫЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ \"ЦИКЛОН\"",
+    "gur_short_name": "АО \"ЦНИИ \"ЦИКЛОН\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/332",
+    "hh_id": "616713",
+    "hh_names": [
+      "ЦНИИ Циклон"
+    ],
+    "regions": [
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "137622070",
+      "137914161",
+      "137899770"
+    ],
+    "normalized_match": "цниициклон",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/616713",
+    "hh_website": "http:///www.cyclone-jsc.ru",
+    "hh_snapshot_observed_at": "2026-10-05T09:29:31.849835+00:00",
+    "hh_snapshot_vacancy_id": "137622070",
+    "gur_inn": "7718159209",
+    "gur_ogrn": "1027700223352",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3629",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЦЕНТРАЛЬНЫЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ \"ЭЛЕКТРОН\"",
+    "gur_short_name": "АО \"ЦНИИ \"ЭЛЕКТРОН\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3629",
+    "hh_id": "534827",
+    "hh_names": [
+      "ЦНИИ Электрон"
+    ],
+    "regions": [
+      "Санкт-Петербург"
+    ],
+    "sample_vacancy_ids": [
+      "138073107",
+      "137673290"
+    ],
+    "normalized_match": "цнииэлектрон",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/534827",
+    "hh_website": "https://www.niielectron.ru/",
+    "hh_snapshot_observed_at": "2026-10-04T21:29:19.718738+00:00",
+    "hh_snapshot_vacancy_id": "138073107",
+    "gur_inn": "7802144666",
+    "gur_ogrn": "1027801538192",
+    "matching_evidence_urls": [
+      "https://www.niielectron.ru/",
+      "https://www.niielectron.ru/ao-cnii-elektron-prinyal-uchastie-v-blagotvoritelnoj-programme-po-zakupke-dopolnitelnogo-oborudovaniya-snaryazheniya-i-ekipirovki-dlya-mobilizovannyh-grazhdan-i-dobrovolcev-sankt-peterburga/",
+      "https://www.niielectron.ru/cnii-elektron-posetil-vystavku-armiya-2023/"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "3628",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ПРОИЗВОДСТВЕННОЕ ПРЕДПРИЯТИЕ \"КОНТАКТ\"",
+    "gur_short_name": "АО \"НПП \"КОНТАКТ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3628",
+    "hh_id": "5726435",
+    "hh_names": [
+      "Научно-Производственное предприятие Контакт"
+    ],
+    "regions": [
+      "Саратов"
+    ],
+    "sample_vacancy_ids": [
+      "137618657"
+    ],
+    "normalized_match": "научнопроизводственноепредприятиеконтакт",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/5726435",
+    "hh_website": "http://www.kontakt-saratov.ru/",
+    "hh_snapshot_observed_at": "2026-10-05T11:34:47.040001+00:00",
+    "hh_snapshot_vacancy_id": "137618657",
+    "gur_inn": "6453097665",
+    "gur_ogrn": "1086453000567",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3565",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ПРОИЗВОДСТВЕННОЕ ПРЕДПРИЯТИЕ \"ПУЛЬСАР\"",
+    "gur_short_name": "АО \"НПП \"ПУЛЬСАР\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3565",
+    "hh_id": "1460675",
+    "hh_names": [
+      "НПП ПУЛЬСАР"
+    ],
+    "regions": [
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "133813806",
+      "137902924",
+      "137875820"
+    ],
+    "normalized_match": "нпппульсар",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/1460675",
+    "hh_website": "http://pulsarnpp.ru",
+    "hh_snapshot_observed_at": "2026-10-05T08:03:01.271647+00:00",
+    "hh_snapshot_vacancy_id": "133813806",
+    "gur_inn": "7719846490",
+    "gur_ogrn": "1137746472599",
+    "matching_evidence_urls": [
+      "https://pulsarnpp.ru/"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "2493",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ПРОИЗВОДСТВЕННЫЙ ЦЕНТР \"ВИГСТАР\"",
+    "gur_short_name": "АО \"НПЦ \"ВИГСТАР\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/2493",
+    "hh_id": "2005152",
+    "hh_names": [
+      "НПЦ Вигстар"
+    ],
+    "regions": [
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "137654459",
+      "137653827",
+      "137654152"
+    ],
+    "normalized_match": "нпцвигстар",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/2005152",
+    "hh_website": "http://www.vigstar.ru",
+    "hh_snapshot_observed_at": "2026-10-05T13:16:40.187587+00:00",
+    "hh_snapshot_vacancy_id": "137654459",
+    "gur_inn": "7726687555",
+    "gur_ogrn": "1117746976379",
+    "matching_evidence_urls": [
+      "https://www.vigstar.ru/images/publish/unsvs.pdf"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "3578",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ИНФОРМАЦИОННЫХ ТЕХНОЛОГИЙ\"",
+    "gur_short_name": "АО \"НИИИТ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3578",
+    "hh_id": "638724",
+    "hh_names": [
+      "Научно-исследовательский институт информационных технологий"
+    ],
+    "regions": [
+      "Тверь"
+    ],
+    "sample_vacancy_ids": [
+      "129720371",
+      "126397550"
+    ],
+    "normalized_match": "научноисследовательскийинститутинформационныхтехнологий",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/638724",
+    "hh_website": "https://www.aoniiit.ru/",
+    "hh_snapshot_observed_at": "2026-10-05T10:53:02.449011+00:00",
+    "hh_snapshot_vacancy_id": "129720371",
+    "gur_inn": "6950145750",
+    "gur_ogrn": "1126952002825",
+    "matching_evidence_urls": [
+      "https://www.aoniiit.ru/events/news/295-yubilejnoe-torzhestvo-niiit-ispolnilos-50-let.html"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "3582",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ПРОИЗВОДСТВЕННОЕ ПРЕДПРИЯТИЕ \"ПОЛЕТ\"",
+    "gur_short_name": "АО \"НПП \"ПОЛЕТ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3582",
+    "hh_id": "81232",
+    "hh_names": [
+      "НПП Полет"
+    ],
+    "regions": [
+      "Нижний Новгород"
+    ],
+    "sample_vacancy_ids": [
+      "136058868"
+    ],
+    "normalized_match": "нппполет",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/81232",
+    "hh_website": "http://npp-polyot.ru",
+    "hh_snapshot_observed_at": "2026-10-05T09:23:53.843455+00:00",
+    "hh_snapshot_vacancy_id": "136058868",
+    "gur_inn": "5258100129",
+    "gur_ogrn": "1115258007688",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3577",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СИСТЕМЫ УПРАВЛЕНИЯ\"",
+    "gur_short_name": "АО \"СИСТЕМЫ УПРАВЛЕНИЯ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3577",
+    "hh_id": "1793222",
+    "hh_names": [
+      "Системы управления"
+    ],
+    "regions": [
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "138063748",
+      "137600627"
+    ],
+    "normalized_match": "системыуправления",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/1793222",
+    "hh_website": "http://www.oaosu.ru/",
+    "hh_snapshot_observed_at": "2026-10-05T10:15:59.414985+00:00",
+    "hh_snapshot_vacancy_id": "138063748",
+    "gur_inn": "7728767728",
+    "gur_ogrn": "1117746223858",
+    "matching_evidence_urls": [
+      "https://oaosu.ru/about/directing/"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "3581",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"КИМОВСКИЙ РАДИОЭЛЕКТРОМЕХАНИЧЕСКИЙ ЗАВОД\"",
+    "gur_short_name": "АО \"КРЭМЗ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3581",
+    "hh_id": "4740907",
+    "hh_names": [
+      "Кимовский Радиоэлектромеханический Завод"
+    ],
+    "regions": [
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "138101205"
+    ],
+    "normalized_match": "кимовскийрадиоэлектромеханическийзавод",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/4740907",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T10:58:10.484085+00:00",
+    "hh_snapshot_vacancy_id": "138101205",
+    "gur_inn": "7115501221",
+    "gur_ogrn": "1127154000797",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "2472",
+    "gur_name": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ИНФОРМАЦИОННЫЕ ТЕЛЕКОММУНИКАЦИОННЫЕ ТЕХНОЛОГИИ\"",
+    "gur_short_name": "ПАО \"ИНТЕЛТЕХ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/2472",
+    "hh_id": "5692452",
+    "hh_names": [
+      "Информационные Телекоммуникационные Технологии"
+    ],
+    "regions": [
+      "Санкт-Петербург"
+    ],
+    "sample_vacancy_ids": [
+      "137870856",
+      "138029657",
+      "137661865"
+    ],
+    "normalized_match": "информационныетелекоммуникационныетехнологии",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/5692452",
+    "hh_website": "http://inteltech.ru",
+    "hh_snapshot_observed_at": "2026-10-04T21:27:58.780201+00:00",
+    "hh_snapshot_vacancy_id": "137870856",
+    "gur_inn": "7802030605",
+    "gur_ogrn": "1027801525608",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "15970",
+    "gur_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ШВАБЕ-МОСКВА\"",
+    "gur_short_name": "ООО \"ШВАБЕ-МОСКВА\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/15970",
+    "hh_id": "3900871",
+    "hh_names": [
+      "Швабе-Москва"
+    ],
+    "regions": [
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "137170713"
+    ],
+    "normalized_match": "швабемосква",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/3900871",
+    "hh_website": "http://shvabe.com",
+    "hh_snapshot_observed_at": "2026-10-05T07:26:29.333783+00:00",
+    "hh_snapshot_vacancy_id": "137170713",
+    "gur_inn": "7717768215",
+    "gur_ogrn": "5137746066740",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3478",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЛЫТКАРИНСКИЙ ЗАВОД ОПТИЧЕСКОГО СТЕКЛА\"",
+    "gur_short_name": "АО \"ЛЗОС\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3478",
+    "hh_id": "3372811",
+    "hh_names": [
+      "Лыткаринский Завод Оптического Стекла"
+    ],
+    "regions": [
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "137751217",
+      "137712350"
+    ],
+    "normalized_match": "лыткаринскийзаводоптическогостекла",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/3372811",
+    "hh_website": "http://lzos.ru/",
+    "hh_snapshot_observed_at": "2026-10-05T11:33:37.725445+00:00",
+    "hh_snapshot_vacancy_id": "137751217",
+    "gur_inn": "5026000300",
+    "gur_ogrn": "1025003178397",
+    "matching_evidence_urls": [
+      "https://lzos.ru/"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "149",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ \"ПОЛЮС\" ИМ. М.Ф. СТЕЛЬМАХА\"",
+    "gur_short_name": "АО \"НИИ \"ПОЛЮС\" ИМ. М.Ф. СТЕЛЬМАХА\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/149",
+    "hh_id": "4279443",
+    "hh_names": [
+      "НИИ Полюс им. М.Ф.Стельмаха"
+    ],
+    "regions": [
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "138027754",
+      "138003232",
+      "138009605"
+    ],
+    "normalized_match": "нииполюсиммфстельмаха",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/4279443",
+    "hh_website": "https://niipolyus.ru/",
+    "hh_snapshot_observed_at": "2026-10-05T08:47:03.089271+00:00",
+    "hh_snapshot_vacancy_id": "138027754",
+    "gur_inn": "7728816598",
+    "gur_ogrn": "1127746646510",
+    "matching_evidence_urls": [
+      "https://niipolyus.ru/company/history"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "3475",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НПО \"ОРИОН\"",
+    "gur_short_name": "АО \"НПО \"ОРИОН\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3475",
+    "hh_id": "2678572",
+    "hh_names": [
+      "НПО Орион"
+    ],
+    "regions": [
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "138021103"
+    ],
+    "normalized_match": "нпоорион",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/2678572",
+    "hh_website": "http://orion-ir.ru",
+    "hh_snapshot_observed_at": "2026-10-04T21:26:24.742171+00:00",
+    "hh_snapshot_vacancy_id": "138021103",
+    "gur_inn": "7720770380",
+    "gur_ogrn": "1127747292738",
+    "matching_evidence_urls": [
+      "https://orion-ir.ru/company/",
+      "https://orion-ir.ru/production/opticheskie-pribory/"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "3481",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ \"ГОСУДАРСТВЕННЫЙ ОПТИЧЕСКИЙ ИНСТИТУТ ИМ. С.И. ВАВИЛОВА\"",
+    "gur_short_name": "АО \"НПО \"ГОИ ИМ. С.И. ВАВИЛОВА\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3481",
+    "hh_id": "3947974",
+    "hh_names": [
+      "НПО ГОИ им. С.И. Вавилова"
+    ],
+    "regions": [
+      "Санкт-Петербург"
+    ],
+    "sample_vacancy_ids": [
+      "137497306",
+      "137069893",
+      "137497335"
+    ],
+    "normalized_match": "нпогоиимсивавилова",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/3947974",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T08:04:51.428721+00:00",
+    "hh_snapshot_vacancy_id": "137497306",
+    "gur_inn": "7811483834",
+    "gur_ogrn": "1117847038121",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "15971",
+    "gur_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"МЕГАПОЛИС ИНФОРМАЦИОННЫЕ ТЕХНОЛОГИИ\"",
+    "gur_short_name": "ООО \"МЕГАПОЛИС ИТ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/15971",
+    "hh_id": "2664870",
+    "hh_names": [
+      "Мегаполис ИТ"
+    ],
+    "regions": [
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "137214118"
+    ],
+    "normalized_match": "мегаполисит",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/2664870",
+    "hh_website": "http://megapolis-it.ru/",
+    "hh_snapshot_observed_at": "2026-10-05T10:12:23.600526+00:00",
+    "hh_snapshot_vacancy_id": "137214118",
+    "gur_inn": "7734441107",
+    "gur_ogrn": "1217700108526",
+    "matching_evidence_urls": [
+      "https://www.megapolis-it.ru/about"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "637",
+    "gur_name": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"КРАСНОГОРСКИЙ ЗАВОД ИМ. С.А. ЗВЕРЕВА\"",
+    "gur_short_name": "ПАО \"КМЗ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/637",
+    "hh_id": "574077",
+    "hh_names": [
+      "Красногорский завод им. С.А. Зверева"
+    ],
+    "regions": [
+      "Красногорск (Московская область)"
+    ],
+    "sample_vacancy_ids": [
+      "138002755"
+    ],
+    "normalized_match": "красногорскийзаводимсазверева",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/574077",
+    "hh_website": "http://zenit-kmz.com",
+    "hh_snapshot_observed_at": "2026-10-05T10:14:32.125149+00:00",
+    "hh_snapshot_vacancy_id": "138002755",
+    "gur_inn": "5024022965",
+    "gur_ogrn": "1025002863247",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "12731",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ОПТИКО-МЕХАНИЧЕСКОЕ КОНСТРУКТОРСКОЕ БЮРО \"АСТРОН\"",
+    "gur_short_name": "АО \"ОКБ \"АСТРОН\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/12731",
+    "hh_id": "3745329",
+    "hh_names": [
+      "ОКБ АСТРОН"
+    ],
+    "regions": [
+      "Лыткарино  (Московская область)",
+      "Люберцы  (Московская область)"
+    ],
+    "sample_vacancy_ids": [
+      "134419993",
+      "137479967",
+      "137436270"
+    ],
+    "normalized_match": "окбастрон",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/3745329",
+    "hh_website": "https://astrohn.ru/",
+    "hh_snapshot_observed_at": "2026-10-05T08:04:31.158828+00:00",
+    "hh_snapshot_vacancy_id": "134419993",
+    "gur_inn": "5027224977",
+    "gur_ogrn": "1155027001690",
+    "matching_evidence_urls": [
+      "https://astrohn.ru/about-us/"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "14011",
+    "gur_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"АСТРОН АЭРО\"",
+    "gur_short_name": "ООО \"АСТРОН АЭРО\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/14011",
+    "hh_id": "5967959",
+    "hh_names": [
+      "Астрон Аэро"
+    ],
+    "regions": [
+      "Лыткарино  (Московская область)"
+    ],
+    "sample_vacancy_ids": [
+      "137563998",
+      "137592257",
+      "137178305"
+    ],
+    "normalized_match": "астронаэро",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/5967959",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-04T21:27:02.884064+00:00",
+    "hh_snapshot_vacancy_id": "137563998",
+    "gur_inn": "5027238514",
+    "gur_ogrn": "1165027052431",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "649",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ВОЛОГОДСКИЙ ОПТИКО-МЕХАНИЧЕСКИЙ ЗАВОД\"",
+    "gur_short_name": "АО \"ВОМЗ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/649",
+    "hh_id": "2272000",
+    "hh_names": [
+      "Вологодский Оптико-Механический Завод"
+    ],
+    "regions": [
+      "Вологда"
+    ],
+    "sample_vacancy_ids": [
+      "136986545"
+    ],
+    "normalized_match": "вологодскийоптикомеханическийзавод",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/2272000",
+    "hh_website": "https://shvabe.com",
+    "hh_snapshot_observed_at": "2026-10-05T08:28:09.892688+00:00",
+    "hh_snapshot_vacancy_id": "136986545",
+    "gur_inn": "3525023010",
+    "gur_ogrn": "1023500882437",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "289",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"150 АВИАЦИОННЫЙ РЕМОНТНЫЙ ЗАВОД\"",
+    "gur_short_name": "АО \"150 АРЗ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/289",
+    "hh_id": "5783696",
+    "hh_names": [
+      "150 Авиационный ремонтный Завод"
+    ],
+    "regions": [
+      "Калининград"
+    ],
+    "sample_vacancy_ids": [
+      "137466046",
+      "137104250"
+    ],
+    "normalized_match": "150авиационныйремонтныйзавод",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/5783696",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T11:26:13.503994+00:00",
+    "hh_snapshot_vacancy_id": "137466046",
+    "gur_inn": "3913501370",
+    "gur_ogrn": "1093925016767",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "240",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НОВОСИБИРСКИЙ АВИАРЕМОНТНЫЙ ЗАВОД\"",
+    "gur_short_name": "АО \"НАРЗ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/240",
+    "hh_id": "76457",
+    "hh_names": [
+      "Новосибирский авиаремонтный завод"
+    ],
+    "regions": [
+      "Новосибирск"
+    ],
+    "sample_vacancy_ids": [
+      "130688989"
+    ],
+    "normalized_match": "новосибирскийавиаремонтныйзавод",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/76457",
+    "hh_website": "http://www.narp.ru/",
+    "hh_snapshot_observed_at": "2026-10-05T11:46:31.432986+00:00",
+    "hh_snapshot_vacancy_id": "130688989",
+    "gur_inn": "5402112867",
+    "gur_ogrn": "1025401018642",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "292",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"810 АВИАЦИОННЫЙ РЕМОНТНЫЙ ЗАВОД\"",
+    "gur_short_name": "АО \"810 АРЗ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/292",
+    "hh_id": "2881895",
+    "hh_names": [
+      "810 авиационный ремонтный завод"
+    ],
+    "regions": [
+      "Чита"
+    ],
+    "sample_vacancy_ids": [
+      "137899142"
+    ],
+    "normalized_match": "810авиационныйремонтныйзавод",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/2881895",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T10:57:10.259145+00:00",
+    "hh_snapshot_vacancy_id": "137899142",
+    "gur_inn": "7536080716",
+    "gur_ogrn": "1077536006118",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "310",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СТУПИНСКОЕ МАШИНОСТРОИТЕЛЬНОЕ ПРОИЗВОДСТВЕННОЕ ПРЕДПРИЯТИЕ\"",
+    "gur_short_name": "АО \"СМПП\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/310",
+    "hh_id": "12466203",
+    "hh_names": [
+      "Ступинское машиностроительное производственное предприятие"
+    ],
+    "regions": [
+      "Москва",
+      "Ступино (Московская область)"
+    ],
+    "sample_vacancy_ids": [
+      "137916597",
+      "137916717",
+      "137916895"
+    ],
+    "normalized_match": "ступинскоемашиностроительноепроизводственноепредприятие",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/12466203",
+    "hh_website": "https://rhc.ru/structure/",
+    "hh_snapshot_observed_at": "2026-10-05T07:52:26.191746+00:00",
+    "hh_snapshot_vacancy_id": "137916597",
+    "gur_inn": "5045001885",
+    "gur_ogrn": "1025005917419",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "review_reason": "shared_platform_or_parent_site_not_sufficient"
+  },
+  {
+    "gur_id": "301",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАЦИОНАЛЬНЫЙ ЦЕНТР ВЕРТОЛЕТОСТРОЕНИЯ ИМ. М.Л. МИЛЯ И Н.И. КАМОВА\"",
+    "gur_short_name": "АО \"НЦВ МИЛЬ И КАМОВ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/301",
+    "hh_id": "54267",
+    "hh_names": [
+      "Акционерное общество Национальный центр вертолетостроения им. М.Л. Миля и Н.И. Камова"
+    ],
+    "regions": [
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "136292119",
+      "137645440",
+      "137645424"
+    ],
+    "normalized_match": "национальныйцентрвертолетостроенияиммлмиляиникамова",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/54267",
+    "hh_website": "http://www.rhc.ru",
+    "hh_snapshot_observed_at": "2026-10-05T10:13:22.479541+00:00",
+    "hh_snapshot_vacancy_id": "136292119",
+    "gur_inn": "7718016666",
+    "gur_ogrn": "1027739032969",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "299",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"КУМЕРТАУСКОЕ АВИАЦИОННОЕ ПРОИЗВОДСТВЕННОЕ ПРЕДПРИЯТИЕ\"",
+    "gur_short_name": "АО \"КУМАПП\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/299",
+    "hh_id": "5806693",
+    "hh_names": [
+      "Кумертауское авиационное производственное предприятие"
+    ],
+    "regions": [
+      "Кумертау"
+    ],
+    "sample_vacancy_ids": [
+      "137210568"
+    ],
+    "normalized_match": "кумертаускоеавиационноепроизводственноепредприятие",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/5806693",
+    "hh_website": "http://www.rhc.ru",
+    "hh_snapshot_observed_at": "2026-10-05T08:30:12.071605+00:00",
+    "hh_snapshot_vacancy_id": "137210568",
+    "gur_inn": "262016287",
+    "gur_ogrn": "1080262000609",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "318",
+    "gur_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ВР-РЕСУРС\"",
+    "gur_short_name": "ООО \"ВР-РЕСУРС\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/318",
+    "hh_id": "917377",
+    "hh_names": [
+      "ВР-Ресурс"
+    ],
+    "regions": [
+      "Жуковский  (Московская область)",
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "135970023",
+      "135970202"
+    ],
+    "normalized_match": "врресурс",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/917377",
+    "hh_website": "http://vrrs.ru",
+    "hh_snapshot_observed_at": "2026-10-05T12:49:32.858985+00:00",
+    "hh_snapshot_vacancy_id": "135970023",
+    "gur_inn": "5027138478",
+    "gur_ogrn": "1085027009572",
+    "matching_evidence_urls": [
+      "https://vrrs.ru/heliservice",
+      "https://vrrs.ru/vertodrom"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "321",
+    "gur_name": "РОСТОВСКИЙ ВЕРТОЛЕТНЫЙ ПРОИЗВОДСТВЕННЫЙ КОМПЛЕКС АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОСТВЕРТОЛ\" ИМЕНИ Б.Н. СЛЮСАРЯ",
+    "gur_short_name": "АО \"РОСТВЕРТОЛ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/321",
+    "hh_id": "1170038",
+    "hh_names": [
+      "Роствертол"
+    ],
+    "regions": [
+      "Ростов-на-Дону"
+    ],
+    "sample_vacancy_ids": [
+      "137864196",
+      "138061487",
+      "138000320"
+    ],
+    "normalized_match": "роствертол",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1170038",
+    "hh_website": "https://rabota-rostvertol.ru/",
+    "hh_snapshot_observed_at": "2026-10-04T21:13:29.758663+00:00",
+    "hh_snapshot_vacancy_id": "137864196",
+    "gur_inn": "6161021690",
+    "gur_ogrn": "1026102899228",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "15684",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"УЛАН-УДЭНСКИЙ ЛОПАСТНОЙ ЗАВОД\"",
+    "gur_short_name": "АО \"У-УЛЗ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/15684",
+    "hh_id": "4240175",
+    "hh_names": [
+      "Улан-Удэнский Лопастной Завод"
+    ],
+    "regions": [
+      "Улан-Удэ"
+    ],
+    "sample_vacancy_ids": [
+      "137946767"
+    ],
+    "normalized_match": "уланудэнскийлопастнойзавод",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/4240175",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T10:46:30.071452+00:00",
+    "hh_snapshot_vacancy_id": "137946767",
+    "gur_inn": "0323097504",
+    "gur_ogrn": "1020300971855",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "134",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"КАЗАНСКИЙ ВЕРТОЛЕТНЫЙ ЗАВОД\"",
+    "gur_short_name": "АО \"КВЗ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/134",
+    "hh_id": "138430",
+    "hh_names": [
+      "Казанский Вертолетный Завод"
+    ],
+    "regions": [
+      "Казань"
+    ],
+    "sample_vacancy_ids": [
+      "137976468"
+    ],
+    "normalized_match": "казанскийвертолетныйзавод",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/138430",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T09:09:51.176331+00:00",
+    "hh_snapshot_vacancy_id": "137976468",
+    "gur_inn": "1656002652",
+    "gur_ogrn": "1021603881683",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "4412",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ИНСТИТУТ ПРИКЛАДНОЙ ФИЗИКИ\"",
+    "gur_short_name": "АО \"ИПФ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/4412",
+    "hh_id": "3007202",
+    "hh_names": [
+      "Институт прикладной физики"
+    ],
+    "regions": [
+      "Новосибирск"
+    ],
+    "sample_vacancy_ids": [
+      "137487842"
+    ],
+    "normalized_match": "институтприкладнойфизики",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/3007202",
+    "hh_website": "http://ipfn.ru",
+    "hh_snapshot_observed_at": "2026-10-05T09:28:40.536238+00:00",
+    "hh_snapshot_vacancy_id": "137487842",
+    "gur_inn": "5408106299",
+    "gur_ogrn": "1025403638831",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "14309",
+    "gur_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ИЖЕВСКИЙ АВИАЦИОННЫЙ ЗАВОД\"",
+    "gur_short_name": "ООО \"ИАЗ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/14309",
+    "hh_id": "9805435",
+    "hh_names": [
+      "Ижевский Авиационный Завод"
+    ],
+    "regions": [
+      "Ижевск"
+    ],
+    "sample_vacancy_ids": [
+      "136879058",
+      "137960362",
+      "136914660"
+    ],
+    "normalized_match": "ижевскийавиационныйзавод",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/9805435",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T08:06:23.899860+00:00",
+    "hh_snapshot_vacancy_id": "136879058",
+    "gur_inn": "1841109463",
+    "gur_ogrn": "1231800002609",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "14311",
+    "gur_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ГРУППА КОМПАНИЙ ТИХИЕ КРЫЛЬЯ\"",
+    "gur_short_name": "ООО \"ГК ТИХИЕ КРЫЛЬЯ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/14311",
+    "hh_id": "9520383",
+    "hh_names": [
+      "ГК Тихие Крылья"
+    ],
+    "regions": [
+      "Санкт-Петербург"
+    ],
+    "sample_vacancy_ids": [
+      "133198736",
+      "136242251",
+      "134872751"
+    ],
+    "normalized_match": "гктихиекрылья",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/9520383",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T08:25:47.730283+00:00",
+    "hh_snapshot_vacancy_id": "133198736",
+    "gur_inn": "7802703755",
+    "gur_ogrn": "1207800024662",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "9330",
+    "gur_name": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"КИРОВСКИЙ ЗАВОД \"МАЯК\"",
+    "gur_short_name": "ПАО \"КИРОВСКИЙ ЗАВОД \"МАЯК\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/9330",
+    "hh_id": "1329763",
+    "hh_names": [
+      "Кировский завод МАЯК"
+    ],
+    "regions": [
+      "Киров (Кировская область)"
+    ],
+    "sample_vacancy_ids": [
+      "137852776",
+      "134497951",
+      "134757019"
+    ],
+    "normalized_match": "кировскийзаводмаяк",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1329763",
+    "hh_website": "http://www.kzmayak.ru",
+    "hh_snapshot_observed_at": "2026-10-05T08:54:13.606743+00:00",
+    "hh_snapshot_vacancy_id": "137852776",
+    "gur_inn": "4345000947",
+    "gur_ogrn": "1024301308371",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "5917",
+    "gur_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НАУЧНО-ПРОИЗВОДСТВЕННАЯ ФИРМА \"ТЕХИНКОМ\"",
+    "gur_short_name": "ООО \"НПФ \"ТЕХИНКОМ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/5917",
+    "hh_id": "1295180",
+    "hh_names": [
+      "НПФ ТЕХИНКОМ"
+    ],
+    "regions": [
+      "Санкт-Петербург"
+    ],
+    "sample_vacancy_ids": [
+      "135015888",
+      "134616488"
+    ],
+    "normalized_match": "нпфтехинком",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/1295180",
+    "hh_website": "http://frontkit.ru/",
+    "hh_snapshot_observed_at": "2026-10-05T07:54:07.272370+00:00",
+    "hh_snapshot_vacancy_id": "135015888",
+    "gur_inn": "7806102473",
+    "gur_ogrn": "1037816033530",
+    "matching_evidence_urls": [
+      "https://frontkit.ru/o-kompanii/"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "8881",
+    "gur_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"КОНСТРУКТОРСКОЕ БЮРО \"ЛУГГАР\"",
+    "gur_short_name": "ООО \"КБ \"ЛУГГАР\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/8881",
+    "hh_id": "4272427",
+    "hh_names": [
+      "Конструкторское бюро Луггар"
+    ],
+    "regions": [
+      "Новосибирск"
+    ],
+    "sample_vacancy_ids": [
+      "137853915",
+      "137516862"
+    ],
+    "normalized_match": "конструкторскоебюролуггар",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/4272427",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T07:29:21.222056+00:00",
+    "hh_snapshot_vacancy_id": "137853915",
+    "gur_inn": "5402561894",
+    "gur_ogrn": "1135476062831",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "5926",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЛОМО\"",
+    "gur_short_name": "АО \"ЛОМО\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/5926",
+    "hh_id": "2763991",
+    "hh_names": [
+      "ЛОМО"
+    ],
+    "regions": [
+      "Санкт-Петербург"
+    ],
+    "sample_vacancy_ids": [
+      "130217359",
+      "137838011",
+      "136602136"
+    ],
+    "normalized_match": "ломо",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/2763991",
+    "hh_website": "http://www.lomo.ru",
+    "hh_snapshot_observed_at": "2026-10-05T08:04:57.574682+00:00",
+    "hh_snapshot_vacancy_id": "130217359",
+    "gur_inn": "7804002321",
+    "gur_ogrn": "1027802498514",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "115",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ПРОИЗВОДСТВЕННАЯ КОРПОРАЦИЯ \"УРАЛВАГОНЗАВОД\" ИМЕНИ Ф.Э. ДЗЕРЖИНСКОГО\"",
+    "gur_short_name": "АО \"НПК УРАЛВАГОНЗАВОД\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/115",
+    "hh_id": "5855406",
+    "hh_names": [
+      "Научно-Производственная Корпорация Уралвагонзавод Имени Ф.Э. Дзержинского"
+    ],
+    "regions": [
+      "Верхняя Салда",
+      "Екатеринбург",
+      "Кушва",
+      "Нижний Тагил"
+    ],
+    "sample_vacancy_ids": [
+      "135915019",
+      "135892913",
+      "135892401"
+    ],
+    "normalized_match": "научнопроизводственнаякорпорацияуралвагонзаводименифэдзержинского",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/5855406",
+    "hh_website": "https://vk.com/realuvznews/",
+    "hh_snapshot_observed_at": "2026-10-05T09:00:00.681753+00:00",
+    "hh_snapshot_vacancy_id": "135915019",
+    "gur_inn": "6623029538",
+    "gur_ogrn": "1086623002190",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "5739",
+    "gur_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"УБТ-СЕРВИС\"",
+    "gur_short_name": "ООО \"УБТ-СЕРВИС\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/5739",
+    "hh_id": "3958824",
+    "hh_names": [
+      "УБТ-Сервис"
+    ],
+    "regions": [
+      "Нижний Тагил"
+    ],
+    "sample_vacancy_ids": [
+      "135692020"
+    ],
+    "normalized_match": "убтсервис",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/3958824",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T11:11:46.861065+00:00",
+    "hh_snapshot_vacancy_id": "135692020",
+    "gur_inn": "6623070230",
+    "gur_ogrn": "1106623003728",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3418",
+    "gur_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"УРАЛЬСКОЕ КОНСТРУКТОРСКОЕ БЮРО ВАГОНОСТРОЕНИЯ\"",
+    "gur_short_name": "ООО \"УКБВ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3418",
+    "hh_id": "5305134",
+    "hh_names": [
+      "Уральское конструкторское бюро вагоностроения"
+    ],
+    "regions": [
+      "Нижний Тагил"
+    ],
+    "sample_vacancy_ids": [
+      "135921187",
+      "137562483",
+      "137681395"
+    ],
+    "normalized_match": "уральскоеконструкторскоебюровагоностроения",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/5305134",
+    "hh_website": "https://ukbv.ru/",
+    "hh_snapshot_observed_at": "2026-10-05T09:00:50.640341+00:00",
+    "hh_snapshot_vacancy_id": "135921187",
+    "gur_inn": "6623091790",
+    "gur_ogrn": "1136623001217",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3424",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"61 БРОНЕТАНКОВЫЙ РЕМОНТНЫЙ ЗАВОД\"",
+    "gur_short_name": "АО \"61 БТРЗ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3424",
+    "hh_id": "3432042",
+    "hh_names": [
+      "61 Бронетанковый Ремонтный Завод"
+    ],
+    "regions": [
+      "Санкт-Петербург"
+    ],
+    "sample_vacancy_ids": [
+      "137209995",
+      "134738838",
+      "135443929"
+    ],
+    "normalized_match": "61бронетанковыйремонтныйзавод",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/3432042",
+    "hh_website": "http://61btrz.ru/",
+    "hh_snapshot_observed_at": "2026-10-05T08:40:42.627514+00:00",
+    "hh_snapshot_vacancy_id": "137209995",
+    "gur_inn": "7819310752",
+    "gur_ogrn": "1097847131678",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "15620",
+    "gur_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"СФЕРА\"",
+    "gur_short_name": "ООО \"СФЕРА\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/15620",
+    "hh_id": "5190448",
+    "hh_names": [
+      "СФЕРА"
+    ],
+    "regions": [
+      "Казань"
+    ],
+    "sample_vacancy_ids": [
+      "137927154"
+    ],
+    "normalized_match": "сфера",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/5190448",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T08:53:25.253224+00:00",
+    "hh_snapshot_vacancy_id": "137927154",
+    "gur_inn": "7452120264",
+    "gur_ogrn": "1147452007053",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "4664",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТЕХНОДИНАМИКА\"",
+    "gur_short_name": "АО \"ТЕХНОДИНАМИКА\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/4664",
+    "hh_id": "926876",
+    "hh_names": [
+      "Технодинамика"
+    ],
+    "regions": [
+      "Ижевск",
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "137297365",
+      "136265328",
+      "137041007"
+    ],
+    "normalized_match": "технодинамика",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/926876",
+    "hh_website": "http://technodinamika.ru",
+    "hh_snapshot_observed_at": "2026-10-04T21:24:28.828767+00:00",
+    "hh_snapshot_vacancy_id": "137297365",
+    "gur_inn": "7719265496",
+    "gur_ogrn": "1037719005873",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "317",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ПРОИЗВОДСТВЕННЫЙ КОНЦЕРН \"ТЕХНОЛОГИИ МАШИНОСТРОЕНИЯ\"",
+    "gur_short_name": "АО \"НПК \"ТЕХМАШ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/317",
+    "hh_id": "1966350",
+    "hh_names": [
+      "НПК Техмаш"
+    ],
+    "regions": [
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "137546618",
+      "137546516",
+      "138058394"
+    ],
+    "normalized_match": "нпктехмаш",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1966350",
+    "hh_website": "http://tecmash.ru",
+    "hh_snapshot_observed_at": "2026-10-04T21:26:39.038095+00:00",
+    "hh_snapshot_vacancy_id": "137546618",
+    "gur_inn": "7743813961",
+    "gur_ogrn": "1117746260477",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3413",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЦЕНТРАЛЬНЫЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ МАТЕРИАЛОВ ИМЕНИ Д.И. МЕНДЕЛЕЕВА\"",
+    "gur_short_name": "АО \"ЦНИИМ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3413",
+    "hh_id": "903959",
+    "hh_names": [
+      "Центральный научно-исследовательский институт материалов имени Д.И. Менделеева"
+    ],
+    "regions": [
+      "Санкт-Петербург"
+    ],
+    "sample_vacancy_ids": [
+      "137427003"
+    ],
+    "normalized_match": "центральныйнаучноисследовательскийинститутматериаловименидименделеева",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/903959",
+    "hh_website": "http://www.cniim.com",
+    "hh_snapshot_observed_at": "2026-10-04T21:26:28.882466+00:00",
+    "hh_snapshot_vacancy_id": "137427003",
+    "gur_inn": "7842436263",
+    "gur_ogrn": "1107847269045",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3420",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"УРАЛЬСКИЙ ЗАВОД ТРАНСПОРТНОГО МАШИНОСТРОЕНИЯ\"",
+    "gur_short_name": "АО \"УРАЛТРАНСМАШ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3420",
+    "hh_id": "1222648",
+    "hh_names": [
+      "Уралтрансмаш"
+    ],
+    "regions": [
+      "Екатеринбург"
+    ],
+    "sample_vacancy_ids": [
+      "136808907",
+      "137801976",
+      "137059951"
+    ],
+    "normalized_match": "уралтрансмаш",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1222648",
+    "hh_website": "http://www.uraltransmash.com",
+    "hh_snapshot_observed_at": "2026-10-05T08:40:36.475722+00:00",
+    "hh_snapshot_vacancy_id": "136808907",
+    "gur_inn": "6659190900",
+    "gur_ogrn": "1096659005200",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3417",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЗАВОД №9\"",
+    "gur_short_name": "АО \"ЗАВОД №9\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3417",
+    "hh_id": "580086",
+    "hh_names": [
+      "Завод №9"
+    ],
+    "regions": [
+      "Екатеринбург"
+    ],
+    "sample_vacancy_ids": [
+      "137911809",
+      "136690935"
+    ],
+    "normalized_match": "завод9",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/580086",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-04T21:25:46.067127+00:00",
+    "hh_snapshot_vacancy_id": "137911809",
+    "gur_inn": "6673189640",
+    "gur_ogrn": "1086673012920",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "5927",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ \"ПРИБОР\" ИМЕНИ С.С. ГОЛЕМБИОВСКОГО\"",
+    "gur_short_name": "АО \"НПО \"ПРИБОР\" ИМ. С.С. ГОЛЕМБИОВСКОГО\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/5927",
+    "hh_id": "3251713",
+    "hh_names": [
+      "Научно-Производственное Объединение Прибор Имени С.С. Голембиовского"
+    ],
+    "regions": [
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "137766009",
+      "137240655"
+    ],
+    "normalized_match": "научнопроизводственноеобъединениеприборимениссголембиовского",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/3251713",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T11:12:22.965235+00:00",
+    "hh_snapshot_vacancy_id": "137766009",
+    "gur_inn": "7726700943",
+    "gur_ogrn": "1127746541427",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3386",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НОВОСИБИРСКИЙ ЗАВОД ИСКУССТВЕННОГО ВОЛОКНА\"",
+    "gur_short_name": "АО \"НЗИВ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3386",
+    "hh_id": "2110438",
+    "hh_names": [
+      "Новосибирский завод искусственного волокна"
+    ],
+    "regions": [
+      "Искитим",
+      "Новосибирск"
+    ],
+    "sample_vacancy_ids": [
+      "138035007",
+      "137985673",
+      "137945789"
+    ],
+    "normalized_match": "новосибирскийзаводискусственноговолокна",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/2110438",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T09:14:22.137902+00:00",
+    "hh_snapshot_vacancy_id": "138035007",
+    "gur_inn": "5446013327",
+    "gur_ogrn": "1115483001567",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "145",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ \"СПЛАВ\" ИМЕНИ А.Н. ГАНИЧЕВА\"",
+    "gur_short_name": "АО \"НПО \"СПЛАВ\" ИМ. А.Н. ГАНИЧЕВА\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/145",
+    "hh_id": "1697545",
+    "hh_names": [
+      "НПО СПЛАВ им. А. Н. Ганичева"
+    ],
+    "regions": [
+      "Тула",
+      "Челябинск"
+    ],
+    "sample_vacancy_ids": [
+      "137972454",
+      "137937956",
+      "137946338"
+    ],
+    "normalized_match": "нпосплавиманганичева",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1697545",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-04T21:15:50.933806+00:00",
+    "hh_snapshot_vacancy_id": "137972454",
+    "gur_inn": "7105515987",
+    "gur_ogrn": "1127154020311",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "457",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ \"БАЗАЛЬТ\"",
+    "gur_short_name": "АО \"НПО \"БАЗАЛЬТ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/457",
+    "hh_id": "243942",
+    "hh_names": [
+      "НПО Базальт"
+    ],
+    "regions": [
+      "Кострома",
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "137897787",
+      "137836083",
+      "136642754"
+    ],
+    "normalized_match": "нпобазальт",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/243942",
+    "hh_website": "http://bazalt.ru",
+    "hh_snapshot_observed_at": "2026-10-05T08:37:04.862543+00:00",
+    "hh_snapshot_vacancy_id": "137897787",
+    "gur_inn": "7719830028",
+    "gur_ogrn": "1127747209501",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "7228",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ МАШИНОСТРОИТЕЛЬНЫЙ ИНСТИТУТ ИМЕНИ В.В. БАХИРЕВА\"",
+    "gur_short_name": "АО \"НИМИ ИМ. В.В. БАХИРЕВА\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/7228",
+    "hh_id": "1137979",
+    "hh_names": [
+      "НИМИ им.В.В. Бахирева"
+    ],
+    "regions": [
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "137658554"
+    ],
+    "normalized_match": "нимиимввбахирева",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1137979",
+    "hh_website": "http://www.nimi.su",
+    "hh_snapshot_observed_at": "2026-10-05T10:57:46.529559+00:00",
+    "hh_snapshot_vacancy_id": "137658554",
+    "gur_inn": "7743873015",
+    "gur_ogrn": "1127747236341",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3429",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЛЕНИНГРАДСКИЙ МЕХАНИЧЕСКИЙ ЗАВОД ИМЕНИ КАРЛА ЛИБКНЕХТА\"",
+    "gur_short_name": "АО \"ЛМЗ ИМ. К. ЛИБКНЕХТА\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3429",
+    "hh_id": "1622990",
+    "hh_names": [
+      "ЛМЗ им. К.Либкнехта"
+    ],
+    "regions": [
+      "Санкт-Петербург"
+    ],
+    "sample_vacancy_ids": [
+      "137744164",
+      "138010428",
+      "137900078"
+    ],
+    "normalized_match": "лмзимклибкнехта",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1622990",
+    "hh_website": "http://lmz-kl.ru/",
+    "hh_snapshot_observed_at": "2026-10-04T21:14:59.965748+00:00",
+    "hh_snapshot_vacancy_id": "137744164",
+    "gur_inn": "7804474927",
+    "gur_ogrn": "1117847568948",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "640",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЗАВОД \"ПЛАСТМАСС\"",
+    "gur_short_name": "АО \"ЗАВОД \"ПЛАСТМАСС\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/640",
+    "hh_id": "2170173",
+    "hh_names": [
+      "Завод Пластмасс"
+    ],
+    "regions": [
+      "Копейск"
+    ],
+    "sample_vacancy_ids": [
+      "136892771",
+      "136892887",
+      "138062007"
+    ],
+    "normalized_match": "заводпластмасс",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/2170173",
+    "hh_website": "http://www.zavod-plastmass.ru",
+    "hh_snapshot_observed_at": "2026-10-05T07:57:17.760010+00:00",
+    "hh_snapshot_vacancy_id": "136892771",
+    "gur_inn": "7411009901",
+    "gur_ogrn": "1117411001388",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3387",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СИГНАЛ\"",
+    "gur_short_name": "АО \"СИГНАЛ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3387",
+    "hh_id": "2797558",
+    "hh_names": [
+      "Сигнал"
+    ],
+    "regions": [
+      "Ставрополь"
+    ],
+    "sample_vacancy_ids": [
+      "137430511",
+      "137495620",
+      "137430120"
+    ],
+    "normalized_match": "сигнал",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/2797558",
+    "hh_website": "http://www.signalrp.ru",
+    "hh_snapshot_observed_at": "2026-10-05T10:15:50.297047+00:00",
+    "hh_snapshot_vacancy_id": "137430511",
+    "gur_inn": "7449105883",
+    "gur_ogrn": "1117449005310",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3387",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СИГНАЛ\"",
+    "gur_short_name": "АО \"СИГНАЛ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3387",
+    "hh_id": "2249405",
+    "hh_names": [
+      "Сигнал"
+    ],
+    "regions": [
+      "Челябинск"
+    ],
+    "sample_vacancy_ids": [
+      "134779375",
+      "137568524",
+      "134239982"
+    ],
+    "normalized_match": "сигнал",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/2249405",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T08:01:37.357831+00:00",
+    "hh_snapshot_vacancy_id": "134779375",
+    "gur_inn": "7449105883",
+    "gur_ogrn": "1117449005310",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3453",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ \"ПОИСК\" ИМЕНИ В.И. РДУЛТОВСКОГО",
+    "gur_short_name": "АО \"НПО \"ПОИСК\" ИМЕНИ В.И. РДУЛТОВСКОГО\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3453",
+    "hh_id": "350778",
+    "hh_names": [
+      "Научно-Производственное Объединение Поиск Имени В.И. Рдултовского"
+    ],
+    "regions": [
+      "Санкт-Петербург"
+    ],
+    "sample_vacancy_ids": [
+      "134877194",
+      "134877283",
+      "136955921"
+    ],
+    "normalized_match": "научнопроизводственноеобъединениепоискименивирдултовского",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/350778",
+    "hh_website": "http://npo-poisk.ru/",
+    "hh_snapshot_observed_at": "2026-10-04T21:27:38.793816+00:00",
+    "hh_snapshot_vacancy_id": "134877194",
+    "gur_inn": "4703142849",
+    "gur_ogrn": "1144703004380",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3384",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ТЕХНОЛОГИЧЕСКИЙ ИНСТИТУТ ИМЕНИ П.И. СНЕГИРЕВА\"",
+    "gur_short_name": "АО \"НИТИ ИМ. П.И. СНЕГИРЁВА\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3384",
+    "hh_id": "3337397",
+    "hh_names": [
+      "АО НИТИ им. П.И. Снегирева"
+    ],
+    "regions": [
+      "Железнодорожный  (Московская область)"
+    ],
+    "sample_vacancy_ids": [
+      "132999610",
+      "133344209",
+      "118301859"
+    ],
+    "normalized_match": "нитиимписнегирева",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/3337397",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T07:22:12.409919+00:00",
+    "hh_snapshot_vacancy_id": "132999610",
+    "gur_inn": "5012071164",
+    "gur_ogrn": "1115012006526",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "9333",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНЖЕНЕРНЫЙ ИНСТИТУТ\"",
+    "gur_short_name": "АО \"НИИИ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/9333",
+    "hh_id": "1457873",
+    "hh_names": [
+      "НИИИ"
+    ],
+    "regions": [
+      "Балашиха (Московская область)",
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "129954749",
+      "129948829",
+      "128514096"
+    ],
+    "normalized_match": "ниии",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1457873",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T08:37:57.719543+00:00",
+    "hh_snapshot_vacancy_id": "129954749",
+    "gur_inn": "5001086137",
+    "gur_ogrn": "1115001009210",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3388",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"КЕМЕРОВСКИЙ МЕХАНИЧЕСКИЙ ЗАВОД\"",
+    "gur_short_name": "АО \"КМЗ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3388",
+    "hh_id": "3361926",
+    "hh_names": [
+      "Кемеровский механический завод"
+    ],
+    "regions": [
+      "Кемерово"
+    ],
+    "sample_vacancy_ids": [
+      "138096705",
+      "137581856",
+      "131969116"
+    ],
+    "normalized_match": "кемеровскиймеханическийзавод",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/3361926",
+    "hh_website": "https://www.kmz42.ru/",
+    "hh_snapshot_observed_at": "2026-10-05T10:26:51.118550+00:00",
+    "hh_snapshot_vacancy_id": "138096705",
+    "gur_inn": "4205227909",
+    "gur_ogrn": "1114205036000",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "9988",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СПЕЦХИМИЯ\"",
+    "gur_short_name": "АО \"СПЕЦХИМИЯ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/9988",
+    "hh_id": "3668820",
+    "hh_names": [
+      "СПЕЦХИМИЯ"
+    ],
+    "regions": [
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "135227985",
+      "135935153",
+      "135536449"
+    ],
+    "normalized_match": "спецхимия",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/3668820",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T08:48:22.566025+00:00",
+    "hh_snapshot_vacancy_id": "135227985",
+    "gur_inn": "7724859431",
+    "gur_ogrn": "1127747292750",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "9991",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЙ НАУЧНЫЙ ЦЕНТР \"ПРИКЛАДНАЯ ХИМИЯ (ГИПХ)\"",
+    "gur_short_name": "АО \"РНЦ \"ПРИКЛАДНАЯ ХИМИЯ (ГИПХ)\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/9991",
+    "hh_id": "2842223",
+    "hh_names": [
+      "РНЦ Прикладная химия (ГИПХ)"
+    ],
+    "regions": [
+      "Кузьмоловский",
+      "Санкт-Петербург"
+    ],
+    "sample_vacancy_ids": [
+      "136365326",
+      "138048477",
+      "138064030"
+    ],
+    "normalized_match": "рнцприкладнаяхимиягипх",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/2842223",
+    "hh_website": "https://giph.su/",
+    "hh_snapshot_observed_at": "2026-10-04T21:18:09.533193+00:00",
+    "hh_snapshot_vacancy_id": "136365326",
+    "gur_inn": "7811753760",
+    "gur_ogrn": "1207800165264",
+    "matching_evidence_urls": [
+      "https://giph.su/2022/04/",
+      "https://giph.su/o-predpriyatii/"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "7128",
+    "gur_name": "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ ПРЕДПРИЯТИЕ \"ПЕРМСКИЙ ПОРОХОВОЙ ЗАВОД\"",
+    "gur_short_name": "ФКП \"ПЕРМСКИЙ ПОРОХОВОЙ ЗАВОД\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/7128",
+    "hh_id": "833660",
+    "hh_names": [
+      "Пермский пороховой завод, ФКП"
+    ],
+    "regions": [
+      "Бийск",
+      "Пермь"
+    ],
+    "sample_vacancy_ids": [
+      "137622845",
+      "137461009",
+      "137309572"
+    ],
+    "normalized_match": "пермскийпороховойзавод",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/833660",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T07:55:05.513172+00:00",
+    "hh_snapshot_vacancy_id": "137622845",
+    "gur_inn": "5908006119",
+    "gur_ogrn": "1025901604156",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "14274",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ФЕДЕРАЛЬНЫЙ ЦЕНТР ДВОЙНЫХ ТЕХНОЛОГИЙ \"СОЮЗ\"",
+    "gur_short_name": "АО \"ФЦДТ \"СОЮЗ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/14274",
+    "hh_id": "1365895",
+    "hh_names": [
+      "ФЦДТ СОЮЗ"
+    ],
+    "regions": [
+      "Дзержинский  (Московская область)",
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "126809340",
+      "129990561",
+      "134841120"
+    ],
+    "normalized_match": "фцдтсоюз",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1365895",
+    "hh_website": "http://www.fcdt.ru/",
+    "hh_snapshot_observed_at": "2026-10-05T08:46:57.885338+00:00",
+    "hh_snapshot_vacancy_id": "126809340",
+    "gur_inn": "5027333849",
+    "gur_ogrn": "1245000132937",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "4333",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СОЛИКАМСКИЙ ЗАВОД \"УРАЛ\"",
+    "gur_short_name": "АО \"СОЛИКАМСКИЙ ЗАВОД \"УРАЛ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/4333",
+    "hh_id": "2639424",
+    "hh_names": [
+      "Соликамский завод Урал"
+    ],
+    "regions": [
+      "Соликамск"
+    ],
+    "sample_vacancy_ids": [
+      "137971052"
+    ],
+    "normalized_match": "соликамскийзаводурал",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/2639424",
+    "hh_website": "http://zavodural.ru",
+    "hh_snapshot_observed_at": "2026-10-05T11:19:25.834065+00:00",
+    "hh_snapshot_vacancy_id": "137971052",
+    "gur_inn": "5919015877",
+    "gur_ogrn": "1115919002561",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "9380",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ПОЛИМЕРНЫХ МАТЕРИАЛОВ\"",
+    "gur_short_name": "АО \"НИИПМ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/9380",
+    "hh_id": "1568279",
+    "hh_names": [
+      "НИИПМ"
+    ],
+    "regions": [
+      "Пермь"
+    ],
+    "sample_vacancy_ids": [
+      "137062402"
+    ],
+    "normalized_match": "ниипм",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1568279",
+    "hh_website": "http://niipm.perm.ru/",
+    "hh_snapshot_observed_at": "2026-10-05T13:08:23.321178+00:00",
+    "hh_snapshot_vacancy_id": "137062402",
+    "gur_inn": "5908051070",
+    "gur_ogrn": "1125908001670",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "8118",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"МУРОМСКИЙ ПРИБОРОСТРОИТЕЛЬНЫЙ ЗАВОД\"",
+    "gur_short_name": "АО \"МПЗ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/8118",
+    "hh_id": "4007641",
+    "hh_names": [
+      "Муромский приборостроительный завод"
+    ],
+    "regions": [
+      "Муром"
+    ],
+    "sample_vacancy_ids": [
+      "137560853"
+    ],
+    "normalized_match": "муромскийприборостроительныйзавод",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/4007641",
+    "hh_website": "http://www.mpzflame.ru/",
+    "hh_snapshot_observed_at": "2026-10-05T14:02:16.083248+00:00",
+    "hh_snapshot_vacancy_id": "137560853",
+    "gur_inn": "3334017070",
+    "gur_ogrn": "1113334001879",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "7222",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ПРОИЗВОДСТВЕННОЕ ПРЕДПРИЯТИЕ \"КРАСНОЗНАМЁНЕЦ\"",
+    "gur_short_name": "АО \"НПП \"КРАСНОЗНАМЁНЕЦ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/7222",
+    "hh_id": "1446952",
+    "hh_names": [
+      "НПП Краснознаменец"
+    ],
+    "regions": [
+      "Санкт-Петербург"
+    ],
+    "sample_vacancy_ids": [
+      "129271181",
+      "135218775",
+      "135790238"
+    ],
+    "normalized_match": "нппкраснознаменец",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1446952",
+    "hh_website": "http://krzn.ru/",
+    "hh_snapshot_observed_at": "2026-10-04T21:19:36.608116+00:00",
+    "hh_snapshot_vacancy_id": "129271181",
+    "gur_inn": "7806469104",
+    "gur_ogrn": "1117847684041",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "371",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ФЕДЕРАЛЬНЫЙ НАУЧНО-ПРОИЗВОДСТВЕННЫЙ ЦЕНТР \"НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ПРИКЛАДНОЙ ХИМИИ\"",
+    "gur_short_name": "АО \"ФНПЦ \"НИИ ПРИКЛАДНОЙ ХИМИИ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/371",
+    "hh_id": "2061965",
+    "hh_names": [
+      "ФНПЦ НИИ прикладной химии"
+    ],
+    "regions": [
+      "Сергиев Посад (Московская область)"
+    ],
+    "sample_vacancy_ids": [
+      "137214385"
+    ],
+    "normalized_match": "фнпцнииприкладнойхимии",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/2061965",
+    "hh_website": "http://www.niiph.ru",
+    "hh_snapshot_observed_at": "2026-10-05T12:13:31.033140+00:00",
+    "hh_snapshot_vacancy_id": "137214385",
+    "gur_inn": "5042120394",
+    "gur_ogrn": "1115042005638",
+    "matching_evidence_urls": [
+      "https://niiph.ru/"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "5958",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ГОСУДАРСТВЕННЫЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ \"КРИСТАЛЛ\"",
+    "gur_short_name": "АО \"ГОСНИИ \"КРИСТАЛЛ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/5958",
+    "hh_id": "1607011",
+    "hh_names": [
+      "ГосНИИ Кристалл"
+    ],
+    "regions": [
+      "Дзержинск (Нижегородская область)"
+    ],
+    "sample_vacancy_ids": [
+      "128511492"
+    ],
+    "normalized_match": "госниикристалл",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1607011",
+    "hh_website": "http://niikristall.ru/",
+    "hh_snapshot_observed_at": "2026-10-05T12:13:28.618032+00:00",
+    "hh_snapshot_vacancy_id": "128511492",
+    "gur_inn": "5249116549",
+    "gur_ogrn": "1115249009831",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3389",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"АКЦИОНЕРНАЯ КОМПАНИЯ \"ТУЛАМАШЗАВОД\"",
+    "gur_short_name": "АО \"АК \"ТУЛАМАШЗАВОД\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3389",
+    "hh_id": "2240412",
+    "hh_names": [
+      "АК Туламашзавод"
+    ],
+    "regions": [
+      "Тула"
+    ],
+    "sample_vacancy_ids": [
+      "132846235",
+      "137900959",
+      "132916839"
+    ],
+    "normalized_match": "актуламашзавод",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/2240412",
+    "hh_website": "http://tulamash.ru",
+    "hh_snapshot_observed_at": "2026-10-05T07:25:49.841408+00:00",
+    "hh_snapshot_vacancy_id": "132846235",
+    "gur_inn": "7106002836",
+    "gur_ogrn": "1027100507114",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3393",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТУЛАТОЧМАШ\"",
+    "gur_short_name": "АО \"ТУЛАТОЧМАШ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3393",
+    "hh_id": "2962370",
+    "hh_names": [
+      "Тулаточмаш"
+    ],
+    "regions": [
+      "Тула"
+    ],
+    "sample_vacancy_ids": [
+      "137896623",
+      "137287685",
+      "136918709"
+    ],
+    "normalized_match": "тулаточмаш",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/2962370",
+    "hh_website": "http://tulatochmash.ru",
+    "hh_snapshot_observed_at": "2026-10-04T21:15:20.995757+00:00",
+    "hh_snapshot_vacancy_id": "137896623",
+    "gur_inn": "7106002829",
+    "gur_ogrn": "1027100738565",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "8143",
+    "gur_name": "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ ПРЕДПРИЯТИЕ \"ЗАВОД ИМЕНИ Я.М.СВЕРДЛОВА\"",
+    "gur_short_name": "ФКП \"ЗАВОД ИМЕНИ Я.М.СВЕРДЛОВА\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/8143",
+    "hh_id": "1432635",
+    "hh_names": [
+      "ФКП Завод имени Я.М.Свердлова"
+    ],
+    "regions": [
+      "Дзержинск (Нижегородская область)"
+    ],
+    "sample_vacancy_ids": [
+      "133912809",
+      "137778711",
+      "132751188"
+    ],
+    "normalized_match": "заводимениямсвердлова",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1432635",
+    "hh_website": "https://vk.com/z.sverdlova",
+    "hh_snapshot_observed_at": "2026-10-05T07:25:47.691762+00:00",
+    "hh_snapshot_vacancy_id": "133912809",
+    "gur_inn": "5249002485",
+    "gur_ogrn": "1025201752982",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "review_reason": "shared_platform_or_parent_site_not_sufficient"
+  },
+  {
+    "gur_id": "8140",
+    "gur_name": "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ ПРЕДПРИЯТИЕ \"АВАНГАРД\"",
+    "gur_short_name": "ФКП \"АВАНГАРД\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/8140",
+    "hh_id": "10281799",
+    "hh_names": [
+      "Авангард"
+    ],
+    "regions": [
+      "Абакан"
+    ],
+    "sample_vacancy_ids": [
+      "137411027"
+    ],
+    "normalized_match": "авангард",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/10281799",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T14:02:53.646720+00:00",
+    "hh_snapshot_vacancy_id": "137411027",
+    "gur_inn": "0268005588",
+    "gur_ogrn": "1020202089115",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "8140",
+    "gur_name": "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ ПРЕДПРИЯТИЕ \"АВАНГАРД\"",
+    "gur_short_name": "ФКП \"АВАНГАРД\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/8140",
+    "hh_id": "2760967",
+    "hh_names": [
+      "АВАНГАРД, ФКП"
+    ],
+    "regions": [
+      "Стерлитамак"
+    ],
+    "sample_vacancy_ids": [
+      "137308746"
+    ],
+    "normalized_match": "авангард",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/2760967",
+    "hh_website": "http://avangard-fkp.ru/",
+    "hh_snapshot_observed_at": "2026-10-05T12:42:38.620855+00:00",
+    "hh_snapshot_vacancy_id": "137308746",
+    "gur_inn": "0268005588",
+    "gur_ogrn": "1020202089115",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "8142",
+    "gur_name": "ФЕДЕРАЛЬНОЕ КАЗЕННОЕ ПРЕДПРИЯТИЕ \"ТАМБОВСКИЙ ПОРОХОВОЙ ЗАВОД\"",
+    "gur_short_name": "ФКП ТПЗ",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/8142",
+    "hh_id": "1652314",
+    "hh_names": [
+      "ФКП Тамбовский пороховой завод"
+    ],
+    "regions": [
+      "Знаменка (Тамбовская область)",
+      "Котовск (Тамбовская область)",
+      "Красненькая",
+      "Сампур",
+      "Сатинка",
+      "Строитель (Тамбовская область)",
+      "Тамбов"
+    ],
+    "sample_vacancy_ids": [
+      "137353470",
+      "137353419",
+      "137203217"
+    ],
+    "normalized_match": "тамбовскийпороховойзавод",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1652314",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T09:57:47.331780+00:00",
+    "hh_snapshot_vacancy_id": "137353470",
+    "gur_inn": "6825000757",
+    "gur_ogrn": "1026801010994",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "15243",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЗАВОД ИМЕНИ МОРОЗОВА\"",
+    "gur_short_name": "АО \"ЗАВОД ИМЕНИ МОРОЗОВА\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/15243",
+    "hh_id": "720217",
+    "hh_names": [
+      "Завод Имени Морозова"
+    ],
+    "regions": [
+      "Всеволожск",
+      "посёлок имени Морозова"
+    ],
+    "sample_vacancy_ids": [
+      "137464097",
+      "137444399"
+    ],
+    "normalized_match": "заводимениморозова",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/720217",
+    "hh_website": "http://zavodm.su",
+    "hh_snapshot_observed_at": "2026-10-05T12:52:06.467978+00:00",
+    "hh_snapshot_vacancy_id": "137464097",
+    "gur_inn": "4706089872",
+    "gur_ogrn": "1254700010223",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "14290",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЦЕНТР АВТОНОМНЫХ РОБОТИЗИРОВАННЫХ СИСТЕМ\"",
+    "gur_short_name": "АО \"ЦАРС\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/14290",
+    "hh_id": "10009893",
+    "hh_names": [
+      "Центр Автономных Роботизированных Систем"
+    ],
+    "regions": [
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "136374846",
+      "134091926",
+      "137447693"
+    ],
+    "normalized_match": "центравтономныхроботизированныхсистем",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/10009893",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T07:32:18.940053+00:00",
+    "hh_snapshot_vacancy_id": "136374846",
+    "gur_inn": "7720896136",
+    "gur_ogrn": "1237700299473",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "14635",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"САМАРСКИЙ ЭЛЕКТРОМЕХАНИЧЕСКИЙ ЗАВОД\"",
+    "gur_short_name": "АО \"СЭМЗ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/14635",
+    "hh_id": "4819816",
+    "hh_names": [
+      "Самарский электромеханический завод"
+    ],
+    "regions": [
+      "Самара"
+    ],
+    "sample_vacancy_ids": [
+      "133596428",
+      "136618202",
+      "135652229"
+    ],
+    "normalized_match": "самарскийэлектромеханическийзавод",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/4819816",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T11:34:23.241360+00:00",
+    "hh_snapshot_vacancy_id": "133596428",
+    "gur_inn": "6317088527",
+    "gur_ogrn": "1116317006299",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3547",
+    "gur_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"БЮРО ЦИФРОВОЙ ТРАНСФОРМАЦИИ\"",
+    "gur_short_name": "ООО \"БЦТ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3547",
+    "hh_id": "4208050",
+    "hh_names": [
+      "Бюро Цифровой Трансформации"
+    ],
+    "regions": [
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "137793756"
+    ],
+    "normalized_match": "бюроцифровойтрансформации",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/4208050",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T11:11:57.379739+00:00",
+    "hh_snapshot_vacancy_id": "137793756",
+    "gur_inn": "7701995565",
+    "gur_ogrn": "1137746344834",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3537",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ ПАРАШЮТОСТРОЕНИЯ\"",
+    "gur_short_name": "АО \"НПО ПАРАШЮТОСТРОЕНИЯ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3537",
+    "hh_id": "1935165",
+    "hh_names": [
+      "НПО парашютостроения"
+    ],
+    "regions": [
+      "Москва",
+      "Солнечногорск (Московская область)",
+      "Тверь"
+    ],
+    "sample_vacancy_ids": [
+      "137442599",
+      "137475868",
+      "137244670"
+    ],
+    "normalized_match": "нпопарашютостроения",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1935165",
+    "hh_website": "http://niiparachute.ru",
+    "hh_snapshot_observed_at": "2026-10-05T08:34:02.438336+00:00",
+    "hh_snapshot_vacancy_id": "137442599",
+    "gur_inn": "7718922861",
+    "gur_ogrn": "1137746157394",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3375",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"УФИМСКОЕ АГРЕГАТНОЕ ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ\"",
+    "gur_short_name": "АО \"УАПО\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3375",
+    "hh_id": "1109392",
+    "hh_names": [
+      "УАПО"
+    ],
+    "regions": [
+      "Уфа"
+    ],
+    "sample_vacancy_ids": [
+      "137907851",
+      "134813942",
+      "137592969"
+    ],
+    "normalized_match": "уапо",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1109392",
+    "hh_website": "http://uapo.ru",
+    "hh_snapshot_observed_at": "2026-10-05T10:55:29.450837+00:00",
+    "hh_snapshot_vacancy_id": "137907851",
+    "gur_inn": "0275074279",
+    "gur_ogrn": "1110280035040",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3546",
+    "gur_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ВИДИС ГРУПП\"",
+    "gur_short_name": "ООО \"ВИДИС ГРУПП\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3546",
+    "hh_id": "965246",
+    "hh_names": [
+      "Видис Групп"
+    ],
+    "regions": [
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "137392079",
+      "137247216",
+      "138102707"
+    ],
+    "normalized_match": "видисгрупп",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/965246",
+    "hh_website": "http://www.widis.ru",
+    "hh_snapshot_observed_at": "2026-10-04T21:26:42.202039+00:00",
+    "hh_snapshot_vacancy_id": "137392079",
+    "gur_inn": "7717683498",
+    "gur_ogrn": "1107746791910",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "11718",
+    "gur_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПРОГРЕСС\"",
+    "gur_short_name": "ООО \"ПРОГРЕСС\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/11718",
+    "hh_id": "3122660",
+    "hh_names": [
+      "Прогресс"
+    ],
+    "regions": [
+      "Краснодар"
+    ],
+    "sample_vacancy_ids": [
+      "132368115",
+      "132606330",
+      "131598359"
+    ],
+    "normalized_match": "прогресс",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/3122660",
+    "hh_website": "http://progress-zavod.ru",
+    "hh_snapshot_observed_at": "2026-10-05T13:11:11.088350+00:00",
+    "hh_snapshot_vacancy_id": "132368115",
+    "gur_inn": "6335000885",
+    "gur_ogrn": "1026303177218",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "11718",
+    "gur_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ПРОГРЕСС\"",
+    "gur_short_name": "ООО \"ПРОГРЕСС\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/11718",
+    "hh_id": "232186",
+    "hh_names": [
+      "ПРОГРЕСС"
+    ],
+    "regions": [
+      "Липецк"
+    ],
+    "sample_vacancy_ids": [
+      "137033324"
+    ],
+    "normalized_match": "прогресс",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/232186",
+    "hh_website": "http://www.progressfood.ru",
+    "hh_snapshot_observed_at": "2026-10-05T09:04:58.699198+00:00",
+    "hh_snapshot_vacancy_id": "137033324",
+    "gur_inn": "6335000885",
+    "gur_ogrn": "1026303177218",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "12408",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ \"ОПЫТНО-КОНСТРУКТОРСКОЕ БЮРО ИМЕНИ М.П. СИМОНОВА\"",
+    "gur_short_name": "АО НПО \"ОКБ ИМ. М.П. СИМОНОВА\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/12408",
+    "hh_id": "561040",
+    "hh_names": [
+      "НПО ОКБ им.М.П. Симонова"
+    ],
+    "regions": [
+      "Жуковский  (Московская область)",
+      "Казань",
+      "Красногорск (Московская область)",
+      "Красноярск",
+      "Москва",
+      "Санкт-Петербург"
+    ],
+    "sample_vacancy_ids": [
+      "135043323",
+      "137518317",
+      "137447143"
+    ],
+    "normalized_match": "нпоокбиммпсимонова",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/561040",
+    "hh_website": "http://okbsimonova.ru/",
+    "hh_snapshot_observed_at": "2026-10-05T07:26:47.721460+00:00",
+    "hh_snapshot_vacancy_id": "135043323",
+    "gur_inn": "1661007166",
+    "gur_ogrn": "1021603886622",
+    "matching_evidence_urls": [
+      "http://okbsimonova.ru/activities/repair/",
+      "http://okbsimonova.ru/press/gallery/kompleks_vozdushnoy_misheni_dan_m-73/"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "642",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"УРАЛЬСКИЙ ЗАВОД ГРАЖДАНСКОЙ АВИАЦИИ\"",
+    "gur_short_name": "АО \"УЗГА\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/642",
+    "hh_id": "675915",
+    "hh_names": [
+      "Уральский завод гражданской авиации"
+    ],
+    "regions": [
+      "Екатеринбург"
+    ],
+    "sample_vacancy_ids": [
+      "138045433"
+    ],
+    "normalized_match": "уральскийзаводгражданскойавиации",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/675915",
+    "hh_website": "http://www.uwca.ru/",
+    "hh_snapshot_observed_at": "2026-10-05T09:27:50.828610+00:00",
+    "hh_snapshot_vacancy_id": "138045433",
+    "gur_inn": "6664013640",
+    "gur_ogrn": "1026605766560",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "15234",
+    "gur_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ТЕХНОДЖЕТ\"",
+    "gur_short_name": "ООО \"ТЕХНОДЖЕТ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/15234",
+    "hh_id": "11253757",
+    "hh_names": [
+      "Техноджет"
+    ],
+    "regions": [
+      "Нижний Новгород"
+    ],
+    "sample_vacancy_ids": [
+      "137544664",
+      "137544660"
+    ],
+    "normalized_match": "техноджет",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/11253757",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-04T21:24:30.632164+00:00",
+    "hh_snapshot_vacancy_id": "137544664",
+    "gur_inn": "7702332296",
+    "gur_ogrn": "1027739310169",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "5923",
+    "gur_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"МОТОВИЛИХА - ГРАЖДАНСКОЕ МАШИНОСТРОЕНИЕ\"",
+    "gur_short_name": "ООО \"МГМ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/5923",
+    "hh_id": "3654805",
+    "hh_names": [
+      "Мотовилиха - гражданское машиностроение"
+    ],
+    "regions": [
+      "Пермь"
+    ],
+    "sample_vacancy_ids": [
+      "137722706",
+      "137594540",
+      "137675152"
+    ],
+    "normalized_match": "мотовилихагражданскоемашиностроение",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/3654805",
+    "hh_website": "http://mz.perm.ru",
+    "hh_snapshot_observed_at": "2026-10-05T08:03:26.119742+00:00",
+    "hh_snapshot_vacancy_id": "137722706",
+    "gur_inn": "5906034209",
+    "gur_ogrn": "1025901366611",
+    "matching_evidence_urls": [
+      "https://mz.perm.ru/about/social_politics/vacancies/"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "3543",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ПРОИЗВОДСТВЕННОЕ ПРЕДПРИЯТИЕ \"СТАРТ\" ИМ. А.И. ЯСКИНА\"",
+    "gur_short_name": "АО \"НПП \"СТАРТ\" ИМ. А.И. ЯСКИНА\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3543",
+    "hh_id": "1842222",
+    "hh_names": [
+      "НПП «Старт» им. А.И. Яскина"
+    ],
+    "regions": [
+      "Екатеринбург"
+    ],
+    "sample_vacancy_ids": [
+      "137307055"
+    ],
+    "normalized_match": "нппстартимаияскина",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1842222",
+    "hh_website": "http://www.nppstart.ru/section/5/",
+    "hh_snapshot_observed_at": "2026-10-05T13:43:38.205087+00:00",
+    "hh_snapshot_vacancy_id": "137307055",
+    "gur_inn": "6662054224",
+    "gur_ogrn": "1026605387951",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3531",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЭЛЕКТРОПРИВОД\"",
+    "gur_short_name": "АО \"ЭЛЕКТРОПРИВОД\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3531",
+    "hh_id": "3849370",
+    "hh_names": [
+      "Электропривод"
+    ],
+    "regions": [
+      "Киров (Кировская область)"
+    ],
+    "sample_vacancy_ids": [
+      "138003004",
+      "136915986",
+      "134820943"
+    ],
+    "normalized_match": "электропривод",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/3849370",
+    "hh_website": "https://www.epv.ru/",
+    "hh_snapshot_observed_at": "2026-10-05T12:48:38.555922+00:00",
+    "hh_snapshot_vacancy_id": "138003004",
+    "gur_inn": "4345000922",
+    "gur_ogrn": "1024301320856",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3539",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"МАШИНОСТРОИТЕЛЬНОЕ ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ ИМЕНИ И. РУМЯНЦЕВА\"",
+    "gur_short_name": "АО \"МПО ИМ. И. РУМЯНЦЕВА\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3539",
+    "hh_id": "3624",
+    "hh_names": [
+      "МПО Им. И.Румянцева"
+    ],
+    "regions": [
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "135334426",
+      "137479095",
+      "132624725"
+    ],
+    "normalized_match": "мпоимирумянцева",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/3624",
+    "hh_website": "http://mporum.tilda.ws",
+    "hh_snapshot_observed_at": "2026-10-05T08:40:04.393136+00:00",
+    "hh_snapshot_vacancy_id": "135334426",
+    "gur_inn": "7714081921",
+    "gur_ogrn": "1027739001025",
+    "matching_evidence_urls": [
+      "https://mporum.tilda.ws/#rec609810138"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "3542",
+    "gur_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЭЛЕКТРОМАШИНОСТРОИТЕЛЬНЫЙ ЗАВОД \"ВЭЛКОНТ\"",
+    "gur_short_name": "ОАО \"ВЭЛКОНТ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3542",
+    "hh_id": "4501363",
+    "hh_names": [
+      "Электромашиностроительный завод ВЭЛКОНТ"
+    ],
+    "regions": [
+      "Кирово-Чепецк"
+    ],
+    "sample_vacancy_ids": [
+      "137852187"
+    ],
+    "normalized_match": "электромашиностроительныйзаводвэлконт",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/4501363",
+    "hh_website": "http://velkont.ru",
+    "hh_snapshot_observed_at": "2026-10-05T13:49:48.567745+00:00",
+    "hh_snapshot_vacancy_id": "137852187",
+    "gur_inn": "4341009610",
+    "gur_ogrn": "1024300749087",
+    "matching_evidence_urls": [
+      "http://velkont.ru/intervyu-generalnogo-direktora-oao-velkont-sergeya-borisovicha-obuhova-informacionnomu-portalu-pervoistochnik"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "3538",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"АВИААГРЕГАТ\"",
+    "gur_short_name": "АО \"АВИААГРЕГАТ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3538",
+    "hh_id": "730158",
+    "hh_names": [
+      "Авиаагрегат"
+    ],
+    "regions": [
+      "Самара"
+    ],
+    "sample_vacancy_ids": [
+      "136454744",
+      "132127194"
+    ],
+    "normalized_match": "авиаагрегат",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/730158",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T09:04:06.096673+00:00",
+    "hh_snapshot_vacancy_id": "136454744",
+    "gur_inn": "6319031396",
+    "gur_ogrn": "1026301708575",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3373",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ПРОИЗВОДСТВЕННОЕ ПРЕДПРИЯТИЕ \"РЕСПИРАТОР\"",
+    "gur_short_name": "АО \"НПП \"РЕСПИРАТОР\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3373",
+    "hh_id": "4664803",
+    "hh_names": [
+      "НПП Респиратор"
+    ],
+    "regions": [
+      "Ликино-Дулево  (Московская область)",
+      "Москва",
+      "Орехово-Зуево (Московская область)",
+      "Павловский Посад (Московская область)",
+      "Покров",
+      "Электросталь (Московская область)"
+    ],
+    "sample_vacancy_ids": [
+      "137898912",
+      "137726307",
+      "133896910"
+    ],
+    "normalized_match": "нппреспиратор",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/4664803",
+    "hh_website": "http://www.respiro-oz.ru",
+    "hh_snapshot_observed_at": "2026-10-05T07:22:18.110824+00:00",
+    "hh_snapshot_vacancy_id": "137898912",
+    "gur_inn": "5034050231",
+    "gur_ogrn": "1025004583108",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3549",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЛЕТ\" ИВАНОВСКИЙ ПАРАШЮТНЫЙ ЗАВОД",
+    "gur_short_name": "АО \"ПОЛЕТ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3549",
+    "hh_id": "11714779",
+    "hh_names": [
+      "ПОЛЕТ"
+    ],
+    "regions": [
+      "Зеленоград",
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "137609286",
+      "137433170"
+    ],
+    "normalized_match": "полет",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/11714779",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-04T21:14:23.820354+00:00",
+    "hh_snapshot_vacancy_id": "137609286",
+    "gur_inn": "3731001750",
+    "gur_ogrn": "1023700537970",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3549",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ПОЛЕТ\" ИВАНОВСКИЙ ПАРАШЮТНЫЙ ЗАВОД",
+    "gur_short_name": "АО \"ПОЛЕТ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3549",
+    "hh_id": "74594",
+    "hh_names": [
+      "Полет, Ивановский парашютный завод"
+    ],
+    "regions": [
+      "Иваново (Ивановская область)"
+    ],
+    "sample_vacancy_ids": [
+      "137970745",
+      "132926230",
+      "132919826"
+    ],
+    "normalized_match": "полетивановскийпарашютныйзавод",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/74594",
+    "hh_website": "http://www.ivparachute.ru",
+    "hh_snapshot_observed_at": "2026-10-05T10:10:06.388143+00:00",
+    "hh_snapshot_vacancy_id": "137970745",
+    "gur_inn": "3731001750",
+    "gur_ogrn": "1023700537970",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "1900",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"УФИМСКОЕ АГРЕГАТНОЕ ПРЕДПРИЯТИЕ \"ГИДРАВЛИКА\"",
+    "gur_short_name": "АО \"УАП \"ГИДРАВЛИКА\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/1900",
+    "hh_id": "2400145",
+    "hh_names": [
+      "УАП Гидравлика"
+    ],
+    "regions": [
+      "Уфа"
+    ],
+    "sample_vacancy_ids": [
+      "138063666",
+      "137744898",
+      "137460031"
+    ],
+    "normalized_match": "уапгидравлика",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/2400145",
+    "hh_website": "https://www.gidravlika-ufa.ru/",
+    "hh_snapshot_observed_at": "2026-10-05T07:22:08.228254+00:00",
+    "hh_snapshot_vacancy_id": "138063666",
+    "gur_inn": "0278179819",
+    "gur_ogrn": "1110280031531",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "144",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НПО \"ВЫСОКОТОЧНЫЕ КОМПЛЕКСЫ\"",
+    "gur_short_name": "АО \"НПО \"ВЫСОКОТОЧНЫЕ КОМПЛЕКСЫ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/144",
+    "hh_id": "2697473",
+    "hh_names": [
+      "НПО Высокоточные Комплексы"
+    ],
+    "regions": [
+      "Вольск",
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "135277317",
+      "137861802",
+      "137861731"
+    ],
+    "normalized_match": "нповысокоточныекомплексы",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/2697473",
+    "hh_website": "https://max.ru/hpweapons",
+    "hh_snapshot_observed_at": "2026-10-05T08:52:08.218479+00:00",
+    "hh_snapshot_vacancy_id": "135277317",
+    "gur_inn": "7704721192",
+    "gur_ogrn": "1097746068012",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3391",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СЕРПУХОВСКИЙ ЗАВОД \"МЕТАЛЛИСТ\"",
+    "gur_short_name": "АО \"СЕРПУХОВСКИЙ ЗАВОД \"МЕТАЛЛИСТ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3391",
+    "hh_id": "1670321",
+    "hh_names": [
+      "Серпуховский завод Металлист"
+    ],
+    "regions": [
+      "Серпухов (Московская область)"
+    ],
+    "sample_vacancy_ids": [
+      "137289310"
+    ],
+    "normalized_match": "серпуховскийзаводметаллист",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1670321",
+    "hh_website": "https://t.me/szmetallist",
+    "hh_snapshot_observed_at": "2026-10-05T11:27:24.521880+00:00",
+    "hh_snapshot_vacancy_id": "137289310",
+    "gur_inn": "5043012881",
+    "gur_ogrn": "1025005598155",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "review_reason": "shared_platform_or_parent_site_not_sufficient"
+  },
+  {
+    "gur_id": "5112",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"163 БРОНЕТАНКОВЫЙ РЕМОНТНЫЙ ЗАВОД\"",
+    "gur_short_name": "АО \"163 БТРЗ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/5112",
+    "hh_id": "4713146",
+    "hh_names": [
+      "163 Бронетанковый Ремонтный Завод"
+    ],
+    "regions": [
+      "Ростов-на-Дону"
+    ],
+    "sample_vacancy_ids": [
+      "137933828"
+    ],
+    "normalized_match": "163бронетанковыйремонтныйзавод",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/4713146",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T10:46:45.231747+00:00",
+    "hh_snapshot_vacancy_id": "137933828",
+    "gur_inn": "2340020470",
+    "gur_ogrn": "1092340000356",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3551",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"САФОНОВСКИЙ ЗАВОД ГИДРОМЕТЕОРОЛОГИЧЕСКИХ ПРИБОРОВ\"",
+    "gur_short_name": "АО \"САФОНОВСКИЙ ЗАВОД \"ГИДРОМЕТПРИБОР\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3551",
+    "hh_id": "10142342",
+    "hh_names": [
+      "Сафоновский завод Гидрометприбор"
+    ],
+    "regions": [
+      "Сафоново"
+    ],
+    "sample_vacancy_ids": [
+      "137547096",
+      "137241510"
+    ],
+    "normalized_match": "сафоновскийзаводгидрометприбор",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/10142342",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T11:44:12.834745+00:00",
+    "hh_snapshot_vacancy_id": "137547096",
+    "gur_inn": "6726009364",
+    "gur_ogrn": "1036719800281",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3552",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"САРАТОВСКИЙ АГРЕГАТНЫЙ ЗАВОД\"",
+    "gur_short_name": "АО \"САЗ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3552",
+    "hh_id": "3089048",
+    "hh_names": [
+      "Саратовский агрегатный завод"
+    ],
+    "regions": [
+      "Саратов"
+    ],
+    "sample_vacancy_ids": [
+      "137060442"
+    ],
+    "normalized_match": "саратовскийагрегатныйзавод",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/3089048",
+    "hh_website": "http://www.oaosaz.ru",
+    "hh_snapshot_observed_at": "2026-10-05T13:08:15.794938+00:00",
+    "hh_snapshot_vacancy_id": "137060442",
+    "gur_inn": "6455053670",
+    "gur_ogrn": "1116455002069",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "235",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ПРОИЗВОДСТВЕННАЯ КОРПОРАЦИЯ \"КОНСТРУКТОРСКОЕ БЮРО МАШИНОСТРОЕНИЯ\"",
+    "gur_short_name": "АО \"НПК \"КБМ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/235",
+    "hh_id": "1527051",
+    "hh_names": [
+      "НПК КБМ"
+    ],
+    "regions": [
+      "Коломна (Московская область)"
+    ],
+    "sample_vacancy_ids": [
+      "134078046",
+      "138054658",
+      "138054386"
+    ],
+    "normalized_match": "нпккбм",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1527051",
+    "hh_website": "http://www.kbm.ru",
+    "hh_snapshot_observed_at": "2026-10-05T08:29:06.282889+00:00",
+    "hh_snapshot_vacancy_id": "134078046",
+    "gur_inn": "5022039177",
+    "gur_ogrn": "1125022001851",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "10127",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО ХОЛДИНГОВАЯ КОМПАНИЯ \"БАРНАУЛТРАНСМАШ\"",
+    "gur_short_name": "АО \"БАРНАУЛТРАНСМАШ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/10127",
+    "hh_id": "1154208",
+    "hh_names": [
+      "Барнаултрансмаш"
+    ],
+    "regions": [
+      "Барнаул"
+    ],
+    "sample_vacancy_ids": [
+      "133549881",
+      "133549538",
+      "129850859"
+    ],
+    "normalized_match": "барнаултрансмаш",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/1154208",
+    "hh_website": "http://barnaultransmash.ru",
+    "hh_snapshot_observed_at": "2026-10-05T11:34:45.326909+00:00",
+    "hh_snapshot_vacancy_id": "133549881",
+    "gur_inn": "2202000222",
+    "gur_ogrn": "1022201509395",
+    "matching_evidence_urls": [
+      "https://barnaultransmash.ru/katalog"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "3394",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СПЕЦИАЛЬНОЕ КОНСТРУКТОРСКОЕ БЮРО \"ТУРБИНА\"",
+    "gur_short_name": "АО СКБ \"ТУРБИНА\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3394",
+    "hh_id": "1751495",
+    "hh_names": [
+      "СКБ Турбина"
+    ],
+    "regions": [
+      "Челябинск"
+    ],
+    "sample_vacancy_ids": [
+      "135428212",
+      "135453674"
+    ],
+    "normalized_match": "скбтурбина",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1751495",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T08:04:19.533736+00:00",
+    "hh_snapshot_vacancy_id": "135428212",
+    "gur_inn": "7452033815",
+    "gur_ogrn": "1037403769413",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "268",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЦЕНТРАЛЬНЫЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ АВТОМАТИКИ И ГИДРАВЛИКИ\"",
+    "gur_short_name": "АО \"ЦНИИАГ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/268",
+    "hh_id": "1075252",
+    "hh_names": [
+      "ЦНИИАГ"
+    ],
+    "regions": [
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "136400001",
+      "137040758"
+    ],
+    "normalized_match": "цнииаг",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1075252",
+    "hh_website": "http://www.cniiag.ru",
+    "hh_snapshot_observed_at": "2026-10-05T08:53:01.630921+00:00",
+    "hh_snapshot_vacancy_id": "136400001",
+    "gur_inn": "7715900066",
+    "gur_ogrn": "1127746028410",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "190",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"КУРГАНСКИЙ МАШИНОСТРОИТЕЛЬНЫЙ ЗАВОД\"",
+    "gur_short_name": "АО \"КУРГАНМАШЗАВОД\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/190",
+    "hh_id": "3346087",
+    "hh_names": [
+      "Курганмашзавод"
+    ],
+    "regions": [
+      "Белогорск",
+      "Благовещенск (Амурская область)",
+      "Возжаевка",
+      "Волгоград",
+      "Курган",
+      "Рубцовск",
+      "Рязань"
+    ],
+    "sample_vacancy_ids": [
+      "136713444",
+      "138045300",
+      "137377886"
+    ],
+    "normalized_match": "курганмашзавод",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/3346087",
+    "hh_website": "https://www.kmz.ru",
+    "hh_snapshot_observed_at": "2026-10-04T21:24:23.638771+00:00",
+    "hh_snapshot_vacancy_id": "136713444",
+    "gur_inn": "4501008142",
+    "gur_ogrn": "1024500521682",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3425",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"560 БРОНЕТАНКОВЫЙ РЕМОНТНЫЙ ЗАВОД\"",
+    "gur_short_name": "АО \"560 БТРЗ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3425",
+    "hh_id": "12516658",
+    "hh_names": [
+      "560 Бронетанковый Ремонтный Завод"
+    ],
+    "regions": [
+      "Возжаевка"
+    ],
+    "sample_vacancy_ids": [
+      "137345621",
+      "137345626"
+    ],
+    "normalized_match": "560бронетанковыйремонтныйзавод",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/12516658",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T08:41:32.086055+00:00",
+    "hh_snapshot_vacancy_id": "137345621",
+    "gur_inn": "2811005250",
+    "gur_ogrn": "1092804000255",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "8117",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"144 БРОНЕТАНКОВЫЙ РЕМОНТНЫЙ ЗАВОД\"",
+    "gur_short_name": "АО \"144 БТРЗ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/8117",
+    "hh_id": "1541220",
+    "hh_names": [
+      "144 бронетанковый ремонтный завод"
+    ],
+    "regions": [
+      "Екатеринбург"
+    ],
+    "sample_vacancy_ids": [
+      "137987624",
+      "137910565",
+      "137837884"
+    ],
+    "normalized_match": "144бронетанковыйремонтныйзавод",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1541220",
+    "hh_website": "http://144btrz.tilda.ws/",
+    "hh_snapshot_observed_at": "2026-10-05T08:38:16.205704+00:00",
+    "hh_snapshot_vacancy_id": "137987624",
+    "gur_inn": "6674331056",
+    "gur_ogrn": "1096674009332",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "1921",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"КОНСТРУКТОРСКОЕ БЮРО ПРИБОРОСТРОЕНИЯ ИМ. АКАДЕМИКА А. Г. ШИПУНОВА\"",
+    "gur_short_name": "АО \"КБП\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/1921",
+    "hh_id": "1183378",
+    "hh_names": [
+      "Конструкторское бюро приборостроения им.академика А.Г.Шипунова"
+    ],
+    "regions": [
+      "Люберцы  (Московская область)",
+      "Москва",
+      "Славный (Тульская область)",
+      "Тула"
+    ],
+    "sample_vacancy_ids": [
+      "137767850",
+      "137049972",
+      "138069444"
+    ],
+    "normalized_match": "конструкторскоебюроприборостроенияимакадемикаагшипунова",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1183378",
+    "hh_website": "http://kbptula.ru",
+    "hh_snapshot_observed_at": "2026-10-04T21:21:58.262387+00:00",
+    "hh_snapshot_vacancy_id": "137767850",
+    "gur_inn": "7105514574",
+    "gur_ogrn": "1117154036911",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "11751",
+    "gur_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ ПРОГРАММНЫЕ КОМПЛЕКСЫ РЕАЛЬНОГО ВРЕМЕНИ\"",
+    "gur_short_name": "ООО \"НПО ПКРВ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/11751",
+    "hh_id": "1540476",
+    "hh_names": [
+      "НПО ПКРВ"
+    ],
+    "regions": [
+      "Зеленоград",
+      "Москва",
+      "Тула"
+    ],
+    "sample_vacancy_ids": [
+      "129027936",
+      "138003003",
+      "136238790"
+    ],
+    "normalized_match": "нпопкрв",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/1540476",
+    "hh_website": "https://npo-pkrv.ru/about/",
+    "hh_snapshot_observed_at": "2026-10-05T08:05:32.732860+00:00",
+    "hh_snapshot_vacancy_id": "129027936",
+    "gur_inn": "7105509736",
+    "gur_ogrn": "1107154016529",
+    "matching_evidence_urls": [
+      "https://npo-pkrv.ru/about/"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "24",
+    "gur_name": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ОБЪЕДИНЕННАЯ АВИАСТРОИТЕЛЬНАЯ КОРПОРАЦИЯ\"",
+    "gur_short_name": "ПАО \"ОАК\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/24",
+    "hh_id": "17831",
+    "hh_names": [
+      "Объединенная Авиастроительная Корпорация"
+    ],
+    "regions": [
+      "Луховицы  (Московская область)",
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "136982007",
+      "137125504",
+      "135971848"
+    ],
+    "normalized_match": "объединеннаяавиастроительнаякорпорация",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/17831",
+    "hh_website": "http://www.uacrussia.ru",
+    "hh_snapshot_observed_at": "2026-10-05T08:58:21.054267+00:00",
+    "hh_snapshot_vacancy_id": "136982007",
+    "gur_inn": "7708619320",
+    "gur_ogrn": "1067759884598",
+    "matching_evidence_urls": [
+      "https://uacrussia.ru/ru/",
+      "https://uacrussia.ru/ru/corporation/",
+      "https://www.uacrussia.ru/ru/aircraft/lineup/military/",
+      "https://www.uacrussia.ru/ru/corporation/company/"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "14808",
+    "gur_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"АВИАФОНД\"",
+    "gur_short_name": "ООО \"АВИАФОНД\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/14808",
+    "hh_id": "1447341",
+    "hh_names": [
+      "Авиафонд"
+    ],
+    "regions": [
+      "Комсомольск-на-Амуре",
+      "Нижний Новгород"
+    ],
+    "sample_vacancy_ids": [
+      "138068245",
+      "138093805",
+      "136642468"
+    ],
+    "normalized_match": "авиафонд",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1447341",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T09:11:11.349217+00:00",
+    "hh_snapshot_vacancy_id": "138068245",
+    "gur_inn": "5259015525",
+    "gur_ogrn": "1025202836515",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "14805",
+    "gur_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ОАК-РЕСУРС\"",
+    "gur_short_name": "ООО \"ОАК-РЕСУРС\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/14805",
+    "hh_id": "5911379",
+    "hh_names": [
+      "ОАК-Ресурс"
+    ],
+    "regions": [
+      "Жуковский  (Московская область)",
+      "Москва",
+      "Новосибирск"
+    ],
+    "sample_vacancy_ids": [
+      "137771360",
+      "137077682",
+      "137557515"
+    ],
+    "normalized_match": "оакресурс",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/5911379",
+    "hh_website": "https://uacrussia.ru/ru",
+    "hh_snapshot_observed_at": "2026-10-05T08:58:41.536947+00:00",
+    "hh_snapshot_vacancy_id": "137771360",
+    "gur_inn": "7708668479",
+    "gur_ogrn": "1087746490260",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "264",
+    "gur_name": "ФИЛИАЛ ПАО \"ОАК\" – \"НИЖЕГОРОДСКИЙ АВИАСТРОИТЕЛЬНЫЙ ЗАВОД \"СОКОЛ\"",
+    "gur_short_name": "\"НАЗ \"СОКОЛ\" – ФИЛИАЛ ПАО \"ОАК\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/264",
+    "hh_id": "9847375",
+    "hh_names": [
+      "Филиал ПАО ОАК Нижегородский Авиастроительный Завод Сокол"
+    ],
+    "regions": [
+      "Нижний Новгород"
+    ],
+    "sample_vacancy_ids": [
+      "137994763"
+    ],
+    "normalized_match": "филиалоакнижегородскийавиастроительныйзаводсокол",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/9847375",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T08:02:49.291605+00:00",
+    "hh_snapshot_vacancy_id": "137994763",
+    "gur_inn": "5259008341",
+    "gur_ogrn": "1025202830290",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "163",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТУПОЛЕВ\"",
+    "gur_short_name": "АО \"ТУПОЛЕВ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/163",
+    "hh_id": "584327",
+    "hh_names": [
+      "Туполев"
+    ],
+    "regions": [
+      "Казань",
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "138083691",
+      "137969331",
+      "137892380"
+    ],
+    "normalized_match": "туполев",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/584327",
+    "hh_website": "http://www.tupolev.ru",
+    "hh_snapshot_observed_at": "2026-10-05T07:25:51.505058+00:00",
+    "hh_snapshot_vacancy_id": "138083691",
+    "gur_inn": "7705313252",
+    "gur_ogrn": "1027739263056",
+    "matching_evidence_urls": [
+      "https://www.tupolev.ru/planes/tu-22m3/",
+      "https://www.tupolev.ru/planes/tu-95ms/"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "3340",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"170 РЕМОНТНЫЙ ЗАВОД СРЕДСТВ ОБЕСПЕЧЕНИЯ ПОЛЕТОВ\"",
+    "gur_short_name": "АО \"170 РЗ СОП\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3340",
+    "hh_id": "2312144",
+    "hh_names": [
+      "170 ремонтный завод средств обеспечения полетов"
+    ],
+    "regions": [
+      "Нижний Новгород"
+    ],
+    "sample_vacancy_ids": [
+      "137836156",
+      "137229554"
+    ],
+    "normalized_match": "170ремонтныйзаводсредствобеспеченияполетов",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/2312144",
+    "hh_website": "http://170rz.ru/",
+    "hh_snapshot_observed_at": "2026-10-04T21:21:15.976842+00:00",
+    "hh_snapshot_vacancy_id": "137836156",
+    "gur_inn": "5262240714",
+    "gur_ogrn": "1095262004771",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3472",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"20 АВИАЦИОННЫЙ РЕМОНТНЫЙ ЗАВОД\"",
+    "gur_short_name": "АО \"20 АРЗ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3472",
+    "hh_id": "5382076",
+    "hh_names": [
+      "20 АРЗ"
+    ],
+    "regions": [
+      "Пушкин"
+    ],
+    "sample_vacancy_ids": [
+      "137369999"
+    ],
+    "normalized_match": "20арз",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/5382076",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T11:02:30.549306+00:00",
+    "hh_snapshot_vacancy_id": "137369999",
+    "gur_inn": "7820309254",
+    "gur_ogrn": "1079847022496",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "763",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РЕД ВИНГС\"",
+    "gur_short_name": "АО \"РЕД ВИНГС\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/763",
+    "hh_id": "1035731",
+    "hh_names": [
+      "Ред Вингс"
+    ],
+    "regions": [
+      "Жуковский  (Московская область)",
+      "Люберцы  (Московская область)",
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "135881078",
+      "138110500",
+      "138110501"
+    ],
+    "normalized_match": "редвингс",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/1035731",
+    "hh_website": "https://flyredwings.com/",
+    "hh_snapshot_observed_at": "2026-10-05T12:50:47.013470+00:00",
+    "hh_snapshot_vacancy_id": "135881078",
+    "gur_inn": "7732107883",
+    "gur_ogrn": "1027700281091",
+    "matching_evidence_urls": [
+      "https://flyredwings.com/press/news/rossijskaya-aviakompaniya-red-wings-otmechaet-svoj-yubilej-25-let-deyatelnosti/"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "148",
+    "gur_name": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТАГАНРОГСКИЙ АВИАЦИОННЫЙ НАУЧНО-ТЕХНИЧЕСКИЙ КОМПЛЕКС ИМ. Г.М. БЕРІЄВА\"",
+    "gur_short_name": "ПАО \"ТАНТК ИМ. Г.М. БЕРИЕВА\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/148",
+    "hh_id": "1368152",
+    "hh_names": [
+      "ТАНТК им.Г.М. Бериева"
+    ],
+    "regions": [
+      "Таганрог"
+    ],
+    "sample_vacancy_ids": [
+      "136442184"
+    ],
+    "normalized_match": "танткимгмбериева",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1368152",
+    "hh_website": "https://uacrussia.ru",
+    "hh_snapshot_observed_at": "2026-10-05T09:07:56.563541+00:00",
+    "hh_snapshot_vacancy_id": "136442184",
+    "gur_inn": "6154028021",
+    "gur_ogrn": "1026102571065",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "131",
+    "gur_name": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЯКОВЛЕВ\"",
+    "gur_short_name": "ПАО \"ЯКОВЛЕВ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/131",
+    "hh_id": "1738",
+    "hh_names": [
+      "Яковлев"
+    ],
+    "regions": [
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "137566393",
+      "137486580",
+      "137199815"
+    ],
+    "normalized_match": "яковлев",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/1738",
+    "hh_website": "https://yakovlev.ru",
+    "hh_snapshot_observed_at": "2026-10-05T09:29:26.106102+00:00",
+    "hh_snapshot_vacancy_id": "137566393",
+    "gur_inn": "3807002509",
+    "gur_ogrn": "1023801428111",
+    "matching_evidence_urls": [
+      "https://yakovlev.ru/about/mission/"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "153",
+    "gur_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РАПАРТ СЕРВИСЕЗ\"",
+    "gur_short_name": "ООО \"РАПАРТ СЕРВИСЕЗ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/153",
+    "hh_id": "3875350",
+    "hh_names": [
+      "РАпарт Сервисез"
+    ],
+    "regions": [
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "134004461"
+    ],
+    "normalized_match": "рапартсервисез",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/3875350",
+    "hh_website": "https://rapart.yakovlev.ru/",
+    "hh_snapshot_observed_at": "2026-10-05T11:19:40.935947+00:00",
+    "hh_snapshot_vacancy_id": "134004461",
+    "gur_inn": "7725497858",
+    "gur_ogrn": "1187746841941",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "14834",
+    "gur_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РАТА\"",
+    "gur_short_name": "ООО \"РАТА\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/14834",
+    "hh_id": "5798287",
+    "hh_names": [
+      "РАТА"
+    ],
+    "regions": [
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "137303054"
+    ],
+    "normalized_match": "рата",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/5798287",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T12:38:55.053369+00:00",
+    "hh_snapshot_vacancy_id": "137303054",
+    "gur_inn": "9725033867",
+    "gur_ogrn": "1207700252979",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3337",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЛЕТНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ИМЕНИ М.М.ГРОМОВА\"",
+    "gur_short_name": "АО \"ЛИИ ИМ. М.М.ГРОМОВА\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3337",
+    "hh_id": "5761895",
+    "hh_names": [
+      "Летно-Исследовательский Институт Имени М.М. Громова"
+    ],
+    "regions": [
+      "Жуковский  (Московская область)"
+    ],
+    "sample_vacancy_ids": [
+      "137234648"
+    ],
+    "normalized_match": "летноисследовательскийинститутимениммгромова",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/5761895",
+    "hh_website": "http://lii.ru",
+    "hh_snapshot_observed_at": "2026-10-05T08:27:52.976575+00:00",
+    "hh_snapshot_vacancy_id": "137234648",
+    "gur_inn": "5040114973",
+    "gur_ogrn": "1125040002823",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3352",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ОДК-СТАР\"",
+    "gur_short_name": "АО \"ОДК-СТАР\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3352",
+    "hh_id": "410361",
+    "hh_names": [
+      "ОДК-СТАР"
+    ],
+    "regions": [
+      "Пермь"
+    ],
+    "sample_vacancy_ids": [
+      "137835616",
+      "137988594"
+    ],
+    "normalized_match": "одкстар",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/410361",
+    "hh_website": "http://ao-star.ru",
+    "hh_snapshot_observed_at": "2026-10-05T08:01:16.233173+00:00",
+    "hh_snapshot_vacancy_id": "137835616",
+    "gur_inn": "5904100329",
+    "gur_ogrn": "1025900895712",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "3351",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ОДК-СЕРВИС\"",
+    "gur_short_name": "АО \"ОДК-СЕРВИС\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3351",
+    "hh_id": "2223272",
+    "hh_names": [
+      "ОДК-Сервис"
+    ],
+    "regions": [
+      "Арамиль"
+    ],
+    "sample_vacancy_ids": [
+      "137505174",
+      "138036089",
+      "137506220"
+    ],
+    "normalized_match": "одксервис",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/2223272",
+    "hh_website": "https://www.uecrus.com/about/structure/ao-odk-servis/?ysclid=m6ysafwhrb367444672",
+    "hh_snapshot_observed_at": "2026-10-05T08:59:59.402611+00:00",
+    "hh_snapshot_vacancy_id": "137505174",
+    "gur_inn": "4705036363",
+    "gur_ogrn": "1074705000072",
+    "matching_evidence_urls": [
+      "https://www.uecrus.com/about/structure/ao-odk-servis/"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "3454",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАРО-ФОМИНСКИЙ МАШИНОСТРОИТЕЛЬНЫЙ ЗАВОД\"",
+    "gur_short_name": "АО \"НФМЗ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3454",
+    "hh_id": "1553360",
+    "hh_names": [
+      "Наро-Фоминский машиностроительный завод"
+    ],
+    "regions": [
+      "Атепцево (Московская область)",
+      "Наро-Фоминск (Московская область)",
+      "Обнинск",
+      "Селятино (Московская область)",
+      "Таширово (Московская область)",
+      "Яковлевское (Московская область)"
+    ],
+    "sample_vacancy_ids": [
+      "137953242",
+      "137953241",
+      "137953245"
+    ],
+    "normalized_match": "нарофоминскиймашиностроительныйзавод",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/1553360",
+    "hh_website": "http://www.nfmz.ru",
+    "hh_snapshot_observed_at": "2026-10-05T10:02:16.383530+00:00",
+    "hh_snapshot_vacancy_id": "137953242",
+    "gur_inn": "5030007588",
+    "gur_ogrn": "1025003752069",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "259",
+    "gur_name": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ОДК-КУЗНЕЦОВ\"",
+    "gur_short_name": "ПАО \"ОДК-КУЗНЕЦОВ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/259",
+    "hh_id": "608553",
+    "hh_names": [
+      "«ОДК-Кузнецов»"
+    ],
+    "regions": [
+      "Самара"
+    ],
+    "sample_vacancy_ids": [
+      "137783860"
+    ],
+    "normalized_match": "одккузнецов",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/608553",
+    "hh_website": "http://www.kuznetsov-motors.ru",
+    "hh_snapshot_observed_at": "2026-10-05T13:35:51.105511+00:00",
+    "hh_snapshot_vacancy_id": "137783860",
+    "gur_inn": "6319033379",
+    "gur_ogrn": "1026301705374",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "10191",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НОВЫЕ ИНСТРУМЕНТАЛЬНЫЕ РЕШЕНИЯ\"",
+    "gur_short_name": "АО \"НИР\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/10191",
+    "hh_id": "1481775",
+    "hh_names": [
+      "Новые инструментальные решения"
+    ],
+    "regions": [
+      "Рыбинск"
+    ],
+    "sample_vacancy_ids": [
+      "138064003",
+      "138057009"
+    ],
+    "normalized_match": "новыеинструментальныерешения",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/1481775",
+    "hh_website": "http://www.zao-nir.com",
+    "hh_snapshot_observed_at": "2026-10-05T08:47:38.689404+00:00",
+    "hh_snapshot_vacancy_id": "138064003",
+    "gur_inn": "7610081765",
+    "gur_ogrn": "1087610004327",
+    "matching_evidence_urls": [
+      "https://www.zao-nir.com/about/"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  },
+  {
+    "gur_id": "13631",
+    "gur_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"РЕЙНОЛЬДС\"",
+    "gur_short_name": "ООО \"РЕЙНОЛЬДС\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/13631",
+    "hh_id": "4510397",
+    "hh_names": [
+      "Рейнольдс"
+    ],
+    "regions": [
+      "Москва"
+    ],
+    "sample_vacancy_ids": [
+      "137018430",
+      "136998295",
+      "137074459"
+    ],
+    "normalized_match": "рейнольдс",
+    "status": "name_match_requires_verification",
+    "hh_profile_url": "https://hh.ru/employer/4510397",
+    "hh_website": "",
+    "hh_snapshot_observed_at": "2026-10-05T07:26:51.862814+00:00",
+    "hh_snapshot_vacancy_id": "137018430",
+    "gur_inn": "7731390782",
+    "gur_ogrn": "5177746181135",
+    "matching_evidence_urls": [],
+    "legal_entity_identity_status": "unverified"
+  },
+  {
+    "gur_id": "14143",
+    "gur_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РУССКАЯ МЕХАНИКА\"",
+    "gur_short_name": "АО \"РМ\"",
+    "gur_url": "https://war-sanctions.gur.gov.ua/ru/rostec/14143",
+    "hh_id": "2742161",
+    "hh_names": [
+      "Русская механика"
+    ],
+    "regions": [
+      "Рыбинск"
+    ],
+    "sample_vacancy_ids": [
+      "135866019",
+      "137237992"
+    ],
+    "normalized_match": "русскаямеханика",
+    "status": "matched_name_and_website",
+    "hh_profile_url": "https://hh.ru/employer/2742161",
+    "hh_website": "http://go-rm.ru",
+    "hh_snapshot_observed_at": "2026-10-04T21:26:02.925228+00:00",
+    "hh_snapshot_vacancy_id": "135866019",
+    "gur_inn": "7610062924",
+    "gur_ogrn": "1047601613652",
+    "matching_evidence_urls": [
+      "https://go-rm.ru/about.html"
+    ],
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh"
+  }
+]

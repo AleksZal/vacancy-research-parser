@@ -1,0 +1,2520 @@
+{
+  "columns": [
+    {
+      "table_schema": "public",
+      "table_name": "classification_evidence",
+      "column_name": "run_id",
+      "data_type": "integer",
+      "udt_name": "int4",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 1
+    },
+    {
+      "table_schema": "public",
+      "table_name": "classification_evidence",
+      "column_name": "vacancy_id",
+      "data_type": "bigint",
+      "udt_name": "int8",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 2
+    },
+    {
+      "table_schema": "public",
+      "table_name": "classification_evidence",
+      "column_name": "signal",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 3
+    },
+    {
+      "table_schema": "public",
+      "table_name": "classification_evidence",
+      "column_name": "origin",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 4
+    },
+    {
+      "table_schema": "public",
+      "table_name": "classification_evidence",
+      "column_name": "weight",
+      "data_type": "real",
+      "udt_name": "float4",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 5
+    },
+    {
+      "table_schema": "public",
+      "table_name": "classification_evidence",
+      "column_name": "snippet",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 6
+    },
+    {
+      "table_schema": "public",
+      "table_name": "classifier_run",
+      "column_name": "run_id",
+      "data_type": "integer",
+      "udt_name": "int4",
+      "is_nullable": "NO",
+      "column_default": "nextval('classifier_run_run_id_seq'::regclass)",
+      "ordinal_position": 1
+    },
+    {
+      "table_schema": "public",
+      "table_name": "classifier_run",
+      "column_name": "classifier",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 2
+    },
+    {
+      "table_schema": "public",
+      "table_name": "classifier_run",
+      "column_name": "version",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 3
+    },
+    {
+      "table_schema": "public",
+      "table_name": "classifier_run",
+      "column_name": "rules_sha256",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 4
+    },
+    {
+      "table_schema": "public",
+      "table_name": "classifier_run",
+      "column_name": "params",
+      "data_type": "jsonb",
+      "udt_name": "jsonb",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 5
+    },
+    {
+      "table_schema": "public",
+      "table_name": "classifier_run",
+      "column_name": "started_at",
+      "data_type": "timestamp with time zone",
+      "udt_name": "timestamptz",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 6
+    },
+    {
+      "table_schema": "public",
+      "table_name": "classifier_run",
+      "column_name": "note",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 7
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "company_id",
+      "data_type": "bigint",
+      "udt_name": "int8",
+      "is_nullable": "NO",
+      "column_default": "nextval('company_company_id_seq'::regclass)",
+      "ordinal_position": 1
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "gur_id",
+      "data_type": "integer",
+      "udt_name": "int4",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 2
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "inn",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 3
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "ogrn",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 4
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "inn_raw",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 5
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "ogrn_raw",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 6
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "swift",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 7
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "bik",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 8
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "bank_license",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 9
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "name_full_uk",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 10
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "name_full_ru",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 11
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "name_full_en",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 12
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "name_short_uk",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 13
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "name_short_ru",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 14
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "name_short_en",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 15
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "country_id",
+      "data_type": "integer",
+      "udt_name": "int4",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 16
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "address_uk",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 17
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "address_ru",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 18
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "address_en",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 19
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "postal_code",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 20
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "region",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 21
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "city",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 22
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "description_uk",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 23
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "description_ru",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 24
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "description_en",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 25
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "products_uk",
+      "data_type": "ARRAY",
+      "udt_name": "_text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 26
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "products_ru",
+      "data_type": "ARRAY",
+      "udt_name": "_text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 27
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "products_en",
+      "data_type": "ARRAY",
+      "udt_name": "_text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 28
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "license_vvt",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 29
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "status_raw",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 30
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "liquidated_on",
+      "data_type": "date",
+      "udt_name": "date",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 31
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "website",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 32
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "website_domain",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 33
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "logo_url",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 34
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "sanctions_count",
+      "data_type": "smallint",
+      "udt_name": "int2",
+      "is_nullable": "NO",
+      "column_default": "0",
+      "ordinal_position": 35
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "sanctions_count_intl",
+      "data_type": "smallint",
+      "udt_name": "int2",
+      "is_nullable": "NO",
+      "column_default": "0",
+      "ordinal_position": 36
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "rostec_tree_level",
+      "data_type": "smallint",
+      "udt_name": "int2",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 37
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "created_at",
+      "data_type": "timestamp with time zone",
+      "udt_name": "timestamptz",
+      "is_nullable": "NO",
+      "column_default": "now()",
+      "ordinal_position": 38
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "updated_at",
+      "data_type": "timestamp with time zone",
+      "udt_name": "timestamptz",
+      "is_nullable": "NO",
+      "column_default": "now()",
+      "ordinal_position": 39
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "column_name": "kpp",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 40
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_classification",
+      "column_name": "run_id",
+      "data_type": "integer",
+      "udt_name": "int4",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 1
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_classification",
+      "column_name": "employer_profile_id",
+      "data_type": "bigint",
+      "udt_name": "int8",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 2
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_classification",
+      "column_name": "level",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 3
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_classification",
+      "column_name": "raw_label",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 4
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_classification",
+      "column_name": "score",
+      "data_type": "real",
+      "udt_name": "float4",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 5
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_classification",
+      "column_name": "category",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 6
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_company_match",
+      "column_name": "employer_profile_id",
+      "data_type": "bigint",
+      "udt_name": "int8",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 1
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_company_match",
+      "column_name": "company_id",
+      "data_type": "bigint",
+      "udt_name": "int8",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 2
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_company_match",
+      "column_name": "status",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 3
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_company_match",
+      "column_name": "method",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 4
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_company_match",
+      "column_name": "confidence",
+      "data_type": "real",
+      "udt_name": "float4",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 5
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_company_match",
+      "column_name": "model_version",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 6
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_company_match",
+      "column_name": "evidence",
+      "data_type": "jsonb",
+      "udt_name": "jsonb",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 7
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_company_match",
+      "column_name": "reviewed_by",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 8
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_company_match",
+      "column_name": "reviewed_at",
+      "data_type": "timestamp with time zone",
+      "udt_name": "timestamptz",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 9
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_company_match",
+      "column_name": "created_at",
+      "data_type": "timestamp with time zone",
+      "udt_name": "timestamptz",
+      "is_nullable": "NO",
+      "column_default": "now()",
+      "ordinal_position": 10
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_profile",
+      "column_name": "employer_profile_id",
+      "data_type": "bigint",
+      "udt_name": "int8",
+      "is_nullable": "NO",
+      "column_default": "nextval('employer_profile_employer_profile_id_seq'::regclass)",
+      "ordinal_position": 1
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_profile",
+      "column_name": "source",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 2
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_profile",
+      "column_name": "id_namespace",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "NO",
+      "column_default": "''::text",
+      "ordinal_position": 3
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_profile",
+      "column_name": "external_id",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 4
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_profile",
+      "column_name": "name",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 5
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_profile",
+      "column_name": "url",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 6
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_profile",
+      "column_name": "inn",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 7
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_profile",
+      "column_name": "ogrn",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 8
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_profile",
+      "column_name": "kpp",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 9
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_profile",
+      "column_name": "publisher_type",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "NO",
+      "column_default": "'unknown'::text",
+      "ordinal_position": 10
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_profile",
+      "column_name": "first_seen_at",
+      "data_type": "timestamp with time zone",
+      "udt_name": "timestamptz",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 11
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_profile",
+      "column_name": "last_seen_at",
+      "data_type": "timestamp with time zone",
+      "udt_name": "timestamptz",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 12
+    },
+    {
+      "table_schema": "public",
+      "table_name": "manual_review",
+      "column_name": "review_id",
+      "data_type": "bigint",
+      "udt_name": "int8",
+      "is_nullable": "NO",
+      "column_default": "nextval('manual_review_review_id_seq'::regclass)",
+      "ordinal_position": 1
+    },
+    {
+      "table_schema": "public",
+      "table_name": "manual_review",
+      "column_name": "vacancy_id",
+      "data_type": "bigint",
+      "udt_name": "int8",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 2
+    },
+    {
+      "table_schema": "public",
+      "table_name": "manual_review",
+      "column_name": "employer_profile_id",
+      "data_type": "bigint",
+      "udt_name": "int8",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 3
+    },
+    {
+      "table_schema": "public",
+      "table_name": "manual_review",
+      "column_name": "verdict",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 4
+    },
+    {
+      "table_schema": "public",
+      "table_name": "manual_review",
+      "column_name": "comment",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 5
+    },
+    {
+      "table_schema": "public",
+      "table_name": "manual_review",
+      "column_name": "reviewed_by",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 6
+    },
+    {
+      "table_schema": "public",
+      "table_name": "manual_review",
+      "column_name": "reviewed_at",
+      "data_type": "timestamp with time zone",
+      "udt_name": "timestamptz",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 7
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "column_name": "vacancy_id",
+      "data_type": "bigint",
+      "udt_name": "int8",
+      "is_nullable": "NO",
+      "column_default": "nextval('vacancy_vacancy_id_seq'::regclass)",
+      "ordinal_position": 1
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "column_name": "source",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 2
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "column_name": "external_id",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 3
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "column_name": "url",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 4
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "column_name": "employer_profile_id",
+      "data_type": "bigint",
+      "udt_name": "int8",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 5
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "column_name": "employer_name",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 6
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "column_name": "title",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 7
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "column_name": "profession",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 8
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "column_name": "profession_code",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 9
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "column_name": "specialisation",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 10
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "column_name": "region_id",
+      "data_type": "integer",
+      "udt_name": "int4",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 11
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "column_name": "locality",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 12
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "column_name": "address",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 13
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "column_name": "lat",
+      "data_type": "numeric",
+      "udt_name": "numeric",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 14
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "column_name": "lng",
+      "data_type": "numeric",
+      "udt_name": "numeric",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 15
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "column_name": "salary_from",
+      "data_type": "numeric",
+      "udt_name": "numeric",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 16
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "column_name": "salary_to",
+      "data_type": "numeric",
+      "udt_name": "numeric",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 17
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "column_name": "salary_currency",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 18
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "column_name": "salary_gross",
+      "data_type": "boolean",
+      "udt_name": "bool",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 19
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "column_name": "salary_period",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 20
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "column_name": "employment",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 21
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "column_name": "schedule",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 22
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "column_name": "experience",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 23
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "column_name": "experience_years",
+      "data_type": "smallint",
+      "udt_name": "int2",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 24
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "column_name": "education",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 25
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "column_name": "description",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 26
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "column_name": "responsibilities",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 27
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "column_name": "requirements",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 28
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "column_name": "conditions",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 29
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "column_name": "skills_raw",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 30
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "column_name": "published_at",
+      "data_type": "timestamp with time zone",
+      "udt_name": "timestamptz",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 31
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "column_name": "modified_at",
+      "data_type": "timestamp with time zone",
+      "udt_name": "timestamptz",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 32
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "column_name": "first_seen_at",
+      "data_type": "timestamp with time zone",
+      "udt_name": "timestamptz",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 33
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "column_name": "last_seen_at",
+      "data_type": "timestamp with time zone",
+      "udt_name": "timestamptz",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 34
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "column_name": "is_active",
+      "data_type": "boolean",
+      "udt_name": "bool",
+      "is_nullable": "NO",
+      "column_default": "true",
+      "ordinal_position": 35
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_classification",
+      "column_name": "run_id",
+      "data_type": "integer",
+      "udt_name": "int4",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 1
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_classification",
+      "column_name": "vacancy_id",
+      "data_type": "bigint",
+      "udt_name": "int8",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 2
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_classification",
+      "column_name": "level",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 3
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_classification",
+      "column_name": "raw_label",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 4
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_classification",
+      "column_name": "score",
+      "data_type": "real",
+      "udt_name": "float4",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 5
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_classification",
+      "column_name": "category",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 6
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_company_match",
+      "column_name": "vacancy_id",
+      "data_type": "bigint",
+      "udt_name": "int8",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 1
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_company_match",
+      "column_name": "company_id",
+      "data_type": "bigint",
+      "udt_name": "int8",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 2
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_company_match",
+      "column_name": "status",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 3
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_company_match",
+      "column_name": "method",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 4
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_company_match",
+      "column_name": "confidence",
+      "data_type": "real",
+      "udt_name": "float4",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 5
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_company_match",
+      "column_name": "model_version",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 6
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_company_match",
+      "column_name": "evidence",
+      "data_type": "jsonb",
+      "udt_name": "jsonb",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 7
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_company_match",
+      "column_name": "reviewed_by",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 8
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_company_match",
+      "column_name": "reviewed_at",
+      "data_type": "timestamp with time zone",
+      "udt_name": "timestamptz",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 9
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_company_match",
+      "column_name": "created_at",
+      "data_type": "timestamp with time zone",
+      "udt_name": "timestamptz",
+      "is_nullable": "NO",
+      "column_default": "now()",
+      "ordinal_position": 10
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_discovery",
+      "column_name": "vacancy_id",
+      "data_type": "bigint",
+      "udt_name": "int8",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 1
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_discovery",
+      "column_name": "route",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 2
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_discovery",
+      "column_name": "first_seen_at",
+      "data_type": "timestamp with time zone",
+      "udt_name": "timestamptz",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 3
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_discovery",
+      "column_name": "last_seen_at",
+      "data_type": "timestamp with time zone",
+      "udt_name": "timestamptz",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 4
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_hh",
+      "column_name": "vacancy_id",
+      "data_type": "bigint",
+      "udt_name": "int8",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 1
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_hh",
+      "column_name": "employer_name_detail",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 2
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_hh",
+      "column_name": "employer_resolution_status",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 3
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_hh",
+      "column_name": "address_type",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 4
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_hh",
+      "column_name": "detail_status",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 5
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_hh",
+      "column_name": "source_visibility",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 6
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_snapshot",
+      "column_name": "vacancy_id",
+      "data_type": "bigint",
+      "udt_name": "int8",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 1
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_snapshot",
+      "column_name": "fetched_at",
+      "data_type": "timestamp with time zone",
+      "udt_name": "timestamptz",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 2
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_snapshot",
+      "column_name": "format",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 3
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_snapshot",
+      "column_name": "path",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 4
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_snapshot",
+      "column_name": "locator",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 5
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_snapshot",
+      "column_name": "http_status",
+      "data_type": "smallint",
+      "udt_name": "int2",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 6
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_snapshot",
+      "column_name": "sha256",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 7
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_source",
+      "column_name": "code",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 1
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_source",
+      "column_name": "name",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "NO",
+      "column_default": null,
+      "ordinal_position": 2
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_source",
+      "column_name": "base_url",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 3
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_source",
+      "column_name": "raw_storage",
+      "data_type": "text",
+      "udt_name": "text",
+      "is_nullable": "YES",
+      "column_default": null,
+      "ordinal_position": 4
+    }
+  ],
+  "constraints": [
+    {
+      "table_schema": "public",
+      "table_name": "classification_evidence",
+      "name": "classification_evidence_origin_not_null",
+      "kind": "n",
+      "definition": "NOT NULL origin"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "classification_evidence",
+      "name": "classification_evidence_run_id_not_null",
+      "kind": "n",
+      "definition": "NOT NULL run_id"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "classification_evidence",
+      "name": "classification_evidence_run_id_vacancy_id_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (run_id, vacancy_id) REFERENCES vacancy_classification(run_id, vacancy_id) ON DELETE CASCADE"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "classification_evidence",
+      "name": "classification_evidence_signal_not_null",
+      "kind": "n",
+      "definition": "NOT NULL signal"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "classification_evidence",
+      "name": "classification_evidence_vacancy_id_not_null",
+      "kind": "n",
+      "definition": "NOT NULL vacancy_id"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "classifier_run",
+      "name": "classifier_run_classifier_not_null",
+      "kind": "n",
+      "definition": "NOT NULL classifier"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "classifier_run",
+      "name": "classifier_run_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (run_id)"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "classifier_run",
+      "name": "classifier_run_run_id_not_null",
+      "kind": "n",
+      "definition": "NOT NULL run_id"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "classifier_run",
+      "name": "classifier_run_started_at_not_null",
+      "kind": "n",
+      "definition": "NOT NULL started_at"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "name": "company_company_id_not_null",
+      "kind": "n",
+      "definition": "NOT NULL company_id"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "name": "company_country_id_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (country_id) REFERENCES country(country_id)"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "name": "company_created_at_not_null",
+      "kind": "n",
+      "definition": "NOT NULL created_at"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "name": "company_gur_id_key",
+      "kind": "u",
+      "definition": "UNIQUE (gur_id)"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "name": "company_name_full_uk_not_null",
+      "kind": "n",
+      "definition": "NOT NULL name_full_uk"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "name": "company_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (company_id)"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "name": "company_sanctions_count_intl_not_null",
+      "kind": "n",
+      "definition": "NOT NULL sanctions_count_intl"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "name": "company_sanctions_count_not_null",
+      "kind": "n",
+      "definition": "NOT NULL sanctions_count"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "company",
+      "name": "company_updated_at_not_null",
+      "kind": "n",
+      "definition": "NOT NULL updated_at"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_classification",
+      "name": "employer_classification_employer_profile_id_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (employer_profile_id) REFERENCES employer_profile(employer_profile_id) ON DELETE CASCADE"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_classification",
+      "name": "employer_classification_employer_profile_id_not_null",
+      "kind": "n",
+      "definition": "NOT NULL employer_profile_id"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_classification",
+      "name": "employer_classification_level_check",
+      "kind": "c",
+      "definition": "CHECK ((level = ANY (ARRAY['confirmed'::text, 'likely'::text, 'review'::text, 'no'::text, 'out_of_scope'::text])))"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_classification",
+      "name": "employer_classification_level_not_null",
+      "kind": "n",
+      "definition": "NOT NULL level"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_classification",
+      "name": "employer_classification_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (run_id, employer_profile_id)"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_classification",
+      "name": "employer_classification_raw_label_not_null",
+      "kind": "n",
+      "definition": "NOT NULL raw_label"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_classification",
+      "name": "employer_classification_run_id_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (run_id) REFERENCES classifier_run(run_id) ON DELETE CASCADE"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_classification",
+      "name": "employer_classification_run_id_not_null",
+      "kind": "n",
+      "definition": "NOT NULL run_id"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_company_match",
+      "name": "employer_company_match_check",
+      "kind": "c",
+      "definition": "CHECK (((status <> 'verified'::text) OR ((reviewed_by IS NOT NULL) AND (reviewed_at IS NOT NULL) AND (evidence IS NOT NULL))))"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_company_match",
+      "name": "employer_company_match_company_id_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (company_id) REFERENCES company(company_id) ON DELETE CASCADE"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_company_match",
+      "name": "employer_company_match_company_id_not_null",
+      "kind": "n",
+      "definition": "NOT NULL company_id"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_company_match",
+      "name": "employer_company_match_created_at_not_null",
+      "kind": "n",
+      "definition": "NOT NULL created_at"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_company_match",
+      "name": "employer_company_match_employer_profile_id_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (employer_profile_id) REFERENCES employer_profile(employer_profile_id) ON DELETE CASCADE"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_company_match",
+      "name": "employer_company_match_employer_profile_id_not_null",
+      "kind": "n",
+      "definition": "NOT NULL employer_profile_id"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_company_match",
+      "name": "employer_company_match_method_not_null",
+      "kind": "n",
+      "definition": "NOT NULL method"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_company_match",
+      "name": "employer_company_match_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (employer_profile_id, company_id)"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_company_match",
+      "name": "employer_company_match_status_check",
+      "kind": "c",
+      "definition": "CHECK ((status = ANY (ARRAY['auto'::text, 'candidate'::text, 'predicted'::text, 'verified'::text, 'rejected'::text])))"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_company_match",
+      "name": "employer_company_match_status_not_null",
+      "kind": "n",
+      "definition": "NOT NULL status"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_profile",
+      "name": "employer_profile_employer_profile_id_not_null",
+      "kind": "n",
+      "definition": "NOT NULL employer_profile_id"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_profile",
+      "name": "employer_profile_external_id_not_null",
+      "kind": "n",
+      "definition": "NOT NULL external_id"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_profile",
+      "name": "employer_profile_first_seen_at_not_null",
+      "kind": "n",
+      "definition": "NOT NULL first_seen_at"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_profile",
+      "name": "employer_profile_id_namespace_not_null",
+      "kind": "n",
+      "definition": "NOT NULL id_namespace"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_profile",
+      "name": "employer_profile_last_seen_at_not_null",
+      "kind": "n",
+      "definition": "NOT NULL last_seen_at"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_profile",
+      "name": "employer_profile_name_not_null",
+      "kind": "n",
+      "definition": "NOT NULL name"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_profile",
+      "name": "employer_profile_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (employer_profile_id)"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_profile",
+      "name": "employer_profile_publisher_type_check",
+      "kind": "c",
+      "definition": "CHECK ((publisher_type = ANY (ARRAY['employer'::text, 'agency'::text, 'unknown'::text])))"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_profile",
+      "name": "employer_profile_publisher_type_not_null",
+      "kind": "n",
+      "definition": "NOT NULL publisher_type"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_profile",
+      "name": "employer_profile_source_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (source) REFERENCES vacancy_source(code)"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_profile",
+      "name": "employer_profile_source_id_namespace_external_id_key",
+      "kind": "u",
+      "definition": "UNIQUE (source, id_namespace, external_id)"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "employer_profile",
+      "name": "employer_profile_source_not_null",
+      "kind": "n",
+      "definition": "NOT NULL source"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "manual_review",
+      "name": "manual_review_check",
+      "kind": "c",
+      "definition": "CHECK (((vacancy_id IS NULL) <> (employer_profile_id IS NULL)))"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "manual_review",
+      "name": "manual_review_employer_profile_id_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (employer_profile_id) REFERENCES employer_profile(employer_profile_id) ON DELETE CASCADE"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "manual_review",
+      "name": "manual_review_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (review_id)"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "manual_review",
+      "name": "manual_review_review_id_not_null",
+      "kind": "n",
+      "definition": "NOT NULL review_id"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "manual_review",
+      "name": "manual_review_reviewed_at_not_null",
+      "kind": "n",
+      "definition": "NOT NULL reviewed_at"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "manual_review",
+      "name": "manual_review_reviewed_by_not_null",
+      "kind": "n",
+      "definition": "NOT NULL reviewed_by"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "manual_review",
+      "name": "manual_review_vacancy_id_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (vacancy_id) REFERENCES vacancy(vacancy_id) ON DELETE CASCADE"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "manual_review",
+      "name": "manual_review_verdict_check",
+      "kind": "c",
+      "definition": "CHECK ((verdict = ANY (ARRAY['vpk'::text, 'not_vpk'::text, 'unclear'::text])))"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "manual_review",
+      "name": "manual_review_verdict_not_null",
+      "kind": "n",
+      "definition": "NOT NULL verdict"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "name": "vacancy_check",
+      "kind": "c",
+      "definition": "CHECK ((last_seen_at >= first_seen_at))"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "name": "vacancy_employer_profile_id_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (employer_profile_id) REFERENCES employer_profile(employer_profile_id)"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "name": "vacancy_external_id_not_null",
+      "kind": "n",
+      "definition": "NOT NULL external_id"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "name": "vacancy_first_seen_at_not_null",
+      "kind": "n",
+      "definition": "NOT NULL first_seen_at"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "name": "vacancy_is_active_not_null",
+      "kind": "n",
+      "definition": "NOT NULL is_active"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "name": "vacancy_last_seen_at_not_null",
+      "kind": "n",
+      "definition": "NOT NULL last_seen_at"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "name": "vacancy_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (vacancy_id)"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "name": "vacancy_region_id_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (region_id) REFERENCES region(region_id)"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "name": "vacancy_source_external_id_key",
+      "kind": "u",
+      "definition": "UNIQUE (source, external_id)"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "name": "vacancy_source_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (source) REFERENCES vacancy_source(code)"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "name": "vacancy_source_not_null",
+      "kind": "n",
+      "definition": "NOT NULL source"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "name": "vacancy_title_not_null",
+      "kind": "n",
+      "definition": "NOT NULL title"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "name": "vacancy_url_not_null",
+      "kind": "n",
+      "definition": "NOT NULL url"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy",
+      "name": "vacancy_vacancy_id_not_null",
+      "kind": "n",
+      "definition": "NOT NULL vacancy_id"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_classification",
+      "name": "vacancy_classification_level_check",
+      "kind": "c",
+      "definition": "CHECK ((level = ANY (ARRAY['confirmed'::text, 'likely'::text, 'review'::text, 'no'::text, 'out_of_scope'::text])))"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_classification",
+      "name": "vacancy_classification_level_not_null",
+      "kind": "n",
+      "definition": "NOT NULL level"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_classification",
+      "name": "vacancy_classification_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (run_id, vacancy_id)"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_classification",
+      "name": "vacancy_classification_raw_label_not_null",
+      "kind": "n",
+      "definition": "NOT NULL raw_label"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_classification",
+      "name": "vacancy_classification_run_id_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (run_id) REFERENCES classifier_run(run_id) ON DELETE CASCADE"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_classification",
+      "name": "vacancy_classification_run_id_not_null",
+      "kind": "n",
+      "definition": "NOT NULL run_id"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_classification",
+      "name": "vacancy_classification_vacancy_id_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (vacancy_id) REFERENCES vacancy(vacancy_id) ON DELETE CASCADE"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_classification",
+      "name": "vacancy_classification_vacancy_id_not_null",
+      "kind": "n",
+      "definition": "NOT NULL vacancy_id"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_company_match",
+      "name": "vacancy_company_match_check",
+      "kind": "c",
+      "definition": "CHECK (((status <> 'verified'::text) OR ((reviewed_by IS NOT NULL) AND (reviewed_at IS NOT NULL) AND (evidence IS NOT NULL))))"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_company_match",
+      "name": "vacancy_company_match_company_id_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (company_id) REFERENCES company(company_id) ON DELETE CASCADE"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_company_match",
+      "name": "vacancy_company_match_company_id_not_null",
+      "kind": "n",
+      "definition": "NOT NULL company_id"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_company_match",
+      "name": "vacancy_company_match_created_at_not_null",
+      "kind": "n",
+      "definition": "NOT NULL created_at"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_company_match",
+      "name": "vacancy_company_match_method_not_null",
+      "kind": "n",
+      "definition": "NOT NULL method"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_company_match",
+      "name": "vacancy_company_match_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (vacancy_id, company_id, method)"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_company_match",
+      "name": "vacancy_company_match_status_check",
+      "kind": "c",
+      "definition": "CHECK ((status = ANY (ARRAY['candidate'::text, 'predicted'::text, 'verified'::text, 'rejected'::text])))"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_company_match",
+      "name": "vacancy_company_match_status_not_null",
+      "kind": "n",
+      "definition": "NOT NULL status"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_company_match",
+      "name": "vacancy_company_match_vacancy_id_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (vacancy_id) REFERENCES vacancy(vacancy_id) ON DELETE CASCADE"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_company_match",
+      "name": "vacancy_company_match_vacancy_id_not_null",
+      "kind": "n",
+      "definition": "NOT NULL vacancy_id"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_discovery",
+      "name": "vacancy_discovery_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (vacancy_id, route)"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_discovery",
+      "name": "vacancy_discovery_route_not_null",
+      "kind": "n",
+      "definition": "NOT NULL route"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_discovery",
+      "name": "vacancy_discovery_vacancy_id_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (vacancy_id) REFERENCES vacancy(vacancy_id) ON DELETE CASCADE"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_discovery",
+      "name": "vacancy_discovery_vacancy_id_not_null",
+      "kind": "n",
+      "definition": "NOT NULL vacancy_id"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_hh",
+      "name": "vacancy_hh_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (vacancy_id)"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_hh",
+      "name": "vacancy_hh_vacancy_id_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (vacancy_id) REFERENCES vacancy(vacancy_id) ON DELETE CASCADE"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_hh",
+      "name": "vacancy_hh_vacancy_id_not_null",
+      "kind": "n",
+      "definition": "NOT NULL vacancy_id"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_snapshot",
+      "name": "vacancy_snapshot_fetched_at_not_null",
+      "kind": "n",
+      "definition": "NOT NULL fetched_at"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_snapshot",
+      "name": "vacancy_snapshot_format_check",
+      "kind": "c",
+      "definition": "CHECK ((format = ANY (ARRAY['html'::text, 'json'::text])))"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_snapshot",
+      "name": "vacancy_snapshot_format_not_null",
+      "kind": "n",
+      "definition": "NOT NULL format"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_snapshot",
+      "name": "vacancy_snapshot_path_not_null",
+      "kind": "n",
+      "definition": "NOT NULL path"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_snapshot",
+      "name": "vacancy_snapshot_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (vacancy_id, fetched_at)"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_snapshot",
+      "name": "vacancy_snapshot_vacancy_id_fkey",
+      "kind": "f",
+      "definition": "FOREIGN KEY (vacancy_id) REFERENCES vacancy(vacancy_id) ON DELETE CASCADE"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_snapshot",
+      "name": "vacancy_snapshot_vacancy_id_not_null",
+      "kind": "n",
+      "definition": "NOT NULL vacancy_id"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_source",
+      "name": "vacancy_source_code_not_null",
+      "kind": "n",
+      "definition": "NOT NULL code"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_source",
+      "name": "vacancy_source_name_not_null",
+      "kind": "n",
+      "definition": "NOT NULL name"
+    },
+    {
+      "table_schema": "public",
+      "table_name": "vacancy_source",
+      "name": "vacancy_source_pkey",
+      "kind": "p",
+      "definition": "PRIMARY KEY (code)"
+    }
+  ],
+  "indexes": [
+    {
+      "schemaname": "public",
+      "tablename": "classification_evidence",
+      "indexname": "classification_evidence_vacancy_idx",
+      "indexdef": "CREATE INDEX classification_evidence_vacancy_idx ON public.classification_evidence USING btree (run_id, vacancy_id)"
+    },
+    {
+      "schemaname": "public",
+      "tablename": "classifier_run",
+      "indexname": "classifier_run_pkey",
+      "indexdef": "CREATE UNIQUE INDEX classifier_run_pkey ON public.classifier_run USING btree (run_id)"
+    },
+    {
+      "schemaname": "public",
+      "tablename": "company",
+      "indexname": "company_country_idx",
+      "indexdef": "CREATE INDEX company_country_idx ON public.company USING btree (country_id)"
+    },
+    {
+      "schemaname": "public",
+      "tablename": "company",
+      "indexname": "company_gur_id_key",
+      "indexdef": "CREATE UNIQUE INDEX company_gur_id_key ON public.company USING btree (gur_id)"
+    },
+    {
+      "schemaname": "public",
+      "tablename": "company",
+      "indexname": "company_inn_idx",
+      "indexdef": "CREATE INDEX company_inn_idx ON public.company USING btree (inn)"
+    },
+    {
+      "schemaname": "public",
+      "tablename": "company",
+      "indexname": "company_ogrn_idx",
+      "indexdef": "CREATE INDEX company_ogrn_idx ON public.company USING btree (ogrn)"
+    },
+    {
+      "schemaname": "public",
+      "tablename": "company",
+      "indexname": "company_pkey",
+      "indexdef": "CREATE UNIQUE INDEX company_pkey ON public.company USING btree (company_id)"
+    },
+    {
+      "schemaname": "public",
+      "tablename": "employer_classification",
+      "indexname": "employer_classification_pkey",
+      "indexdef": "CREATE UNIQUE INDEX employer_classification_pkey ON public.employer_classification USING btree (run_id, employer_profile_id)"
+    },
+    {
+      "schemaname": "public",
+      "tablename": "employer_company_match",
+      "indexname": "employer_company_match_company_idx",
+      "indexdef": "CREATE INDEX employer_company_match_company_idx ON public.employer_company_match USING btree (company_id)"
+    },
+    {
+      "schemaname": "public",
+      "tablename": "employer_company_match",
+      "indexname": "employer_company_match_pkey",
+      "indexdef": "CREATE UNIQUE INDEX employer_company_match_pkey ON public.employer_company_match USING btree (employer_profile_id, company_id)"
+    },
+    {
+      "schemaname": "public",
+      "tablename": "employer_profile",
+      "indexname": "employer_profile_inn_idx",
+      "indexdef": "CREATE INDEX employer_profile_inn_idx ON public.employer_profile USING btree (inn, kpp)"
+    },
+    {
+      "schemaname": "public",
+      "tablename": "employer_profile",
+      "indexname": "employer_profile_pkey",
+      "indexdef": "CREATE UNIQUE INDEX employer_profile_pkey ON public.employer_profile USING btree (employer_profile_id)"
+    },
+    {
+      "schemaname": "public",
+      "tablename": "employer_profile",
+      "indexname": "employer_profile_source_id_namespace_external_id_key",
+      "indexdef": "CREATE UNIQUE INDEX employer_profile_source_id_namespace_external_id_key ON public.employer_profile USING btree (source, id_namespace, external_id)"
+    },
+    {
+      "schemaname": "public",
+      "tablename": "manual_review",
+      "indexname": "manual_review_pkey",
+      "indexdef": "CREATE UNIQUE INDEX manual_review_pkey ON public.manual_review USING btree (review_id)"
+    },
+    {
+      "schemaname": "public",
+      "tablename": "vacancy",
+      "indexname": "vacancy_active_idx",
+      "indexdef": "CREATE INDEX vacancy_active_idx ON public.vacancy USING btree (source, is_active)"
+    },
+    {
+      "schemaname": "public",
+      "tablename": "vacancy",
+      "indexname": "vacancy_employer_idx",
+      "indexdef": "CREATE INDEX vacancy_employer_idx ON public.vacancy USING btree (employer_profile_id)"
+    },
+    {
+      "schemaname": "public",
+      "tablename": "vacancy",
+      "indexname": "vacancy_modified_idx",
+      "indexdef": "CREATE INDEX vacancy_modified_idx ON public.vacancy USING btree (modified_at)"
+    },
+    {
+      "schemaname": "public",
+      "tablename": "vacancy",
+      "indexname": "vacancy_pkey",
+      "indexdef": "CREATE UNIQUE INDEX vacancy_pkey ON public.vacancy USING btree (vacancy_id)"
+    },
+    {
+      "schemaname": "public",
+      "tablename": "vacancy",
+      "indexname": "vacancy_region_idx",
+      "indexdef": "CREATE INDEX vacancy_region_idx ON public.vacancy USING btree (region_id)"
+    },
+    {
+      "schemaname": "public",
+      "tablename": "vacancy",
+      "indexname": "vacancy_source_external_id_key",
+      "indexdef": "CREATE UNIQUE INDEX vacancy_source_external_id_key ON public.vacancy USING btree (source, external_id)"
+    },
+    {
+      "schemaname": "public",
+      "tablename": "vacancy_classification",
+      "indexname": "vacancy_classification_level_idx",
+      "indexdef": "CREATE INDEX vacancy_classification_level_idx ON public.vacancy_classification USING btree (run_id, level)"
+    },
+    {
+      "schemaname": "public",
+      "tablename": "vacancy_classification",
+      "indexname": "vacancy_classification_pkey",
+      "indexdef": "CREATE UNIQUE INDEX vacancy_classification_pkey ON public.vacancy_classification USING btree (run_id, vacancy_id)"
+    },
+    {
+      "schemaname": "public",
+      "tablename": "vacancy_company_match",
+      "indexname": "vacancy_company_match_company_idx",
+      "indexdef": "CREATE INDEX vacancy_company_match_company_idx ON public.vacancy_company_match USING btree (company_id)"
+    },
+    {
+      "schemaname": "public",
+      "tablename": "vacancy_company_match",
+      "indexname": "vacancy_company_match_pkey",
+      "indexdef": "CREATE UNIQUE INDEX vacancy_company_match_pkey ON public.vacancy_company_match USING btree (vacancy_id, company_id, method)"
+    },
+    {
+      "schemaname": "public",
+      "tablename": "vacancy_discovery",
+      "indexname": "vacancy_discovery_pkey",
+      "indexdef": "CREATE UNIQUE INDEX vacancy_discovery_pkey ON public.vacancy_discovery USING btree (vacancy_id, route)"
+    },
+    {
+      "schemaname": "public",
+      "tablename": "vacancy_hh",
+      "indexname": "vacancy_hh_pkey",
+      "indexdef": "CREATE UNIQUE INDEX vacancy_hh_pkey ON public.vacancy_hh USING btree (vacancy_id)"
+    },
+    {
+      "schemaname": "public",
+      "tablename": "vacancy_snapshot",
+      "indexname": "vacancy_snapshot_pkey",
+      "indexdef": "CREATE UNIQUE INDEX vacancy_snapshot_pkey ON public.vacancy_snapshot USING btree (vacancy_id, fetched_at)"
+    },
+    {
+      "schemaname": "public",
+      "tablename": "vacancy_source",
+      "indexname": "vacancy_source_pkey",
+      "indexdef": "CREATE UNIQUE INDEX vacancy_source_pkey ON public.vacancy_source USING btree (code)"
+    }
+  ],
+  "triggers": [],
+  "enums": []
+}

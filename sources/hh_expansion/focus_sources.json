@@ -1,0 +1,30 @@
+{
+  "observed_at": "2026-10-05T17:20:18.286496+00:00",
+  "sources": [
+    {
+      "url": "https://war-sanctions.gur.gov.ua/ru/uav/companies",
+      "reported": 162,
+      "collected": 162,
+      "complete": true
+    },
+    {
+      "url": "https://war-sanctions.gur.gov.ua/ru/ballistics/iskander/companies",
+      "reported": 87,
+      "collected": 87,
+      "complete": true
+    },
+    {
+      "url": "https://war-sanctions.gur.gov.ua/ru/page-umpk-pd",
+      "coverage": "Russian legal-entity links shown on the public weapon page; not an exhaustive supply chain"
+    },
+    {
+      "url": "https://war-sanctions.gur.gov.ua/ru/page-umpb",
+      "coverage": "Russian legal-entity links shown on the public weapon page; not an exhaustive supply chain"
+    },
+    {
+      "url": "https://war-sanctions.gur.gov.ua/ru/page-geran-3",
+      "coverage": "Russian legal-entity links shown on the public weapon page; not an exhaustive supply chain"
+    }
+  ],
+  "companies": 263
+}

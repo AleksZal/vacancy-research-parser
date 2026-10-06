@@ -1,0 +1,16 @@
+{
+  "files.exclude": {
+    "**/__pycache__": true,
+    ".venv": true,
+    ".browser-cache": true,
+    "tmp": true
+  },
+  "search.exclude": {
+    ".venv/**": true,
+    ".browser-cache/**": true,
+    "tmp/**": true,
+    "data/**/raw/**": true,
+    "sources/**/snapshots/**": true,
+    "outputs/**": true
+  }
+}

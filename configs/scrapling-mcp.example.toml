@@ -1,0 +1,6 @@
+# Optional example only. Not installed or applied to Codex configuration.
+# First install: uv pip install --python .venv\Scripts\python.exe "scrapling[ai]==0.4.15"
+[mcp_servers.scrapling]
+command = 'C:\Users\aleks\Desktop\projects\Парсинг\.venv\Scripts\scrapling-mcp.exe'
+startup_timeout_sec = 30
+tool_timeout_sec = 60

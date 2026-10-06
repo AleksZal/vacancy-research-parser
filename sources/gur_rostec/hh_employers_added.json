@@ -1,0 +1,883 @@
+[
+  {
+    "id": "48591",
+    "name": "Уральский приборостроительный завод",
+    "profile_url": "https://hh.ru/employer/48591",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3371",
+    "gur_id": "3371",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"УРАЛЬСКИЙ ПРИБОРОСТРОИТЕЛЬНЫЙ ЗАВОД\"",
+    "gur_inn": "6660000400",
+    "gur_ogrn": "1026604954023",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://upz.ru/about/"
+    ],
+    "hh_website": "http://www.upz.ru",
+    "hh_identity_snapshot_vacancy_id": "136815545",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "8942210",
+    "name": "НИИП имени В.В.Тихомирова",
+    "profile_url": "https://hh.ru/employer/8942210",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/782",
+    "gur_id": "782",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ПРИБОРОСТРОЕНИЯ ИМЕНИ В.В. ТИХОМИРОВА\"",
+    "gur_inn": "5013045054",
+    "gur_ogrn": "1025001627859",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://www.niip.ru/"
+    ],
+    "hh_website": "http://www.niip.ru",
+    "hh_identity_snapshot_vacancy_id": "137444371",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "1216580",
+    "name": "Уфимское приборостроительное производственное объединение",
+    "profile_url": "https://hh.ru/employer/1216580",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3494",
+    "gur_id": "3494",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"УФИМСКОЕ ПРИБОРОСТРОИТЕЛЬНОЕ ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ\"",
+    "gur_inn": "276140862",
+    "gur_ogrn": "1120280026130",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://uppo.ru/",
+      "https://uppo.ru/product/izdeliya-v-oblasti-elektrozaryadnoy-infrastruktury/mnogokanalnaya-zaryadnaya-stantsiya-dlya-akb-bpla/#desc"
+    ],
+    "hh_website": "https://uppo.ru",
+    "hh_identity_snapshot_vacancy_id": "137836809",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "1750736",
+    "name": "НПП Исток им. Шокина",
+    "profile_url": "https://hh.ru/employer/1750736",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/354",
+    "gur_id": "354",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ПРОИЗВОДСТВЕННОЕ ПРЕДПРИЯТИЕ \"ИСТОК\" ИМЕНИ А. И. ШОКИНА\"",
+    "gur_inn": "5050108496",
+    "gur_ogrn": "1135050007400",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://istokmw.ru/about-us/general-information/"
+    ],
+    "hh_website": "https://istokmw.ru/?ysclid=m9cwpx82qi47504439",
+    "hh_identity_snapshot_vacancy_id": "137995106",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "544263",
+    "name": "ДКБА",
+    "profile_url": "https://hh.ru/employer/544263",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/2460",
+    "gur_id": "2460",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ДОЛГОПРУДНЕНСКОЕ КОНСТРУКТОРСКОЕ БЮРО АВТОМАТИКИ\"",
+    "gur_inn": "5008058393",
+    "gur_ogrn": "1125047004873",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://www.dkba.ru/news/ao-dkba-peredajot-meteotenty-dlya-ispolzovaniya-v-zone-svo"
+    ],
+    "hh_website": "http://dkba.ru",
+    "hh_identity_snapshot_vacancy_id": "137335553",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "1066567",
+    "name": "Научно-исследовательский институт полупроводниковых приборов",
+    "profile_url": "https://hh.ru/employer/1066567",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3614",
+    "gur_id": "3614",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ПОЛУПРОВОДНИКОВЫХ ПРИБОРОВ\"",
+    "gur_inn": "7017084932",
+    "gur_ogrn": "1037000170690",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://www.niipp.ru/"
+    ],
+    "hh_website": "http://niipp.ru",
+    "hh_identity_snapshot_vacancy_id": "136763770",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "2653784",
+    "name": "Новосибирский завод полупроводниковых приборов Восток",
+    "profile_url": "https://hh.ru/employer/2653784",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/4645",
+    "gur_id": "4645",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НОВОСИБИРСКИЙ ЗАВОД ПОЛУПРОВОДНИКОВЫХ ПРИБОРОВ ВОСТОК\"",
+    "gur_inn": "5402546039",
+    "gur_ogrn": "1115476167180",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://nzpp.ru/",
+      "https://nzpp.ru/company/index.php"
+    ],
+    "hh_website": "http://www.nzpp.ru",
+    "hh_identity_snapshot_vacancy_id": "132733994",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "3184209",
+    "name": "ТЗ Октябрь",
+    "profile_url": "https://hh.ru/employer/3184209",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/2513",
+    "gur_id": "2513",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТАМБОВСКИЙ ЗАВОД \"ОКТЯБРЬ\"",
+    "gur_inn": "6829014768",
+    "gur_ogrn": "1056882340173",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://oktabr-tz.ru/about.html",
+      "https://oktabr-tz.ru/news/sbor-gumanitarnoj-pomoshhi-dlya-bojcov-svo.html",
+      "https://oktabr-tz.ru/news/zavody-oktyabr-i-revtrud-prinyali-uchastie-v-blagotvoritelnoj-akcii1.html"
+    ],
+    "hh_website": "http://oktabr-tz.ru/",
+    "hh_identity_snapshot_vacancy_id": "136978133",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "3919105",
+    "name": "Радиозавод",
+    "profile_url": "https://hh.ru/employer/3919105",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/2488",
+    "gur_id": "2488",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РАДИОЗАВОД\"",
+    "gur_inn": "5835049799",
+    "gur_ogrn": "1045802500336",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://www.penza-radiozavod.ru/o-kompanii/"
+    ],
+    "hh_website": "http://www.penza-radiozavod.ru/",
+    "hh_identity_snapshot_vacancy_id": "137780923",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "2200785",
+    "name": "Рязанский Радиозавод",
+    "profile_url": "https://hh.ru/employer/2200785",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/2491",
+    "gur_id": "2491",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РЯЗАНСКИЙ РАДИОЗАВОД\"",
+    "gur_inn": "6231006875",
+    "gur_ogrn": "1026201260447",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://radiozavod.ru/catalog/",
+      "https://radiozavod.ru/news/ryazanskij-radiozavod-poluchil-priz-foruma-armiya-2023/"
+    ],
+    "hh_website": "http://www.radiozavod.ru",
+    "hh_identity_snapshot_vacancy_id": "136899886",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "547453",
+    "name": "Алмаз",
+    "profile_url": "https://hh.ru/employer/547453",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/2458",
+    "gur_id": "2458",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"АЛМАЗ\"",
+    "gur_inn": "6166055693",
+    "gur_ogrn": "1066166001813",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://almazrostov.ru/company/"
+    ],
+    "hh_website": "https://almazrostov.ru/",
+    "hh_identity_snapshot_vacancy_id": "137162513",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "160759",
+    "name": "Концерн Автоматика",
+    "profile_url": "https://hh.ru/employer/160759",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/1843",
+    "gur_id": "1843",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"КОНЦЕРН \"АВТОМАТИКА\"",
+    "gur_inn": "7715906332",
+    "gur_ogrn": "1127746139564",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://www.ao-avtomatika.ru/about/",
+      "https://www.ao-avtomatika.ru/catalog/products/kupol-pro/"
+    ],
+    "hh_website": "https://www.ao-avtomatika.ru/",
+    "hh_identity_snapshot_vacancy_id": "133912909",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "160125",
+    "name": "ИНЭУМ им. И.С. Брука",
+    "profile_url": "https://hh.ru/employer/160125",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3483",
+    "gur_id": "3483",
+    "gur_legal_name": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ИНСТИТУТ ЭЛЕКТРОННЫХ УПРАВЛЯЮЩИХ МАШИН ИМ. И.С. БРУКА\"",
+    "gur_inn": "7736005096",
+    "gur_ogrn": "1027700297426",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://ineum.ru/"
+    ],
+    "hh_website": "http://www.ineum.ru",
+    "hh_identity_snapshot_vacancy_id": "137862480",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "227540",
+    "name": "Калужский электромеханический завод",
+    "profile_url": "https://hh.ru/employer/227540",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3465",
+    "gur_id": "3465",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"КАЛУЖСКИЙ ЭЛЕКТРОМЕХАНИЧЕСКИЙ ЗАВОД\"",
+    "gur_inn": "4027106964",
+    "gur_ogrn": "1114027007511",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "http://kemz-kaluga.ru/about"
+    ],
+    "hh_website": "http://www.kemz-kaluga.ru",
+    "hh_identity_snapshot_vacancy_id": "137563692",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "1863440",
+    "name": "БПО Прогресс",
+    "profile_url": "https://hh.ru/employer/1863440",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3458",
+    "gur_id": "3458",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"БАШКИРСКОЕ ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ \"ПРОГРЕСС\"",
+    "gur_inn": "0275076276",
+    "gur_ogrn": "1120280004888",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://magnetron.su/"
+    ],
+    "hh_website": "https://magnetron.su",
+    "hh_identity_snapshot_vacancy_id": "138039364",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "841097",
+    "name": "НИИ МАСШТАБ",
+    "profile_url": "https://hh.ru/employer/841097",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3484",
+    "gur_id": "3484",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ \"МАСШТАБ\"",
+    "gur_inn": "7802777108",
+    "gur_ogrn": "1127847056303",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://mashtab.org/o-kompanii/"
+    ],
+    "hh_website": "http://mashtab.org/",
+    "hh_identity_snapshot_vacancy_id": "137608788",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "2783",
+    "name": "НИЦЭВТ",
+    "profile_url": "https://hh.ru/employer/2783",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/2461",
+    "gur_id": "2461",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ЦЕНТР ЭЛЕКТРОННОЙ ВЫЧИСЛИТЕЛЬНОЙ ТЕХНИКИ\"",
+    "gur_inn": "7726019325",
+    "gur_ogrn": "1027700015298",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "http://nicevt.ru/2025/08/05/elementor-578/"
+    ],
+    "hh_website": "http://www.nicevt.ru",
+    "hh_identity_snapshot_vacancy_id": "137870962",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "2759641",
+    "name": "КНИИТМУ",
+    "profile_url": "https://hh.ru/employer/2759641",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/2476",
+    "gur_id": "2476",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"КАЛУЖСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ТЕЛЕМЕХАНИЧЕСКИХ УСТРОЙСТВ\"",
+    "gur_inn": "4027100480",
+    "gur_ogrn": "1104027002694",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://www.kniitmu.ru/"
+    ],
+    "hh_website": "http://www.kniitmu.ru/",
+    "hh_identity_snapshot_vacancy_id": "137912652",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "990888",
+    "name": "НИИ Вектор",
+    "profile_url": "https://hh.ru/employer/990888",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/428",
+    "gur_id": "428",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ \"ВЕКТОР\"",
+    "gur_inn": "7813491943",
+    "gur_ogrn": "1117847020400",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://nii-vektor.ru/"
+    ],
+    "hh_website": "http://www.nii-vektor.ru/",
+    "hh_identity_snapshot_vacancy_id": "138084243",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "12933277",
+    "name": "ЦНИТИ Техномаш",
+    "profile_url": "https://hh.ru/employer/12933277",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3609",
+    "gur_id": "3609",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЦЕНТРАЛЬНЫЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ТЕХНОЛОГИЧЕСКИЙ ИНСТИТУТ \"ТЕХНОМАШ\"",
+    "gur_inn": "7731014611",
+    "gur_ogrn": "1027739015853",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://cniti-technomash.ru/company/"
+    ],
+    "hh_website": "http://cniti-technomash.ru",
+    "hh_identity_snapshot_vacancy_id": "137406537",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "141915",
+    "name": "РНИИ Электронстандарт",
+    "profile_url": "https://hh.ru/employer/141915",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/1699",
+    "gur_id": "1699",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ \"ЭЛЕКТРОНСТАНДАРТ\"",
+    "gur_inn": "7810196298",
+    "gur_ogrn": "1027804880135",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://www.elstandart.spb.ru/ru/24-ob-institute/novosti.html",
+      "https://www.elstandart.spb.ru/ru/ob-institute.html"
+    ],
+    "hh_website": "http://www.elstandart.spb.ru",
+    "hh_identity_snapshot_vacancy_id": "137549832",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "534827",
+    "name": "ЦНИИ Электрон",
+    "profile_url": "https://hh.ru/employer/534827",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3629",
+    "gur_id": "3629",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЦЕНТРАЛЬНЫЙ НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ \"ЭЛЕКТРОН\"",
+    "gur_inn": "7802144666",
+    "gur_ogrn": "1027801538192",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://www.niielectron.ru/",
+      "https://www.niielectron.ru/ao-cnii-elektron-prinyal-uchastie-v-blagotvoritelnoj-programme-po-zakupke-dopolnitelnogo-oborudovaniya-snaryazheniya-i-ekipirovki-dlya-mobilizovannyh-grazhdan-i-dobrovolcev-sankt-peterburga/",
+      "https://www.niielectron.ru/cnii-elektron-posetil-vystavku-armiya-2023/"
+    ],
+    "hh_website": "https://www.niielectron.ru/",
+    "hh_identity_snapshot_vacancy_id": "138073107",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "1460675",
+    "name": "НПП ПУЛЬСАР",
+    "profile_url": "https://hh.ru/employer/1460675",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3565",
+    "gur_id": "3565",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ПРОИЗВОДСТВЕННОЕ ПРЕДПРИЯТИЕ \"ПУЛЬСАР\"",
+    "gur_inn": "7719846490",
+    "gur_ogrn": "1137746472599",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://pulsarnpp.ru/"
+    ],
+    "hh_website": "http://pulsarnpp.ru",
+    "hh_identity_snapshot_vacancy_id": "133813806",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "2005152",
+    "name": "НПЦ Вигстар",
+    "profile_url": "https://hh.ru/employer/2005152",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/2493",
+    "gur_id": "2493",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ПРОИЗВОДСТВЕННЫЙ ЦЕНТР \"ВИГСТАР\"",
+    "gur_inn": "7726687555",
+    "gur_ogrn": "1117746976379",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://www.vigstar.ru/images/publish/unsvs.pdf"
+    ],
+    "hh_website": "http://www.vigstar.ru",
+    "hh_identity_snapshot_vacancy_id": "137654459",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "638724",
+    "name": "Научно-исследовательский институт информационных технологий",
+    "profile_url": "https://hh.ru/employer/638724",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3578",
+    "gur_id": "3578",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ИНФОРМАЦИОННЫХ ТЕХНОЛОГИЙ\"",
+    "gur_inn": "6950145750",
+    "gur_ogrn": "1126952002825",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://www.aoniiit.ru/events/news/295-yubilejnoe-torzhestvo-niiit-ispolnilos-50-let.html"
+    ],
+    "hh_website": "https://www.aoniiit.ru/",
+    "hh_identity_snapshot_vacancy_id": "129720371",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "1793222",
+    "name": "Системы управления",
+    "profile_url": "https://hh.ru/employer/1793222",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3577",
+    "gur_id": "3577",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"СИСТЕМЫ УПРАВЛЕНИЯ\"",
+    "gur_inn": "7728767728",
+    "gur_ogrn": "1117746223858",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://oaosu.ru/about/directing/"
+    ],
+    "hh_website": "http://www.oaosu.ru/",
+    "hh_identity_snapshot_vacancy_id": "138063748",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "3372811",
+    "name": "Лыткаринский Завод Оптического Стекла",
+    "profile_url": "https://hh.ru/employer/3372811",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3478",
+    "gur_id": "3478",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЛЫТКАРИНСКИЙ ЗАВОД ОПТИЧЕСКОГО СТЕКЛА\"",
+    "gur_inn": "5026000300",
+    "gur_ogrn": "1025003178397",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://lzos.ru/"
+    ],
+    "hh_website": "http://lzos.ru/",
+    "hh_identity_snapshot_vacancy_id": "137751217",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "4279443",
+    "name": "НИИ Полюс им. М.Ф.Стельмаха",
+    "profile_url": "https://hh.ru/employer/4279443",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/149",
+    "gur_id": "149",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ \"ПОЛЮС\" ИМ. М.Ф. СТЕЛЬМАХА\"",
+    "gur_inn": "7728816598",
+    "gur_ogrn": "1127746646510",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://niipolyus.ru/company/history"
+    ],
+    "hh_website": "https://niipolyus.ru/",
+    "hh_identity_snapshot_vacancy_id": "138027754",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "2678572",
+    "name": "НПО Орион",
+    "profile_url": "https://hh.ru/employer/2678572",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3475",
+    "gur_id": "3475",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НПО \"ОРИОН\"",
+    "gur_inn": "7720770380",
+    "gur_ogrn": "1127747292738",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://orion-ir.ru/company/",
+      "https://orion-ir.ru/production/opticheskie-pribory/"
+    ],
+    "hh_website": "http://orion-ir.ru",
+    "hh_identity_snapshot_vacancy_id": "138021103",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "2664870",
+    "name": "Мегаполис ИТ",
+    "profile_url": "https://hh.ru/employer/2664870",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/15971",
+    "gur_id": "15971",
+    "gur_legal_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"МЕГАПОЛИС ИНФОРМАЦИОННЫЕ ТЕХНОЛОГИИ\"",
+    "gur_inn": "7734441107",
+    "gur_ogrn": "1217700108526",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://www.megapolis-it.ru/about"
+    ],
+    "hh_website": "http://megapolis-it.ru/",
+    "hh_identity_snapshot_vacancy_id": "137214118",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "3745329",
+    "name": "ОКБ АСТРОН",
+    "profile_url": "https://hh.ru/employer/3745329",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/12731",
+    "gur_id": "12731",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ОПТИКО-МЕХАНИЧЕСКОЕ КОНСТРУКТОРСКОЕ БЮРО \"АСТРОН\"",
+    "gur_inn": "5027224977",
+    "gur_ogrn": "1155027001690",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://astrohn.ru/about-us/"
+    ],
+    "hh_website": "https://astrohn.ru/",
+    "hh_identity_snapshot_vacancy_id": "134419993",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "917377",
+    "name": "ВР-Ресурс",
+    "profile_url": "https://hh.ru/employer/917377",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/318",
+    "gur_id": "318",
+    "gur_legal_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"ВР-РЕСУРС\"",
+    "gur_inn": "5027138478",
+    "gur_ogrn": "1085027009572",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://vrrs.ru/heliservice",
+      "https://vrrs.ru/vertodrom"
+    ],
+    "hh_website": "http://vrrs.ru",
+    "hh_identity_snapshot_vacancy_id": "135970023",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "1295180",
+    "name": "НПФ ТЕХИНКОМ",
+    "profile_url": "https://hh.ru/employer/1295180",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/5917",
+    "gur_id": "5917",
+    "gur_legal_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НАУЧНО-ПРОИЗВОДСТВЕННАЯ ФИРМА \"ТЕХИНКОМ\"",
+    "gur_inn": "7806102473",
+    "gur_ogrn": "1037816033530",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://frontkit.ru/o-kompanii/"
+    ],
+    "hh_website": "http://frontkit.ru/",
+    "hh_identity_snapshot_vacancy_id": "135015888",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "2842223",
+    "name": "РНЦ Прикладная химия (ГИПХ)",
+    "profile_url": "https://hh.ru/employer/2842223",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/9991",
+    "gur_id": "9991",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РОССИЙСКИЙ НАУЧНЫЙ ЦЕНТР \"ПРИКЛАДНАЯ ХИМИЯ (ГИПХ)\"",
+    "gur_inn": "7811753760",
+    "gur_ogrn": "1207800165264",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://giph.su/2022/04/",
+      "https://giph.su/o-predpriyatii/"
+    ],
+    "hh_website": "https://giph.su/",
+    "hh_identity_snapshot_vacancy_id": "136365326",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "2061965",
+    "name": "ФНПЦ НИИ прикладной химии",
+    "profile_url": "https://hh.ru/employer/2061965",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/371",
+    "gur_id": "371",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ФЕДЕРАЛЬНЫЙ НАУЧНО-ПРОИЗВОДСТВЕННЫЙ ЦЕНТР \"НАУЧНО-ИССЛЕДОВАТЕЛЬСКИЙ ИНСТИТУТ ПРИКЛАДНОЙ ХИМИИ\"",
+    "gur_inn": "5042120394",
+    "gur_ogrn": "1115042005638",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://niiph.ru/"
+    ],
+    "hh_website": "http://www.niiph.ru",
+    "hh_identity_snapshot_vacancy_id": "137214385",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "561040",
+    "name": "НПО ОКБ им.М.П. Симонова",
+    "profile_url": "https://hh.ru/employer/561040",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/12408",
+    "gur_id": "12408",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ \"ОПЫТНО-КОНСТРУКТОРСКОЕ БЮРО ИМЕНИ М.П. СИМОНОВА\"",
+    "gur_inn": "1661007166",
+    "gur_ogrn": "1021603886622",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "http://okbsimonova.ru/activities/repair/",
+      "http://okbsimonova.ru/press/gallery/kompleks_vozdushnoy_misheni_dan_m-73/"
+    ],
+    "hh_website": "http://okbsimonova.ru/",
+    "hh_identity_snapshot_vacancy_id": "135043323",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "3654805",
+    "name": "Мотовилиха - гражданское машиностроение",
+    "profile_url": "https://hh.ru/employer/3654805",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/5923",
+    "gur_id": "5923",
+    "gur_legal_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"МОТОВИЛИХА - ГРАЖДАНСКОЕ МАШИНОСТРОЕНИЕ\"",
+    "gur_inn": "5906034209",
+    "gur_ogrn": "1025901366611",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://mz.perm.ru/about/social_politics/vacancies/"
+    ],
+    "hh_website": "http://mz.perm.ru",
+    "hh_identity_snapshot_vacancy_id": "137722706",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "3624",
+    "name": "МПО Им. И.Румянцева",
+    "profile_url": "https://hh.ru/employer/3624",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3539",
+    "gur_id": "3539",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"МАШИНОСТРОИТЕЛЬНОЕ ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ ИМЕНИ И. РУМЯНЦЕВА\"",
+    "gur_inn": "7714081921",
+    "gur_ogrn": "1027739001025",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://mporum.tilda.ws/#rec609810138"
+    ],
+    "hh_website": "http://mporum.tilda.ws",
+    "hh_identity_snapshot_vacancy_id": "135334426",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "4501363",
+    "name": "Электромашиностроительный завод ВЭЛКОНТ",
+    "profile_url": "https://hh.ru/employer/4501363",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3542",
+    "gur_id": "3542",
+    "gur_legal_name": "ОТКРЫТОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЭЛЕКТРОМАШИНОСТРОИТЕЛЬНЫЙ ЗАВОД \"ВЭЛКОНТ\"",
+    "gur_inn": "4341009610",
+    "gur_ogrn": "1024300749087",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "http://velkont.ru/intervyu-generalnogo-direktora-oao-velkont-sergeya-borisovicha-obuhova-informacionnomu-portalu-pervoistochnik"
+    ],
+    "hh_website": "http://velkont.ru",
+    "hh_identity_snapshot_vacancy_id": "137852187",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "1154208",
+    "name": "Барнаултрансмаш",
+    "profile_url": "https://hh.ru/employer/1154208",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/10127",
+    "gur_id": "10127",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО ХОЛДИНГОВАЯ КОМПАНИЯ \"БАРНАУЛТРАНСМАШ\"",
+    "gur_inn": "2202000222",
+    "gur_ogrn": "1022201509395",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://barnaultransmash.ru/katalog"
+    ],
+    "hh_website": "http://barnaultransmash.ru",
+    "hh_identity_snapshot_vacancy_id": "133549881",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "1540476",
+    "name": "НПО ПКРВ",
+    "profile_url": "https://hh.ru/employer/1540476",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/11751",
+    "gur_id": "11751",
+    "gur_legal_name": "ОБЩЕСТВО С ОГРАНИЧЕННОЙ ОТВЕТСТВЕННОСТЬЮ \"НАУЧНО-ПРОИЗВОДСТВЕННОЕ ОБЪЕДИНЕНИЕ ПРОГРАММНЫЕ КОМПЛЕКСЫ РЕАЛЬНОГО ВРЕМЕНИ\"",
+    "gur_inn": "7105509736",
+    "gur_ogrn": "1107154016529",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://npo-pkrv.ru/about/"
+    ],
+    "hh_website": "https://npo-pkrv.ru/about/",
+    "hh_identity_snapshot_vacancy_id": "129027936",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "17831",
+    "name": "Объединенная Авиастроительная Корпорация",
+    "profile_url": "https://hh.ru/employer/17831",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/24",
+    "gur_id": "24",
+    "gur_legal_name": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ОБЪЕДИНЕННАЯ АВИАСТРОИТЕЛЬНАЯ КОРПОРАЦИЯ\"",
+    "gur_inn": "7708619320",
+    "gur_ogrn": "1067759884598",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://uacrussia.ru/ru/",
+      "https://uacrussia.ru/ru/corporation/",
+      "https://www.uacrussia.ru/ru/aircraft/lineup/military/",
+      "https://www.uacrussia.ru/ru/corporation/company/"
+    ],
+    "hh_website": "http://www.uacrussia.ru",
+    "hh_identity_snapshot_vacancy_id": "136982007",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "584327",
+    "name": "Туполев",
+    "profile_url": "https://hh.ru/employer/584327",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/163",
+    "gur_id": "163",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ТУПОЛЕВ\"",
+    "gur_inn": "7705313252",
+    "gur_ogrn": "1027739263056",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://www.tupolev.ru/planes/tu-22m3/",
+      "https://www.tupolev.ru/planes/tu-95ms/"
+    ],
+    "hh_website": "http://www.tupolev.ru",
+    "hh_identity_snapshot_vacancy_id": "138083691",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "1035731",
+    "name": "Ред Вингс",
+    "profile_url": "https://hh.ru/employer/1035731",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/763",
+    "gur_id": "763",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РЕД ВИНГС\"",
+    "gur_inn": "7732107883",
+    "gur_ogrn": "1027700281091",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://flyredwings.com/press/news/rossijskaya-aviakompaniya-red-wings-otmechaet-svoj-yubilej-25-let-deyatelnosti/"
+    ],
+    "hh_website": "https://flyredwings.com/",
+    "hh_identity_snapshot_vacancy_id": "135881078",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "1738",
+    "name": "Яковлев",
+    "profile_url": "https://hh.ru/employer/1738",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/131",
+    "gur_id": "131",
+    "gur_legal_name": "ПУБЛИЧНОЕ АКЦИОНЕРНОЕ ОБЩЕСТВО \"ЯКОВЛЕВ\"",
+    "gur_inn": "3807002509",
+    "gur_ogrn": "1023801428111",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://yakovlev.ru/about/mission/"
+    ],
+    "hh_website": "https://yakovlev.ru",
+    "hh_identity_snapshot_vacancy_id": "137566393",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "2223272",
+    "name": "ОДК-Сервис",
+    "profile_url": "https://hh.ru/employer/2223272",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/3351",
+    "gur_id": "3351",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"ОДК-СЕРВИС\"",
+    "gur_inn": "4705036363",
+    "gur_ogrn": "1074705000072",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://www.uecrus.com/about/structure/ao-odk-servis/"
+    ],
+    "hh_website": "https://www.uecrus.com/about/structure/ao-odk-servis/?ysclid=m6ysafwhrb367444672",
+    "hh_identity_snapshot_vacancy_id": "137505174",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "1481775",
+    "name": "Новые инструментальные решения",
+    "profile_url": "https://hh.ru/employer/1481775",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/10191",
+    "gur_id": "10191",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"НОВЫЕ ИНСТРУМЕНТАЛЬНЫЕ РЕШЕНИЯ\"",
+    "gur_inn": "7610081765",
+    "gur_ogrn": "1087610004327",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://www.zao-nir.com/about/"
+    ],
+    "hh_website": "http://www.zao-nir.com",
+    "hh_identity_snapshot_vacancy_id": "138064003",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  },
+  {
+    "id": "2742161",
+    "name": "Русская механика",
+    "profile_url": "https://hh.ru/employer/2742161",
+    "evidence_url": "https://war-sanctions.gur.gov.ua/ru/rostec/14143",
+    "gur_id": "14143",
+    "gur_legal_name": "АКЦИОНЕРНОЕ ОБЩЕСТВО \"РУССКАЯ МЕХАНИКА\"",
+    "gur_inn": "7610062924",
+    "gur_ogrn": "1047601613652",
+    "identity_match_method": "exact_normalized_name_and_company_specific_website",
+    "identity_evidence_urls": [
+      "https://go-rm.ru/about.html"
+    ],
+    "hh_website": "http://go-rm.ru",
+    "hh_identity_snapshot_vacancy_id": "135866019",
+    "legal_entity_identity_status": "tax_id_not_verified_on_hh",
+    "note": "Candidate employer matched to GUR by name and company website. HH tax ID is not verified; individual roles may be civilian."
+  }
+]

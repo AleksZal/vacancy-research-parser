@@ -1,0 +1,21 @@
+{
+  "prepared_at": "2026-10-05T17:24:26.589930+00:00",
+  "config": "C:\\Users\\aleks\\Desktop\\projects\\Парсинг\\hh_expanded_config.json",
+  "network_requests": 0,
+  "live_checkpoint_writes": 0,
+  "existing_searches": 107,
+  "expanded_searches": 2321,
+  "additional_searches": {
+    "focus": 48,
+    "candidate_employer": 177,
+    "gur_focus": 292,
+    "gur_name": 1163,
+    "region": 534
+  },
+  "original_seed_employers": 50,
+  "candidate_employers": 177,
+  "source_entity_entries": 979,
+  "source_region_segments": 89,
+  "broad_queries_partitioned": 6,
+  "coverage": "Additive candidate discovery; no promised vacancy count or exhaustive coverage"
+}

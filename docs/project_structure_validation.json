@@ -1,0 +1,26 @@
+{
+  "offline_tests_passed": 75,
+  "cli_checks": [
+    "hh_fast.py --help",
+    "-m vacancy_parser.hh_fast --help",
+    "hh_bulk.py --help",
+    "-m vacancy_parser.hh_bulk --help",
+    "hh_web.py --help",
+    "-m vacancy_parser.hh_web --help",
+    "hh_expand_scope.py --help",
+    "-m vacancy_parser.hh_expand_scope --help",
+    "collect.py --help",
+    "-m vacancy_parser.collect --help",
+    "parse_rostvertol.py --help",
+    "-m vacancy_parser.parse_rostvertol --help",
+    "hh_fast.py legacy expanded config dry run",
+    "-m vacancy_parser.hh_fast legacy expanded config dry run"
+  ],
+  "legacy_expansion_overwrite_guard": "passed",
+  "expanded_config_matches_checkpoint": true,
+  "scope_hash_matches": true,
+  "full_cards_retained": 20075,
+  "checkpoint_and_config_hashes_unchanged": true,
+  "network_collection_started": false,
+  "metadata_toml_valid": true
+}

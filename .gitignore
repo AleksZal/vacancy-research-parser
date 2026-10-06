@@ -1,0 +1,13 @@
+.venv/
+.browser-cache/
+__pycache__/
+tmp/
+data/
+*.pyc
+outputs/
+*.egg-info/
+build/
+dist/
+.env
+.env.*
+!.env.example
